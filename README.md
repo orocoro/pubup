@@ -30,5 +30,5 @@ against the Porta app code (no accounts, empty privacy manifest, location
 resolved once on device, network hosts as listed). If the app starts
 contacting a new service, update `HOSTS` in `tools/content.py`.
 
-This text is a careful draft, not legal advice. Have it reviewed against the
-Swiss FADP (nDSG) and, if you target EU users, the GDPR before relying on it.
+This text is a careful draft, not legal advice. The policy is written under Swiss law
+(FADP / nDSG); have it reviewed before relying on it.

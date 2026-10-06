@@ -69,9 +69,9 @@ PRIVACY = {
             "<li>{links} and official commune and portal websites: only when you open a link.</li>"
             "<li>Switzerland Tourism and partners ({photos}): photos in Discover.</li></ul>"),
         ("If you contact us", "<p>If you write to us by e-mail, we use your address and message only to answer you, and delete them when they are no longer needed for that.</p>"),
-        ("This website", "<p>This page is hosted on GitHub Pages. GitHub may log your IP address when you visit it, under the <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>. The page uses no cookies and no tracking.</p>"),
+        ("This website", "<p>This page is hosted on GitHub Pages by GitHub, Inc. in the United States. GitHub may log your IP address when you visit it, under the <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>; this can mean your IP address is processed abroad. The page uses no cookies and no tracking. E-mails to us are handled by Proton AG in Switzerland.</p>"),
         ("Children", "<p>The app is not directed at children and collects no data from anyone.</p>"),
-        ("Your rights", "<p>Under the Swiss Federal Act on Data Protection (FADP) and, where it applies, the GDPR, you can ask what data we hold about you and have it corrected or deleted. Because the app collects no personal data, this only concerns e-mails you send us. Write to <a href=\"mailto:{email}\">{email}</a>.</p>"),
+        ("Your rights and applicable law", "<p>This policy is governed by Swiss law, in particular the Federal Act on Data Protection (FADP). You can ask what data we hold about you and have it corrected or deleted. Because the app collects no personal data, this only concerns e-mails you send us. Write to <a href=\"mailto:{email}\">{email}</a>. You can also complain to the <a href=\"https://www.edoeb.admin.ch\">Federal Data Protection and Information Commissioner (FDPIC)</a>.</p>"),
         ("Changes", "<p>If the app ever starts handling data differently, we will update this page before the change ships.</p>"),
     ],
     "de": [
@@ -85,9 +85,9 @@ PRIVACY = {
             "<li>{links} sowie offizielle Gemeinde- und Portalseiten: nur, wenn Sie einen Link öffnen.</li>"
             "<li>Schweiz Tourismus und Partner ({photos}): Fotos in Discover.</li></ul>"),
         ("Wenn Sie uns schreiben", "<p>Wenn Sie uns per E-Mail kontaktieren, verwenden wir Ihre Adresse und Nachricht nur, um Ihnen zu antworten, und löschen sie, sobald sie dafür nicht mehr nötig sind.</p>"),
-        ("Diese Website", "<p>Diese Seite wird über GitHub Pages bereitgestellt. GitHub kann beim Aufruf Ihre IP-Adresse protokollieren, gemäss dem <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>. Die Seite verwendet keine Cookies und kein Tracking.</p>"),
+        ("Diese Website", "<p>Diese Seite wird über GitHub Pages von GitHub, Inc. in den USA bereitgestellt. GitHub kann beim Aufruf Ihre IP-Adresse protokollieren, gemäss dem <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>; Ihre IP-Adresse kann dabei im Ausland bearbeitet werden. Die Seite verwendet keine Cookies und kein Tracking. E-Mails an uns laufen über Proton AG in der Schweiz.</p>"),
         ("Kinder", "<p>Die App richtet sich nicht an Kinder und erhebt von niemandem Daten.</p>"),
-        ("Ihre Rechte", "<p>Nach dem Datenschutzgesetz (DSG) und, soweit anwendbar, der DSGVO können Sie Auskunft über Ihre Daten verlangen und deren Berichtigung oder Löschung beantragen. Da die App keine Personendaten erhebt, betrifft das nur E-Mails, die Sie uns senden. Schreiben Sie an <a href=\"mailto:{email}\">{email}</a>.</p>"),
+        ("Ihre Rechte und anwendbares Recht", "<p>Diese Erklärung untersteht Schweizer Recht, insbesondere dem Bundesgesetz über den Datenschutz (DSG). Sie können Auskunft über Ihre Daten verlangen und deren Berichtigung oder Löschung beantragen. Da die App keine Personendaten erhebt, betrifft das nur E-Mails, die Sie uns senden. Schreiben Sie an <a href=\"mailto:{email}\">{email}</a>. Sie können sich auch an den <a href=\"https://www.edoeb.admin.ch\">Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB)</a> wenden.</p>"),
         ("Änderungen", "<p>Sollte die App Daten künftig anders bearbeiten, passen wir diese Seite an, bevor die Änderung erscheint.</p>"),
     ],
     "fr": [
@@ -101,9 +101,9 @@ PRIVACY = {
             "<li>{links} et sites officiels des communes et portails : uniquement lorsque vous ouvrez un lien.</li>"
             "<li>Suisse Tourisme et partenaires ({photos}) : photos dans Discover.</li></ul>"),
         ("Si vous nous écrivez", "<p>Si vous nous contactez par e-mail, nous utilisons votre adresse et votre message uniquement pour vous répondre et les supprimons dès qu’ils ne sont plus nécessaires à cette fin.</p>"),
-        ("Ce site", "<p>Cette page est hébergée sur GitHub Pages. GitHub peut enregistrer votre adresse IP lors de votre visite, selon la <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>. La page n’utilise ni cookies ni pistage.</p>"),
+        ("Ce site", "<p>Cette page est hébergée sur GitHub Pages par GitHub, Inc. aux États-Unis. GitHub peut enregistrer votre adresse IP lors de votre visite, selon la <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a> ; votre adresse IP peut ainsi être traitée à l’étranger. La page n’utilise ni cookies ni pistage. Les e-mails qui nous sont adressés transitent par Proton AG, en Suisse.</p>"),
         ("Enfants", "<p>L’app ne s’adresse pas aux enfants et ne collecte aucune donnée, de personne.</p>"),
-        ("Vos droits", "<p>Selon la loi fédérale sur la protection des données (LPD) et, le cas échéant, le RGPD, vous pouvez demander quelles données nous détenons sur vous et les faire rectifier ou effacer. Comme l’app ne collecte aucune donnée personnelle, cela ne concerne que les e-mails que vous nous envoyez. Écrivez à <a href=\"mailto:{email}\">{email}</a>.</p>"),
+        ("Vos droits et droit applicable", "<p>Cette politique est régie par le droit suisse, en particulier la loi fédérale sur la protection des données (LPD). Vous pouvez demander quelles données nous détenons sur vous et les faire rectifier ou effacer. Comme l’app ne collecte aucune donnée personnelle, cela ne concerne que les e-mails que vous nous envoyez. Écrivez à <a href=\"mailto:{email}\">{email}</a>. Vous pouvez aussi vous adresser au <a href=\"https://www.edoeb.admin.ch\">Préposé fédéral à la protection des données et à la transparence (PFPDT)</a>.</p>"),
         ("Modifications", "<p>Si l’app devait un jour traiter des données autrement, nous mettrons cette page à jour avant la publication du changement.</p>"),
     ],
     "it": [
@@ -117,9 +117,9 @@ PRIVACY = {
             "<li>{links} e siti ufficiali di comuni e portali: solo quando aprite un link.</li>"
             "<li>Svizzera Turismo e partner ({photos}): foto in Discover.</li></ul>"),
         ("Se ci scrivete", "<p>Se ci contattate via e-mail, usiamo il vostro indirizzo e il messaggio solo per rispondervi e li eliminiamo quando non servono più a tale scopo.</p>"),
-        ("Questo sito", "<p>Questa pagina è ospitata su GitHub Pages. GitHub può registrare il vostro indirizzo IP durante la visita, secondo il <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>. La pagina non usa cookie né tracciamento.</p>"),
+        ("Questo sito", "<p>Questa pagina è ospitata su GitHub Pages da GitHub, Inc. negli Stati Uniti. GitHub può registrare il vostro indirizzo IP durante la visita, secondo il <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>; il vostro indirizzo IP può quindi essere trattato all’estero. La pagina non usa cookie né tracciamento. Le e-mail che ci inviate passano per Proton AG, in Svizzera.</p>"),
         ("Bambini", "<p>L’app non è rivolta ai bambini e non raccoglie dati da nessuno.</p>"),
-        ("I vostri diritti", "<p>Secondo la legge federale sulla protezione dei dati (LPD) e, se applicabile, il GDPR, potete chiedere quali dati abbiamo su di voi e chiederne la rettifica o la cancellazione. Poiché l’app non raccoglie dati personali, ciò riguarda solo le e-mail che ci inviate. Scrivete a <a href=\"mailto:{email}\">{email}</a>.</p>"),
+        ("I vostri diritti e diritto applicabile", "<p>La presente informativa è disciplinata dal diritto svizzero, in particolare dalla legge federale sulla protezione dei dati (LPD). Potete chiedere quali dati abbiamo su di voi e chiederne la rettifica o la cancellazione. Poiché l’app non raccoglie dati personali, ciò riguarda solo le e-mail che ci inviate. Scrivete a <a href=\"mailto:{email}\">{email}</a>. Potete anche rivolgervi all’<a href=\"https://www.edoeb.admin.ch\">Incaricato federale della protezione dei dati e della trasparenza (IFPDT)</a>.</p>"),
         ("Modifiche", "<p>Se in futuro l’app dovesse trattare i dati in modo diverso, aggiorneremo questa pagina prima che la modifica venga pubblicata.</p>"),
     ],
 }
