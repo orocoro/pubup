@@ -1,0 +1,91 @@
+/* Sift legal pages — plain static CSS, no fonts loaded, no scripts, no tracking. */
+:root {
+  color-scheme: light dark;
+  --bg: #ffffff;
+  --ink: #1c1c1e;
+  --muted: #6b6b70;
+  --line: #e3e3e6;
+  --accent: #2f6feb;
+  --fill-bg: #fff4cc;
+  --fill-ink: #7a5c00;
+  --max: 42rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f0f11;
+    --ink: #f2f2f4;
+    --muted: #a1a1a6;
+    --line: #3a3a3d;
+    --accent: #7cb0ff;
+    --fill-bg: #3d3210;
+    --fill-ink: #f0d98a;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0 auto;
+  padding: 0 1.25rem 4rem;
+  max-width: var(--max);
+  color: var(--ink);
+  background: var(--bg);
+  font: 400 17px/1.65 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Segoe UI, sans-serif;
+  text-rendering: optimizeLegibility;
+}
+.mast { padding: 3.5rem 0 1rem; border-bottom: 1px solid var(--line); }
+.wordmark { margin: 0; font-size: 1.9rem; font-weight: 700; letter-spacing: -0.02em; }
+.wordmark a { color: inherit; text-decoration: none; }
+.doc { margin: 0.4rem 0 0; font-size: 1.6rem; font-weight: 700; letter-spacing: -0.01em; }
+.tagline { margin: 0.2rem 0 0; color: var(--muted); font-size: 0.95rem; }
+main { padding-top: 2rem; }
+h2 {
+  margin: 2.6rem 0 0.6rem;
+  font-size: 1.12rem;
+  letter-spacing: 0.01em;
+}
+h2:first-of-type { margin-top: 0; }
+p, li, dd, dt { overflow-wrap: break-word; }
+a { color: var(--accent); text-underline-offset: 2px; }
+.lede { font-size: 1.08rem; color: var(--muted); }
+.updated { color: var(--muted); font-size: 0.9rem; margin-top: 0; }
+strong { font-weight: 600; }
+ul.plain { padding-left: 1.1rem; margin: 0.6rem 0 0; }
+ul.plain li { margin: 0.45rem 0; }
+.cards { display: grid; gap: 0.9rem; margin: 1.6rem 0 0; }
+@media (min-width: 34rem) { .cards { grid-template-columns: 1fr 1fr; } }
+.card {
+  display: block;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  text-decoration: none;
+  color: inherit;
+}
+.card:hover { border-color: var(--accent); }
+.card-title { display: block; font-weight: 600; }
+.card-note { display: block; margin-top: 0.3rem; color: var(--muted); font-size: 0.95rem; }
+dl.qa { margin: 1rem 0 0; }
+dl.qa dt { font-weight: 600; margin-top: 1.2rem; }
+dl.qa dd { margin: 0.2rem 0 0; color: var(--ink); }
+.prevnext { margin-top: 3rem; padding-top: 1.2rem; border-top: 1px solid var(--line); }
+.fill {
+  background: var(--fill-bg);
+  color: var(--fill-ink);
+  padding: 0 0.28em;
+  border-radius: 4px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.92em;
+}
+footer {
+  margin-top: 3.5rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+footer p { margin: 0; }
+.muted { color: var(--muted); }
+@media print {
+  body { max-width: none; font-size: 11pt; }
+  .card:hover { border-color: var(--line); }
+}
