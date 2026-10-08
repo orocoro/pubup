@@ -33,13 +33,19 @@
     <li><strong>UserDefaults and available disk space</strong> — declared in the app's privacy
     manifest for ordinary app functioning: remembering your settings, refusing to write when the
     volume is full, and measuring how much free space a cleanup gave back.</li>
+    <li><strong>iCloud Photos</strong> — when you open a photo whose original is only in iCloud,
+    iOS downloads it from Apple. Picso itself has no server and makes no network requests of its own,
+    and background scans use only what is already on the phone.</li>
+    <li><strong>People grouping and photo location</strong> — similar faces are grouped on the
+    device by comparing image crops, without face recognition or profiles. A photo's location is
+    shown in its info panel only and is not stored or sent anywhere.</li>
     <li><strong>Shortcuts and Siri</strong> — the actions you run report counts from the scan on
     your device. They never delete anything and send nothing anywhere.</li>
   </ul>
 
   <h2>Photo Vault</h2>
   <p>With Picso Pro, the Photo Vault keeps a restorable copy of photos you delete. These copies are
-  stored only in Picso's storage on your iPhone, with file protection that keeps them encrypted while
+  stored only in Picso's storage on your iPhone, behind an optional Face ID or passcode lock, with file protection that keeps them encrypted while
   the device is locked. They are <strong>excluded from iCloud and device backups</strong>, so they
   are not restored when you set up a new phone or restore from a backup. Deleting Picso deletes the
   vault. Copies are removed automatically after the retention period you choose in the app (90 days
