@@ -13,7 +13,7 @@
   <h1 class="doc">Privacy Policy</h1>
 </header>
 <main>
-  <p class="updated">Last updated: 26 September 2026</p>
+  <p class="updated">Last updated: 8 October 2026</p>
 
   <h2>Short version</h2>
   <p>Picso processes your photo library <strong>on your device</strong>. We do not collect,
@@ -24,15 +24,27 @@
   <h2>What Picso accesses, and why</h2>
   <ul class="plain">
     <li><strong>Photo library</strong> — read to find blurry shots, duplicates and clips, and to
-    build the app's local index. Deletions and restorations happen only when you confirm them, and
-    they apply to your own library on your own device.</li>
+    build the app's local index, and written to add a photo to an album you choose while sorting.
+    Deletions, restorations and album changes happen only when you ask for them, and they apply to
+    your own library on your own device.</li>
     <li><strong>App storage on the device</strong> — the local index, your settings, and the
     recovery data the app keeps so it can undo what it changed.</li>
     <li><strong>StoreKit (Apple)</strong> — to check whether Picso Pro is active on this device.</li>
     <li><strong>UserDefaults and available disk space</strong> — declared in the app's privacy
-    manifest for ordinary app functioning: remembering your settings, and refusing to write when the
-    volume is full.</li>
+    manifest for ordinary app functioning: remembering your settings, refusing to write when the
+    volume is full, and measuring how much free space a cleanup gave back.</li>
+    <li><strong>Shortcuts and Siri</strong> — the actions you run report counts from the scan on
+    your device. They never delete anything and send nothing anywhere.</li>
   </ul>
+
+  <h2>Photo Vault</h2>
+  <p>With Picso Pro, the Photo Vault keeps a restorable copy of photos you delete. These copies are
+  stored only in Picso's storage on your iPhone, with file protection that keeps them encrypted while
+  the device is locked. They are <strong>excluded from iCloud and device backups</strong>, so they
+  are not restored when you set up a new phone or restore from a backup. Deleting Picso deletes the
+  vault. Copies are removed automatically after the retention period you choose in the app (90 days
+  unless you change it), and you can empty the vault at any time. You can also export vault copies to
+  the Files app; once exported, those files are wherever you saved them and under your control.</p>
 
   <h2>What Picso does not do</h2>
   <ul class="plain">
@@ -55,8 +67,8 @@
 
   <h2>Your rights, in practice</h2>
   <p>Because we hold nothing about you, there is nothing for us to export, correct or delete. Your
-  own copy is under your control: delete Picso to remove everything it stored, or delete individual
-  items from inside the app. If you want the App Store listing to reflect a data-safety declaration,
+  own copy is under your control: delete Picso to remove everything it stored, including the
+  Photo Vault, or delete individual items from inside the app. If you want the App Store listing to reflect a data-safety declaration,
   the truthful one for this build is <em>Data Not Collected</em>.</p>
 
   <h2>Purchases</h2>
@@ -75,7 +87,7 @@
   <p class="prevnext"><a href="terms.html">Terms of Use →</a></p>
 </main>
 <footer>
-  <p><a href="index.html">Picso legal</a> · <span class="muted">Effective 26 September 2026</span></p>
+  <p><a href="index.html">Picso legal</a> · <span class="muted">Effective 8 October 2026</span></p>
 </footer>
 </body>
 </html>
