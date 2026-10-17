@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Porta</title>
+<script>
+  var langs = ["en", "de", "fr", "it"];
+  var pick = (navigator.languages || [navigator.language || "en"])
+    .map(function (l) { return l.slice(0, 2).toLowerCase(); })
+    .find(function (l) { return langs.indexOf(l) >= 0; }) || "en";
+  location.replace(pick + "/privacy.html");
+</script>
+<noscript><meta http-equiv="refresh" content="0; url=en/privacy.html"></noscript>
+</head>
+<body><p><a href="en/privacy.html">privacy</a></p></body>
+</html>
