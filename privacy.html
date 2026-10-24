@@ -13,7 +13,7 @@
   <h1 class="doc">Privacy Policy</h1>
 </header>
 <main>
-  <p class="updated">Last updated: 23 October 2026</p>
+  <p class="updated">Last updated: 24 October 2026</p>
 
   <h2>Short version</h2>
   <p>Picso processes your photo library <strong>on your device</strong>. We do not collect,
@@ -50,8 +50,14 @@
     are stored only in the app's private storage on this iPhone. They are never uploaded, never
     shared with other apps or with us, never matched against any outside database, and never used
     for advertising, tracking or any purpose other than grouping your own photos. Picso does not know
-    who anyone is unless you type a name yourself. You can reset names and merges at any time in
-    People; deleting Picso deletes all face data with it.</li>
+    who anyone is unless you type a name yourself. Face data is excluded from iCloud and device
+    backups. You can reset names and merges at any time in People, delete all face data in
+    Settings &gt; People &gt; Delete Face Data, and deleting Picso deletes all face data with it.</li>
+    <li><strong>Place names in Recap</strong> (only while "Show places" is on in Settings) — to show
+    the town where a photo was taken, Picso asks Apple's map service (MapKit) for the place name,
+    sending only that photo's coordinates, never the photo itself. Apple handles this request under
+    Apple's privacy policy; Picso keeps the town name on the device. Turn "Show places" off to
+    keep everything on this iPhone.</li>
     <li><strong>App storage on the device</strong> — the local index and scan cache, your settings,
     your Decide Later and Skip lists, and the vault (below).</li>
     <li><strong>StoreKit (Apple)</strong> — to check whether Picso Pro is active on this device.</li>
@@ -84,8 +90,9 @@
 
   <h2>What Picso does not do</h2>
   <ul class="plain">
-    <li>No upload of photos, thumbnails, contacts, faces, locations, captions or index data.
-    Picso has no server and makes no network requests of its own.</li>
+    <li>No upload of photos, thumbnails, contacts, faces, captions or index data. Picso has no
+    server. The only request that leaves the device is the optional place-name lookup above, which
+    sends a photo's coordinates to Apple.</li>
     <li>No third-party analytics, no advertising SDK, no crash-reporting service. The app ships
     Apple's own frameworks only.</li>
     <li>No tracking across other apps or web sites, so no App Tracking Transparency prompt is
