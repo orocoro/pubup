@@ -58,6 +58,12 @@ HOSTS = {
     "geo": "api3.geo.admin.ch",
     "links": "ch.ch, alertswiss.ch",
     "photos": "myswitzerland.com, schweizmobil.ch, stnet.ch",
+    "tiles": "wmts.geo.admin.ch",
+    "weather": "data.geo.admin.ch",
+    "votes": "ogd-static.voteinfo-app.ch",
+    "slf": "aws.slf.ch",
+    "news": "www.newsd.admin.ch",
+    "cantons": "www.ai.ch, www.api.news.apps.be.ch, www.fr.ch, www.ge.ch, www.gr.ch, www.jura.ch, www.ne.ch, daten.sg.ch, www.tg.ch, www.ur.ch, www.vd.ch",
 }
 
 PRIVACY = {
@@ -69,6 +75,13 @@ PRIVACY = {
         ("Connections the app makes", "<p>To show content, the app contacts these public services directly from your device. They can see your IP address and handle it under their own privacy policies:</p><ul>"
             "<li>Federal Statistical Office ({bfs}): commune data.</li>"
             "<li>MeteoAlarm ({meteo}): weather warnings on the emergency card.</li>"
+            "<li>Federal Office of Topography swisstopo ({tiles}): national map tiles when a map is shown. The request reveals the map area being shown, not your location. Tiles already loaded stay in the app’s cache on your device.</li>"
+            "<li>MeteoSwiss ({weather}): weather forecasts on the commune page.</li>"
+            "<li>Federal Statistical Office ({votes}): results of federal votes.</li>"
+            "<li>WSL Institute for Snow and Avalanche Research SLF ({slf}): the avalanche bulletin in winter.</li>"
+            "<li>These three files each cover all of Switzerland, so the request does not reveal which commune you look at.</li>"
+            "<li>Federal Chancellery, News Service Bund ({news}): the latest federal press releases under “News &amp; Media”. The list is the same for all of Switzerland.</li>"
+            "<li>Your home canton, if it publishes its press releases as a feed ({cantons}): its latest press releases on “My commune”. The canton sees that someone loads its press releases, but not which commune you chose.</li>"
             "<li>{links} and other official federal, cantonal and commune websites: only when you open a link.</li>"
             "<li>Switzerland Tourism and partners ({photos}): photos in Discover.</li></ul>"),
         ("If you contact us", "<p>If you write to us by e-mail, we use your address and message only to answer you, and delete them when they are no longer needed for that.</p>"),
@@ -85,6 +98,13 @@ PRIVACY = {
         ("Verbindungen der App", "<p>Um Inhalte anzuzeigen, ruft die App diese öffentlichen Dienste direkt von Ihrem Gerät ab. Diese sehen dabei Ihre IP-Adresse und bearbeiten sie gemäss ihren eigenen Datenschutzbestimmungen:</p><ul>"
             "<li>Bundesamt für Statistik ({bfs}): Gemeindedaten.</li>"
             "<li>MeteoAlarm ({meteo}): Wetterwarnungen auf der Notruf-Karte.</li>"
+            "<li>Bundesamt für Landestopografie swisstopo ({tiles}): Kartenausschnitte der Landeskarte, wenn eine Karte angezeigt wird. Dabei wird der gezeigte Kartenausschnitt übermittelt, nicht Ihr Standort. Bereits geladene Ausschnitte bleiben im Zwischenspeicher der App auf Ihrem Gerät.</li>"
+            "<li>MeteoSchweiz ({weather}): Wetterprognosen auf der Gemeindeseite.</li>"
+            "<li>Bundesamt für Statistik ({votes}): Resultate eidgenössischer Abstimmungen.</li>"
+            "<li>WSL-Institut für Schnee- und Lawinenforschung SLF ({slf}): im Winter das Lawinenbulletin.</li>"
+            "<li>Diese drei Dateien gelten jeweils für die ganze Schweiz; die Anfrage verrät also nicht, welche Gemeinde Sie ansehen.</li>"
+            "<li>Schweizerische Bundeskanzlei, News Service Bund ({news}): die neusten Medienmitteilungen des Bundes unter «News &amp; Medien». Die Liste ist für die ganze Schweiz dieselbe.</li>"
+            "<li>Ihr Wohnkanton, wenn er seine Medienmitteilungen als Feed veröffentlicht ({cantons}): seine neusten Medienmitteilungen auf «Meine Gemeinde». Der Kanton sieht dabei, dass jemand seine Mitteilungen lädt, aber nicht, welche Gemeinde Sie gewählt haben.</li>"
             "<li>{links} sowie weitere offizielle Seiten von Bund, Kantonen und Gemeinden: nur, wenn Sie einen Link öffnen.</li>"
             "<li>Schweiz Tourismus und Partner ({photos}): Fotos in Discover.</li></ul>"),
         ("Wenn Sie uns schreiben", "<p>Wenn Sie uns per E-Mail kontaktieren, verwenden wir Ihre Adresse und Nachricht nur, um Ihnen zu antworten, und löschen sie, sobald sie dafür nicht mehr nötig sind.</p>"),
@@ -101,6 +121,13 @@ PRIVACY = {
         ("Connexions de l’app", "<p>Pour afficher du contenu, l’app contacte directement depuis votre appareil les services publics suivants. Ils voient votre adresse IP et la traitent selon leur propre politique de confidentialité :</p><ul>"
             "<li>Office fédéral de la statistique ({bfs}) : données des communes.</li>"
             "<li>MeteoAlarm ({meteo}) : alertes météo sur la carte d’urgence.</li>"
+            "<li>Office fédéral de topographie swisstopo ({tiles}) : tuiles de la carte nationale lorsqu’une carte est affichée. La requête indique la zone affichée, pas votre position. Les tuiles déjà chargées restent dans le cache de l’app sur votre appareil.</li>"
+            "<li>MétéoSuisse ({weather}) : prévisions météo sur la page de la commune.</li>"
+            "<li>Office fédéral de la statistique ({votes}) : résultats des votations fédérales.</li>"
+            "<li>WSL Institut pour l’étude de la neige et des avalanches SLF ({slf}) : le bulletin d’avalanches en hiver.</li>"
+            "<li>Ces trois fichiers couvrent chacun toute la Suisse ; la requête ne révèle donc pas quelle commune vous consultez.</li>"
+            "<li>Chancellerie fédérale, News Service Bund ({news}) : les derniers communiqués de presse de la Confédération sous « Actualités &amp; médias ». La liste est la même pour toute la Suisse.</li>"
+            "<li>Votre canton de domicile, s’il publie ses communiqués sous forme de flux ({cantons}) : ses derniers communiqués sous « Ma commune ». Le canton voit alors que quelqu’un charge ses communiqués, mais pas quelle commune vous avez choisie.</li>"
             "<li>{links} et autres sites officiels de la Confédération, des cantons et des communes : uniquement lorsque vous ouvrez un lien.</li>"
             "<li>Suisse Tourisme et partenaires ({photos}) : photos dans Discover.</li></ul>"),
         ("Si vous nous écrivez", "<p>Si vous nous contactez par e-mail, nous utilisons votre adresse et votre message uniquement pour vous répondre et les supprimons dès qu’ils ne sont plus nécessaires à cette fin.</p>"),
@@ -117,6 +144,13 @@ PRIVACY = {
         ("Connessioni dell’app", "<p>Per mostrare i contenuti, l’app contatta direttamente dal vostro dispositivo i seguenti servizi pubblici. Questi vedono il vostro indirizzo IP e lo trattano secondo le proprie informative sulla privacy:</p><ul>"
             "<li>Ufficio federale di statistica ({bfs}): dati dei comuni.</li>"
             "<li>MeteoAlarm ({meteo}): allerte meteo sulla scheda emergenze.</li>"
+            "<li>Ufficio federale di topografia swisstopo ({tiles}): tasselli della carta nazionale quando viene mostrata una mappa. La richiesta indica la zona mostrata, non la vostra posizione. I tasselli già caricati restano nella cache dell’app sul vostro dispositivo.</li>"
+            "<li>MeteoSvizzera ({weather}): previsioni meteo sulla pagina del comune.</li>"
+            "<li>Ufficio federale di statistica ({votes}): risultati delle votazioni federali.</li>"
+            "<li>Istituto WSL per lo studio della neve e delle valanghe SLF ({slf}): il bollettino delle valanghe in inverno.</li>"
+            "<li>Questi tre file coprono ciascuno tutta la Svizzera; la richiesta non rivela quindi quale comune state consultando.</li>"
+            "<li>Cancelleria federale, News Service Bund ({news}): gli ultimi comunicati stampa della Confederazione in «Notizie &amp; media». L’elenco è lo stesso per tutta la Svizzera.</li>"
+            "<li>Il vostro Cantone di domicilio, se pubblica i suoi comunicati come feed ({cantons}): i suoi ultimi comunicati in «Il mio comune». Il Cantone vede così che qualcuno carica i suoi comunicati, ma non quale comune avete scelto.</li>"
             "<li>{links} e altri siti ufficiali di Confederazione, cantoni e comuni: solo quando aprite un link.</li>"
             "<li>Svizzera Turismo e partner ({photos}): foto in Discover.</li></ul>"),
         ("Se ci scrivete", "<p>Se ci contattate via e-mail, usiamo il vostro indirizzo e il messaggio solo per rispondervi e li eliminiamo quando non servono più a tale scopo.</p>"),
