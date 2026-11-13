@@ -6,18 +6,8 @@
  "notes": "One townhall per commune (amenity=townhall), keyed by BFS commune number. Opening hours are Monday..Sunday, '' = closed. Not confirmed by the communes.",
  "communes": [
   {
-   "bfs": 1,
-   "commune": "Aeugst am Albis",
-   "street": "Dorfstrasse 22",
-   "postcode": "8914",
-   "place": "Aeugst am Albis"
-  },
-  {
    "bfs": 2,
    "commune": "Affoltern am Albis",
-   "street": "Marktplatz 1",
-   "postcode": "8910",
-   "place": "Affoltern am Albis",
    "opening_hours_mo_su": [
     "08:00-11:30,13:30-18:30",
     "08:00-11:30,13:30-16:00",
@@ -31,9 +21,6 @@
   {
    "bfs": 3,
    "commune": "Bonstetten",
-   "street": "Am Rainli 2",
-   "postcode": "8906",
-   "place": "Bonstetten",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-16:30",
     "08:00-11:30,14:00-18:30",
@@ -43,27 +30,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 4,
-   "commune": "Hausen am Albis",
-   "street": "Zugerstrasse 10",
-   "postcode": "8915",
-   "place": "Hausen am Albis"
-  },
-  {
-   "bfs": 5,
-   "commune": "Hedingen",
-   "street": "Zürcherstrasse 27",
-   "postcode": "8908",
-   "place": "Hedingen"
-  },
-  {
-   "bfs": 6,
-   "commune": "Kappel am Albis",
-   "street": "Lindenfeld 2a",
-   "postcode": "8926",
-   "place": "Kappel am Albis"
   },
   {
    "bfs": 13,
@@ -92,18 +58,8 @@
    "email": "gemeindeverwaltung@wettswil.ch"
   },
   {
-   "bfs": 22,
-   "commune": "Benken (ZH)",
-   "street": "Alte Landstrasse 1",
-   "postcode": "8463",
-   "place": "Benken ZH"
-  },
-  {
    "bfs": 24,
    "commune": "Buch am Irchel",
-   "street": "Kirchstrasse 1",
-   "postcode": "8414",
-   "place": "Buch am Irchel",
    "opening_hours_mo_su": [
     "08:30-11:30,14:00-18:00",
     "08:30-11:30,14:00-16:00",
@@ -113,41 +69,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 27,
-   "commune": "Feuerthalen",
-   "street": "Trüllergasse 6",
-   "postcode": "8245",
-   "place": "Feuerthalen"
-  },
-  {
-   "bfs": 28,
-   "commune": "Flaach",
-   "street": "Wesenplatz 1",
-   "postcode": "8416",
-   "place": "Flaach"
-  },
-  {
-   "bfs": 29,
-   "commune": "Flurlingen",
-   "street": "Dorfstrasse 36",
-   "postcode": "8247",
-   "place": "Flurlingen"
-  },
-  {
-   "bfs": 33,
-   "commune": "Kleinandelfingen",
-   "street": "Kanzleistrasse 2",
-   "postcode": "8451",
-   "place": "Kleinandelfingen"
-  },
-  {
-   "bfs": 34,
-   "commune": "Laufen-Uhwiesen",
-   "street": "Dorfstrasse 28",
-   "postcode": "8248",
-   "place": "Uhwiesen"
   },
   {
    "bfs": 37,
@@ -163,46 +84,8 @@
    ]
   },
   {
-   "bfs": 38,
-   "commune": "Rheinau",
-   "street": "Schulstrasse",
-   "postcode": "8462",
-   "place": "Rheinau"
-  },
-  {
-   "bfs": 39,
-   "commune": "Thalheim an der Thur",
-   "street": "Thurtalstrasse 19",
-   "postcode": "8478",
-   "place": "Thalheim an der Thur"
-  },
-  {
-   "bfs": 40,
-   "commune": "Trüllikon",
-   "street": "Diessenhoferstrasse 11",
-   "postcode": "8466",
-   "place": "Trüllikon"
-  },
-  {
-   "bfs": 51,
-   "commune": "Bachenbülach",
-   "street": "Schulhausstrasse 1",
-   "postcode": "8184",
-   "place": "Bachenbülach"
-  },
-  {
-   "bfs": 52,
-   "commune": "Bassersdorf",
-   "street": "Karl-Hügin-Platz 1",
-   "postcode": "8303",
-   "place": "Bassersdorf"
-  },
-  {
    "bfs": 53,
    "commune": "Bülach",
-   "street": "Allmendstrasse 6",
-   "postcode": "8180",
-   "place": "Bülach",
    "opening_hours_mo_su": [
     "08:00-12:00,14:00-17:00",
     "08:00-12:00,14:00-17:00",
@@ -243,20 +126,6 @@
    ]
   },
   {
-   "bfs": 57,
-   "commune": "Freienstein-Teufen",
-   "street": "Dorfstrasse 7",
-   "postcode": "8427",
-   "place": "Freienstein"
-  },
-  {
-   "bfs": 59,
-   "commune": "Hochfelden",
-   "street": "Gemeindehausstrasse 4",
-   "postcode": "8182",
-   "place": "Hochfelden"
-  },
-  {
    "bfs": 62,
    "commune": "Kloten",
    "street": "Kirchgasse 7",
@@ -277,9 +146,6 @@
   {
    "bfs": 66,
    "commune": "Opfikon",
-   "street": "Oberhauserstrasse 25",
-   "postcode": "8152",
-   "place": "Glattbrugg",
    "opening_hours_mo_su": [
     "08:00-12:00,13:45-18:30",
     "08:00-12:00,13:45-16:30",
@@ -289,13 +155,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 72,
-   "commune": "Winkel",
-   "street": "Seebnerstrasse 19",
-   "postcode": "8185",
-   "place": "Winkel"
   },
   {
    "bfs": 81,
@@ -311,18 +170,8 @@
    ]
   },
   {
-   "bfs": 83,
-   "commune": "Buchs (ZH)",
-   "street": "Badenerstrasse 1",
-   "postcode": "8107",
-   "place": "Buchs ZH"
-  },
-  {
    "bfs": 85,
    "commune": "Dänikon",
-   "street": "Oberdorfstrasse 1",
-   "postcode": "8114",
-   "place": "Dänikon",
    "opening_hours_mo_su": [
     "08:30-11:30,14:00-18:00",
     "",
@@ -343,12 +192,6 @@
    "email": "gemeinde@huettikon.ch"
   },
   {
-   "bfs": 90,
-   "commune": "Niederhasli",
-   "phone": "043 411 22 00",
-   "email": "gemeinde@niederhasli.zh.ch"
-  },
-  {
    "bfs": 91,
    "commune": "Niederweningen",
    "street": "Alte Stationsstrasse 19",
@@ -359,9 +202,6 @@
   {
    "bfs": 92,
    "commune": "Oberglatt",
-   "street": "Rümlangstrasse 8",
-   "postcode": "8154",
-   "place": "Oberglatt",
    "opening_hours_mo_su": [
     "08:30-11:30,14:00-18:30",
     "08:30-11:30",
@@ -391,18 +231,8 @@
    ]
   },
   {
-   "bfs": 96,
-   "commune": "Regensdorf",
-   "street": "Watterstrasse 114",
-   "postcode": "8105",
-   "place": "Regensdorf"
-  },
-  {
    "bfs": 97,
    "commune": "Rümlang",
-   "street": "Glattalstrasse 201",
-   "postcode": "8153",
-   "place": "Rümlang",
    "opening_hours_mo_su": [
     "08:30-11:30,13:30-16:30",
     "08:30-11:30,13:30-18:30",
@@ -414,27 +244,6 @@
    ]
   },
   {
-   "bfs": 98,
-   "commune": "Schleinikon",
-   "street": "Dorfstrasse 16",
-   "postcode": "8165",
-   "place": "Schleinikon"
-  },
-  {
-   "bfs": 100,
-   "commune": "Stadel",
-   "street": "Zürcherstrasse 15",
-   "postcode": "8174",
-   "place": "Stadel b. Niederglatt"
-  },
-  {
-   "bfs": 111,
-   "commune": "Bäretswil",
-   "street": "Schulhausstrasse 2",
-   "postcode": "8344",
-   "place": "Bäretswil"
-  },
-  {
    "bfs": 112,
    "commune": "Bubikon",
    "street": "Rutschbergstrasse 18",
@@ -442,13 +251,6 @@
    "place": "Bubikon",
    "phone": "055 253 33 33",
    "email": "info@bubikon.ch"
-  },
-  {
-   "bfs": 113,
-   "commune": "Dürnten",
-   "street": "Rütistrasse 1a",
-   "postcode": "8635",
-   "place": "Dürnten"
   },
   {
    "bfs": 115,
@@ -459,25 +261,8 @@
    "phone": "044 936 55 60"
   },
   {
-   "bfs": 116,
-   "commune": "Grüningen",
-   "street": "Stedtligass 12",
-   "postcode": "8627",
-   "place": "Grüningen"
-  },
-  {
-   "bfs": 117,
-   "commune": "Hinwil",
-   "street": "Dürntnerstrasse 8",
-   "postcode": "8340",
-   "place": "Hinwil"
-  },
-  {
    "bfs": 118,
    "commune": "Rüti (ZH)",
-   "street": "Breitenhofstrasse 30",
-   "postcode": "8630",
-   "place": "Rüti ZH",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-18:30",
     "08:00-11:30,14:00-16:30",
@@ -487,20 +272,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 119,
-   "commune": "Seegräben",
-   "street": "Rutschbergstrasse 10",
-   "postcode": "8607",
-   "place": "Seegräben"
-  },
-  {
-   "bfs": 120,
-   "commune": "Wald (ZH)",
-   "street": "Bahnhofstrasse 6",
-   "postcode": "8636",
-   "place": "Wald ZH"
   },
   {
    "bfs": 121,
@@ -524,32 +295,8 @@
    ]
   },
   {
-   "bfs": 136,
-   "commune": "Langnau am Albis",
-   "street": "Neue Dorfstrasse 14",
-   "postcode": "8135",
-   "place": "Langnau am Albis"
-  },
-  {
-   "bfs": 137,
-   "commune": "Oberrieden",
-   "street": "Alte Landstrasse 32",
-   "postcode": "8942",
-   "place": "Oberrieden"
-  },
-  {
-   "bfs": 139,
-   "commune": "Rüschlikon",
-   "street": "Pilgerweg 29",
-   "postcode": "8803",
-   "place": "Rüschlikon"
-  },
-  {
    "bfs": 141,
    "commune": "Thalwil",
-   "street": "Alte Landstrasse 112",
-   "postcode": "8800",
-   "place": "Thalwil",
    "opening_hours_mo_su": [
     "08:00-11:30,13:00-18:00",
     "08:00-11:30,14:00-16:30",
@@ -561,25 +308,8 @@
    ]
   },
   {
-   "bfs": 153,
-   "commune": "Hombrechtikon",
-   "street": "Bahnweg 6",
-   "postcode": "8634",
-   "place": "Hombrechtikon"
-  },
-  {
-   "bfs": 154,
-   "commune": "Küsnacht (ZH)",
-   "street": "Untere Heslibachstrasse 33",
-   "postcode": "8700",
-   "place": "Küsnacht ZH"
-  },
-  {
    "bfs": 155,
    "commune": "Männedorf",
-   "street": "Bahnhofstrasse 10",
-   "postcode": "8708",
-   "place": "Männedorf",
    "opening_hours_mo_su": [
     "08:00-11:30,13:30-18:30",
     "07:00-11:30",
@@ -591,32 +321,8 @@
    ]
   },
   {
-   "bfs": 156,
-   "commune": "Meilen",
-   "street": "Dorfstrasse 100",
-   "postcode": "8706",
-   "place": "Meilen"
-  },
-  {
-   "bfs": 157,
-   "commune": "Oetwil am See",
-   "street": "Willikonerstrasse 11",
-   "postcode": "8618",
-   "place": "Oetwil am See"
-  },
-  {
-   "bfs": 172,
-   "commune": "Fehraltorf",
-   "street": "Im Schrännenbrunnen 2",
-   "postcode": "8320",
-   "place": "Fehraltorf"
-  },
-  {
    "bfs": 176,
    "commune": "Lindau",
-   "street": "Tagelswangerstrasse 2",
-   "postcode": "8315",
-   "place": "Lindau",
    "opening_hours_mo_su": [
     "08:30-11:30,14:00-17:30",
     "08:30-11:30,14:00-16:30",
@@ -656,8 +362,6 @@
   {
    "bfs": 191,
    "commune": "Dübendorf",
-   "street": "Usterstrasse 2",
-   "postcode": "8600",
    "opening_hours_mo_su": [
     "09:00-11:30,13:30-16:00",
     "13:30-19:00",
@@ -667,13 +371,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 195,
-   "commune": "Maur",
-   "street": "Zürichstrasse 8",
-   "postcode": "8124",
-   "place": "Maur"
   },
   {
    "bfs": 198,
@@ -692,13 +389,6 @@
    ]
   },
   {
-   "bfs": 200,
-   "commune": "Wangen-Brüttisellen",
-   "street": "Stationsstrasse 10",
-   "postcode": "8306",
-   "place": "Brüttisellen"
-  },
-  {
    "bfs": 211,
    "commune": "Altikon",
    "opening_hours_mo_su": [
@@ -712,18 +402,8 @@
    ]
   },
   {
-   "bfs": 214,
-   "commune": "Dägerlen",
-   "street": "Dorfstrasse 8",
-   "postcode": "8471",
-   "place": "Rutschwil (Dägerlen)"
-  },
-  {
    "bfs": 216,
    "commune": "Dinhard",
-   "street": "Welsikerstrasse 4",
-   "postcode": "8474",
-   "place": "Dinhard",
    "opening_hours_mo_su": [
     "09:00-11:30,14:00-17:30",
     "09:00-11:30",
@@ -750,7 +430,6 @@
   {
    "bfs": 221,
    "commune": "Hettlingen",
-   "phone": "052 305 05 05",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-18:00",
     "08:00-11:30",
@@ -762,25 +441,8 @@
    ]
   },
   {
-   "bfs": 224,
-   "commune": "Pfungen",
-   "street": "Dorfstrasse 25",
-   "postcode": "8422",
-   "place": "Pfungen"
-  },
-  {
-   "bfs": 228,
-   "commune": "Turbenthal",
-   "street": "Tösstalstrasse 56",
-   "postcode": "8488",
-   "place": "Turbenthal"
-  },
-  {
    "bfs": 230,
    "commune": "Winterthur",
-   "street": "Pionierstrasse 7",
-   "postcode": "8400",
-   "place": "Winterthur",
    "opening_hours_mo_su": [
     "08:00-17:00",
     "08:00-17:00",
@@ -790,20 +452,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 231,
-   "commune": "Zell (ZH)",
-   "street": "Spiegelacker 5",
-   "postcode": "8486",
-   "place": "Rikon im Tösstal"
-  },
-  {
-   "bfs": 242,
-   "commune": "Birmensdorf (ZH)",
-   "street": "Stallikonerstrasse 9",
-   "postcode": "8903",
-   "place": "Birmensdorf ZH"
   },
   {
    "bfs": 243,
@@ -854,13 +502,6 @@
    ]
   },
   {
-   "bfs": 247,
-   "commune": "Schlieren",
-   "street": "Freiestrasse 6",
-   "postcode": "8952",
-   "place": "Schlieren"
-  },
-  {
    "bfs": 248,
    "commune": "Uitikon",
    "opening_hours_mo_su": [
@@ -876,9 +517,6 @@
   {
    "bfs": 249,
    "commune": "Unterengstringen",
-   "street": "Dorfstrasse 13",
-   "postcode": "8103",
-   "place": "Unterengstringen",
    "opening_hours_mo_su": [
     "08:30-11:30,13:30-18:30",
     "08:30-11:30,13:30-16:00",
@@ -892,8 +530,6 @@
   {
    "bfs": 250,
    "commune": "Urdorf",
-   "phone": "044 736 51 11",
-   "email": "gemeinde@urdorf.ch",
    "opening_hours_mo_su": [
     "08:30-12:00,13:30-16:00",
     "08:30-12:00,13:30-16:00",
@@ -929,18 +565,8 @@
    "place": "Zürich"
   },
   {
-   "bfs": 291,
-   "commune": "Andelfingen",
-   "street": "Unterdorfstrasse 1",
-   "postcode": "8452",
-   "place": "Adlikon"
-  },
-  {
    "bfs": 293,
    "commune": "Wädenswil",
-   "street": "Florhofstrasse 6",
-   "postcode": "8820",
-   "place": "Wädenswil",
    "opening_hours_mo_su": [
     "08:00-11:30,13:30-18:00",
     "08:00-11:30,13:30-16:30",
@@ -950,13 +576,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 294,
-   "commune": "Elgg",
-   "street": "Lindenplatz 4",
-   "postcode": "8353",
-   "place": "Elgg"
   },
   {
    "bfs": 295,
@@ -1003,9 +622,6 @@
   {
    "bfs": 298,
    "commune": "Wiesendangen",
-   "street": "Schulstrasse 20",
-   "postcode": "8542",
-   "place": "Wiesendangen",
    "opening_hours_mo_su": [
     "08:00-11:45,13:30-18:00",
     "08:00-11:45,13:30-16:30",
@@ -1616,12 +1232,6 @@
    "phone": "041 349 11 11"
   },
   {
-   "bfs": 1061,
-   "commune": "Luzern",
-   "street": "Hirschengraben 17",
-   "postcode": "6003"
-  },
-  {
    "bfs": 1062,
    "commune": "Malters",
    "street": "Bahnhofstrasse 16",
@@ -1728,12 +1338,6 @@
    "phone": "041 925 79 79"
   },
   {
-   "bfs": 1086,
-   "commune": "Grosswangen",
-   "phone": "041 984 28 80",
-   "email": "gemeinde@grosswangen.ch"
-  },
-  {
    "bfs": 1088,
    "commune": "Hildisrieden",
    "street": "Luzernerstrasse 19",
@@ -1776,7 +1380,6 @@
   {
    "bfs": 1095,
    "commune": "Oberkirch",
-   "phone": "041 925 53 00",
    "opening_hours_mo_su": [
     "08:00-11:45,14:00-17:00",
     "08:00-11:45,14:00-17:00",
@@ -1798,8 +1401,6 @@
   {
    "bfs": 1098,
    "commune": "Ruswil",
-   "phone": "041 496 70 70",
-   "email": "gemeindeverwaltung@ruswil.ch",
    "opening_hours_mo_su": [
     "08:00-12:00,13:30-17:00",
     "08:00-12:00,13:30-17:00",
@@ -1857,11 +1458,6 @@
    "postcode": "6248",
    "place": "Alberswil",
    "phone": "041 980 17 54"
-  },
-  {
-   "bfs": 1122,
-   "commune": "Altbüron",
-   "phone": "062 207 00 80"
   },
   {
    "bfs": 1123,
@@ -1991,13 +1587,6 @@
    "phone": "041 984 11 11"
   },
   {
-   "bfs": 1147,
-   "commune": "Wikon",
-   "street": "Heimatweg 3",
-   "postcode": "4806",
-   "place": "Wikon"
-  },
-  {
    "bfs": 1150,
    "commune": "Zell (LU)",
    "street": "Luthernstrasse 1",
@@ -2025,9 +1614,6 @@
   {
    "bfs": 1202,
    "commune": "Andermatt",
-   "street": "Kirchgasse 10",
-   "postcode": "6490",
-   "place": "Andermatt",
    "opening_hours_mo_su": [
     "09:30-11:30,13:30-16:30",
     "09:30-11:30,13:30-16:30",
@@ -2082,13 +1668,6 @@
    "phone": "041 874 10 00"
   },
   {
-   "bfs": 1212,
-   "commune": "Realp",
-   "street": "Furkastrasse 70",
-   "postcode": "6491",
-   "place": "Realp"
-  },
-  {
    "bfs": 1213,
    "commune": "Schattdorf",
    "opening_hours_mo_su": [
@@ -2132,20 +1711,6 @@
    ]
   },
   {
-   "bfs": 1217,
-   "commune": "Sisikon",
-   "street": "Bahnhofstrasse 8",
-   "postcode": "6452",
-   "place": "Sisikon"
-  },
-  {
-   "bfs": 1301,
-   "commune": "Einsiedeln",
-   "street": "Hauptstrasse 78",
-   "postcode": "8840",
-   "place": "Einsiedeln"
-  },
-  {
    "bfs": 1322,
    "commune": "Freienbach",
    "street": "Etzelstrasse 13",
@@ -2156,9 +1721,6 @@
   {
    "bfs": 1323,
    "commune": "Wollerau",
-   "street": "Hauptstrasse 15",
-   "postcode": "8832",
-   "place": "Wollerau",
    "opening_hours_mo_su": [
     "08:30-11:30,13:30-18:00",
     "08:30-11:30,13:30-16:30",
@@ -2176,33 +1738,6 @@
    "postcode": "6403",
    "place": "Küssnacht am Rigi",
    "phone": "041 854 01 81"
-  },
-  {
-   "bfs": 1342,
-   "commune": "Galgenen",
-   "street": "Büelstrasse 15",
-   "postcode": "8854",
-   "place": "Siebnen"
-  },
-  {
-   "bfs": 1343,
-   "commune": "Innerthal",
-   "street": "Gemeindeplatz 5",
-   "postcode": "8858",
-   "place": "Innerthal"
-  },
-  {
-   "bfs": 1345,
-   "commune": "Reichenburg",
-   "street": "Kanzleiweg 1",
-   "postcode": "8864",
-   "place": "Reichenburg"
-  },
-  {
-   "bfs": 1348,
-   "commune": "Vorderthal",
-   "phone": "055 446 60 00",
-   "email": "gemeinde@vorderthal.ch"
   },
   {
    "bfs": 1362,
@@ -2223,9 +1758,6 @@
   {
    "bfs": 1366,
    "commune": "Morschach",
-   "street": "Schulstrasse 6",
-   "postcode": "6443",
-   "place": "Morschach",
    "opening_hours_mo_su": [
     "08:30-12:00,13:30-18:00",
     "08:30-12:00",
@@ -2235,41 +1767,6 @@
     "08:30-12:00",
     ""
    ]
-  },
-  {
-   "bfs": 1372,
-   "commune": "Schwyz",
-   "street": "Hauptplatz 1",
-   "postcode": "6430",
-   "place": "Schwyz"
-  },
-  {
-   "bfs": 1373,
-   "commune": "Steinen",
-   "street": "Postplatz 8",
-   "postcode": "6422",
-   "place": "Steinen"
-  },
-  {
-   "bfs": 1375,
-   "commune": "Unteriberg",
-   "street": "Waagtalstrasse 27",
-   "postcode": "8842",
-   "place": "Unteriberg"
-  },
-  {
-   "bfs": 1401,
-   "commune": "Alpnach",
-   "street": "Bahnhofstrasse 15",
-   "postcode": "6055",
-   "place": "Alpnach Dorf"
-  },
-  {
-   "bfs": 1402,
-   "commune": "Engelberg",
-   "street": "Dorfstrasse 1",
-   "postcode": "6390",
-   "place": "Engelberg"
   },
   {
    "bfs": 1407,
@@ -2283,12 +1780,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 1501,
-   "commune": "Beckenried",
-   "phone": "041 624 46 22",
-   "email": "info@gv.beckenried.ch"
   },
   {
    "bfs": 1502,
@@ -2334,13 +1825,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 1506,
-   "commune": "Ennetmoos",
-   "street": "Stanserstrasse 2",
-   "postcode": "6372",
-   "place": "Ennetmoos"
   },
   {
    "bfs": 1507,
@@ -2431,20 +1915,6 @@
    "place": "Glarus"
   },
   {
-   "bfs": 1701,
-   "commune": "Baar",
-   "street": "Rathausstrasse 2",
-   "postcode": "6340",
-   "place": "Baar"
-  },
-  {
-   "bfs": 1705,
-   "commune": "Neuheim",
-   "street": "Dorfplatz 5",
-   "postcode": "6345",
-   "place": "Neuheim"
-  },
-  {
    "bfs": 1707,
    "commune": "Risch",
    "street": "Dorfmatt 1",
@@ -2461,25 +1931,8 @@
    ]
   },
   {
-   "bfs": 1709,
-   "commune": "Unterägeri",
-   "street": "Seestrasse 2",
-   "postcode": "6314",
-   "place": "Unterägeri"
-  },
-  {
-   "bfs": 1710,
-   "commune": "Walchwil",
-   "street": "Dorfstrasse 23",
-   "postcode": "6318",
-   "place": "Walchwil"
-  },
-  {
    "bfs": 2022,
    "commune": "Gletterens",
-   "street": "Place du Tilleul 1",
-   "postcode": "1544",
-   "place": "Gletterens",
    "opening_hours_mo_su": [
     "07:30-11:30,14:00-18:00",
     "",
@@ -2491,18 +1944,8 @@
    ]
   },
   {
-   "bfs": 2044,
-   "commune": "Surpierre",
-   "street": "Route de Granges 5",
-   "postcode": "1527",
-   "place": "Villeneuve FR"
-  },
-  {
    "bfs": 2051,
    "commune": "Delley-Portalban",
-   "street": "Route de Portalban 10",
-   "postcode": "1567",
-   "place": "Delley",
    "opening_hours_mo_su": [
     "08:30-10:30,16:00-18:30",
     "08:30-10:30,14:00-17:00",
@@ -2514,13 +1957,6 @@
    ]
   },
   {
-   "bfs": 2053,
-   "commune": "Belmont-Broye",
-   "street": "Pré-de-la-Cour 4",
-   "postcode": "1564",
-   "place": "Domdidier"
-  },
-  {
    "bfs": 2055,
    "commune": "Cheyres-Châbles",
    "street": "Rue de la Gare 12",
@@ -2530,46 +1966,12 @@
    "email": "commune@cheyres-chables.ch"
   },
   {
-   "bfs": 2099,
-   "commune": "Siviriez",
-   "street": "Route de l'Eglise 4",
-   "postcode": "1678",
-   "place": "Siviriez"
-  },
-  {
-   "bfs": 2124,
-   "commune": "Broc",
-   "street": "Rue du Bourg de l'Auge 9",
-   "postcode": "1636"
-  },
-  {
-   "bfs": 2134,
-   "commune": "Grandvillard",
-   "street": "Rue Saint-Jacques 4",
-   "postcode": "1666",
-   "place": "Grandvillard"
-  },
-  {
    "bfs": 2143,
    "commune": "Morlon",
    "street": "Au Village 46",
    "postcode": "1638",
    "place": "Morlon",
    "phone": "026 912 38 30"
-  },
-  {
-   "bfs": 2155,
-   "commune": "Vaulruz",
-   "street": "Rue du Château 28",
-   "postcode": "1627",
-   "place": "Vaulruz"
-  },
-  {
-   "bfs": 2162,
-   "commune": "Bas-Intyamon",
-   "street": "Route du Tôt 1",
-   "postcode": "1667",
-   "place": "Enney"
   },
   {
    "bfs": 2174,
@@ -2582,9 +1984,6 @@
   {
    "bfs": 2175,
    "commune": "Belfaux",
-   "street": "Route de Lossy 7",
-   "postcode": "1782",
-   "place": "Belfaux",
    "opening_hours_mo_su": [
     "10:00-11:45",
     "07:30-11:45,15:00-17:00",
@@ -2614,41 +2013,6 @@
    "email": "commune@marly.ch"
   },
   {
-   "bfs": 2208,
-   "commune": "Matran",
-   "street": "Route de l'Ecole 6",
-   "postcode": "1753",
-   "place": "Matran"
-  },
-  {
-   "bfs": 2228,
-   "commune": "Villars-sur-Glâne",
-   "street": "Route du Petit-Moncor 1b",
-   "postcode": "1752",
-   "place": "Villars-sur-Glâne"
-  },
-  {
-   "bfs": 2239,
-   "commune": "Grolley-Ponthaux",
-   "street": "Route de Nierlet 4",
-   "postcode": "1772",
-   "place": "Ponthaux"
-  },
-  {
-   "bfs": 2254,
-   "commune": "Courtepin",
-   "street": "Route des Bois 9",
-   "postcode": "1784",
-   "place": "Wallenried"
-  },
-  {
-   "bfs": 2258,
-   "commune": "Fräschels",
-   "street": "Brünnenrain 15",
-   "postcode": "3284",
-   "place": "Fräschels"
-  },
-  {
    "bfs": 2265,
    "commune": "Kerzers",
    "street": "Herresrain 1",
@@ -2657,40 +2021,12 @@
    "phone": "031 750 53 53"
   },
   {
-   "bfs": 2266,
-   "commune": "Kleinbösingen",
-   "street": "Längenstrasse 15",
-   "postcode": "3213",
-   "place": "Kleinbösingen"
-  },
-  {
-   "bfs": 2271,
-   "commune": "Meyriez",
-   "street": "Rue de Lausanne 14",
-   "postcode": "3280",
-   "place": "Meyriez"
-  },
-  {
    "bfs": 2284,
    "commune": "Mont-Vully",
    "street": "Route Principale",
    "postcode": "1786",
    "place": "Nant",
    "phone": "026 673 90 40"
-  },
-  {
-   "bfs": 2293,
-   "commune": "Düdingen",
-   "street": "Hauptstrasse 27",
-   "postcode": "3186",
-   "place": "Düdingen"
-  },
-  {
-   "bfs": 2296,
-   "commune": "Heitenried",
-   "street": "Hauptstrasse 44",
-   "postcode": "1714",
-   "place": "Heitenried"
   },
   {
    "bfs": 2300,
@@ -2720,46 +2056,8 @@
    "email": "gemeinde@rechthalten.ch"
   },
   {
-   "bfs": 2304,
-   "commune": "St. Ursen",
-   "street": "Dorf 1",
-   "postcode": "1717",
-   "place": "St. Ursen"
-  },
-  {
-   "bfs": 2305,
-   "commune": "Schmitten (FR)",
-   "street": "F. X. Müllerstrasse 6",
-   "postcode": "3185",
-   "place": "Schmitten FR"
-  },
-  {
-   "bfs": 2306,
-   "commune": "Tafers",
-   "street": "Schwarzseestrasse 5",
-   "postcode": "1712",
-   "place": "Tafers"
-  },
-  {
-   "bfs": 2307,
-   "commune": "Tentlingen",
-   "street": "Präderwanstrasse 1",
-   "postcode": "1734",
-   "place": "Tentlingen"
-  },
-  {
-   "bfs": 2308,
-   "commune": "Ueberstorf",
-   "street": "Dorfstrasse 45",
-   "postcode": "3182",
-   "place": "Ueberstorf"
-  },
-  {
    "bfs": 2321,
    "commune": "Attalens",
-   "street": "Rue de l'Eglise 4",
-   "postcode": "1616",
-   "place": "Attalens",
    "opening_hours_mo_su": [
     "09:00-11:30,13:10-16:00",
     "09:00-11:30,13:10-16:00",
@@ -2788,31 +2086,8 @@
    "email": "administration@remaufens.ch"
   },
   {
-   "bfs": 2426,
-   "commune": "Laupersdorf",
-   "street": "Höngerstrasse 555",
-   "postcode": "4712",
-   "place": "Laupersdorf"
-  },
-  {
-   "bfs": 2465,
-   "commune": "Buchegg",
-   "street": "Hauptstrasse 2",
-   "postcode": "4583",
-   "place": "Mühledorf"
-  },
-  {
-   "bfs": 2471,
-   "commune": "Bättwil",
-   "street": "Bahnweg 10",
-   "postcode": "4112",
-   "place": "Bättwil"
-  },
-  {
    "bfs": 2472,
    "commune": "Büren (SO)",
-   "phone": "061 911 06 44",
-   "email": "info@bueren-so.ch",
    "opening_hours_mo_su": [
     "10:00-12:00",
     "10:00-12:00",
@@ -2826,9 +2101,6 @@
   {
    "bfs": 2473,
    "commune": "Dornach",
-   "street": "Hauptstrasse 33",
-   "postcode": "4143",
-   "place": "Dornach",
    "opening_hours_mo_su": [
     "08:30-11:30,14:00-16:00",
     "07:30-11:30",
@@ -2838,13 +2110,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 2475,
-   "commune": "Hochwald",
-   "street": "Hauptstrasse 1",
-   "postcode": "4146",
-   "place": "Hochwald"
   },
   {
    "bfs": 2477,
@@ -2869,48 +2134,6 @@
    "email": "gemeinde@nuglar.ch"
   },
   {
-   "bfs": 2479,
-   "commune": "Rodersdorf",
-   "street": "Leimenstrasse 2",
-   "postcode": "4118",
-   "place": "Rodersdorf"
-  },
-  {
-   "bfs": 2501,
-   "commune": "Winznau",
-   "street": "Oltnerstrasse 9",
-   "postcode": "4652",
-   "place": "Winznau"
-  },
-  {
-   "bfs": 2526,
-   "commune": "Lohn-Ammannsegg",
-   "street": "Stöcklistrasse 2",
-   "postcode": "4573",
-   "place": "Lohn-Ammannsegg"
-  },
-  {
-   "bfs": 2535,
-   "commune": "Drei Höfe",
-   "street": "Landstrasse 7",
-   "postcode": "4558",
-   "place": "Winistorf"
-  },
-  {
-   "bfs": 2546,
-   "commune": "Grenchen",
-   "street": "Bahnhofstrasse 23",
-   "postcode": "2540",
-   "place": "Grenchen"
-  },
-  {
-   "bfs": 2555,
-   "commune": "Rüttenen",
-   "street": "Schulstrasse 1",
-   "postcode": "4522",
-   "place": "Rüttenen"
-  },
-  {
    "bfs": 2556,
    "commune": "Selzach",
    "street": "Schänzlistrasse 2",
@@ -2920,13 +2143,6 @@
    "email": "info@selzach.ch"
   },
   {
-   "bfs": 2586,
-   "commune": "Wangen bei Olten",
-   "street": "Dorfstrasse 65",
-   "postcode": "4612",
-   "place": "Wangen b. Olten"
-  },
-  {
    "bfs": 2618,
    "commune": "Himmelried",
    "street": "Hauptstrasse 52",
@@ -2934,13 +2150,6 @@
    "place": "Himmelried",
    "phone": "061 741 17 78",
    "email": "info@himmelried.ch"
-  },
-  {
-   "bfs": 2619,
-   "commune": "Kleinlützel",
-   "street": "Huggerwaldstrasse 175",
-   "postcode": "4245",
-   "place": "Kleinlützel"
   },
   {
    "bfs": 2620,
@@ -2958,11 +2167,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 2621,
-   "commune": "Nunningen",
-   "phone": "061 795 00 00"
   },
   {
    "bfs": 2762,
@@ -3069,13 +2273,6 @@
    ]
   },
   {
-   "bfs": 2917,
-   "commune": "Lohn (SH)",
-   "street": "Unterdorf 11",
-   "postcode": "8235",
-   "place": "Lohn SH"
-  },
-  {
    "bfs": 2932,
    "commune": "Beringen",
    "opening_hours_mo_su": [
@@ -3089,13 +2286,6 @@
    ]
   },
   {
-   "bfs": 2933,
-   "commune": "Buchberg",
-   "street": "Dorfstrasse 62",
-   "postcode": "8454",
-   "place": "Buchberg"
-  },
-  {
    "bfs": 2936,
    "commune": "Merishausen",
    "street": "Hauptstrasse 78",
@@ -3105,8 +2295,6 @@
   {
    "bfs": 2937,
    "commune": "Neuhausen am Rheinfall",
-   "phone": "052 674 21 11",
-   "email": "info@neuhausen.ch",
    "opening_hours_mo_su": [
     "09:00-12:00,13:30-17:00",
     "09:00-12:00,13:30-17:00",
@@ -3144,13 +2332,6 @@
    ]
   },
   {
-   "bfs": 2952,
-   "commune": "Schleitheim",
-   "street": "Poststrasse 38",
-   "postcode": "8226",
-   "place": "Schleitheim"
-  },
-  {
    "bfs": 2953,
    "commune": "Siblingen",
    "opening_hours_mo_su": [
@@ -3162,13 +2343,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 2963,
-   "commune": "Ramsen",
-   "street": "Hauptstrasse 259",
-   "postcode": "8262",
-   "place": "Ramsen"
   },
   {
    "bfs": 2964,
@@ -3186,40 +2360,12 @@
    "place": "Hallau"
   },
   {
-   "bfs": 3001,
-   "commune": "Herisau",
-   "street": "Poststrasse 6",
-   "postcode": "9100",
-   "place": "Herisau"
-  },
-  {
    "bfs": 3003,
    "commune": "Schönengrund",
    "street": "Unterdorf 13",
    "postcode": "9105",
    "place": "Schönengrund",
    "phone": "071 361 18 18"
-  },
-  {
-   "bfs": 3004,
-   "commune": "Schwellbrunn",
-   "street": "Dorf 50",
-   "postcode": "9103",
-   "place": "Schwellbrunn"
-  },
-  {
-   "bfs": 3005,
-   "commune": "Stein (AR)",
-   "street": "Schachen 42",
-   "postcode": "9063",
-   "place": "Stein AR"
-  },
-  {
-   "bfs": 3006,
-   "commune": "Urnäsch",
-   "street": "Dorfplatz 1",
-   "postcode": "9107",
-   "place": "Urnäsch"
   },
   {
    "bfs": 3021,
@@ -3238,20 +2384,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3022,
-   "commune": "Gais",
-   "street": "Schulhausstrasse 1",
-   "postcode": "9056",
-   "place": "Gais"
-  },
-  {
-   "bfs": 3024,
-   "commune": "Teufen (AR)",
-   "street": "Dorf 9",
-   "postcode": "9053",
-   "place": "Teufen AR"
   },
   {
    "bfs": 3025,
@@ -3283,9 +2415,6 @@
   {
    "bfs": 3032,
    "commune": "Heiden",
-   "street": "Kirchplatz 6",
-   "postcode": "9410",
-   "place": "Heiden",
    "opening_hours_mo_su": [
     "09:00-11:30,14:00-16:30",
     "09:00-11:30,14:00-16:30",
@@ -3299,9 +2428,6 @@
   {
    "bfs": 3033,
    "commune": "Lutzenberg",
-   "street": "Gitzbüchel 192",
-   "postcode": "9426",
-   "place": "Lutzenberg",
    "opening_hours_mo_su": [
     "09:00-11:30,14:00-17:00",
     "09:00-11:30",
@@ -3311,13 +2437,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3034,
-   "commune": "Rehetobel",
-   "street": "St. Gallerstrasse 7",
-   "postcode": "9038",
-   "place": "Rehetobel"
   },
   {
    "bfs": 3036,
@@ -3340,9 +2459,6 @@
   {
    "bfs": 3037,
    "commune": "Walzenhausen",
-   "street": "Dorf 84",
-   "postcode": "9428",
-   "place": "Walzenhausen",
    "opening_hours_mo_su": [
     "08:00-12:00,14:00-18:00",
     "08:00-12:00,14:00-16:30",
@@ -3356,9 +2472,6 @@
   {
    "bfs": 3038,
    "commune": "Wolfhalden",
-   "street": "Dorf 36",
-   "postcode": "9427",
-   "place": "Wolfhalden",
    "opening_hours_mo_su": [
     "09:30-11:30,14:00-16:00",
     "09:30-11:30",
@@ -3368,20 +2481,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3101,
-   "commune": "Appenzell",
-   "street": "Marktgasse 6",
-   "postcode": "9050",
-   "place": "Appenzell"
-  },
-  {
-   "bfs": 3102,
-   "commune": "Gonten",
-   "street": "Loretto 8a",
-   "postcode": "9108",
-   "place": "Gonten"
   },
   {
    "bfs": 3104,
@@ -3417,8 +2516,6 @@
   {
    "bfs": 3112,
    "commune": "Schwende-Rüte",
-   "phone": "071 788 99 30",
-   "email": "info@schwende-ruete.ai.ch",
    "opening_hours_mo_su": [
     "07:30-11:30,13:30-17:00",
     "07:30-11:30,13:30-17:00",
@@ -3430,18 +2527,8 @@
    ]
   },
   {
-   "bfs": 3201,
-   "commune": "Häggenschwil",
-   "street": "Dorfstrasse 18",
-   "postcode": "9312",
-   "place": "Häggenschwil"
-  },
-  {
    "bfs": 3202,
    "commune": "Muolen",
-   "street": "Dorfstrasse 9",
-   "postcode": "9313",
-   "place": "Muolen",
    "opening_hours_mo_su": [
     "13:30-16:30",
     "13:30-16:30",
@@ -3460,46 +2547,8 @@
    "place": "St. Gallen"
   },
   {
-   "bfs": 3204,
-   "commune": "Wittenbach",
-   "street": "Dottenwilerstrasse 2",
-   "postcode": "9300",
-   "place": "Wittenbach"
-  },
-  {
-   "bfs": 3211,
-   "commune": "Berg (SG)",
-   "street": "Dorfstrasse 17",
-   "postcode": "9305",
-   "place": "Berg SG"
-  },
-  {
-   "bfs": 3213,
-   "commune": "Goldach",
-   "street": "Hauptstrasse 2",
-   "postcode": "9403",
-   "place": "Goldach"
-  },
-  {
-   "bfs": 3214,
-   "commune": "Mörschwil",
-   "street": "Schulstrasse 3",
-   "postcode": "9402",
-   "place": "Mörschwil"
-  },
-  {
-   "bfs": 3215,
-   "commune": "Rorschach",
-   "street": "Hauptstrasse 29",
-   "postcode": "9400",
-   "place": "Rorschach"
-  },
-  {
    "bfs": 3216,
    "commune": "Rorschacherberg",
-   "street": "Goldacherstrasse 67",
-   "postcode": "9404",
-   "place": "Rorschacherberg",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-18:00",
     "14:00-17:00",
@@ -3513,9 +2562,6 @@
   {
    "bfs": 3219,
    "commune": "Untereggen",
-   "street": "Mittlerhof 30",
-   "postcode": "9033",
-   "place": "Untereggen",
    "opening_hours_mo_su": [
     "08:00-11:30,13:30-18:00",
     "08:00-11:30",
@@ -3533,13 +2579,6 @@
    "postcode": "9434",
    "place": "Au SG",
    "phone": "071 747 02 10"
-  },
-  {
-   "bfs": 3232,
-   "commune": "Balgach",
-   "street": "Turnhallestrasse 1",
-   "postcode": "9436",
-   "place": "Balgach"
   },
   {
    "bfs": 3235,
@@ -3564,18 +2603,8 @@
    "email": "info@widnau.ch"
   },
   {
-   "bfs": 3251,
-   "commune": "Altstätten",
-   "street": "Rathausplatz 2",
-   "postcode": "9450",
-   "place": "Altstätten SG"
-  },
-  {
    "bfs": 3252,
    "commune": "Eichberg",
-   "street": "Härdlistrasse 11",
-   "postcode": "9453",
-   "place": "Eichberg",
    "opening_hours_mo_su": [
     "08:15-12:30,14:00-18:00",
     "08:15-11:30,14:00-16:30",
@@ -3585,48 +2614,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3253,
-   "commune": "Marbach (SG)",
-   "street": "Obergasse 4",
-   "postcode": "9437",
-   "place": "Marbach SG"
-  },
-  {
-   "bfs": 3254,
-   "commune": "Oberriet (SG)",
-   "street": "Staatsstrasse 92",
-   "postcode": "9463",
-   "place": "Oberriet SG"
-  },
-  {
-   "bfs": 3255,
-   "commune": "Rebstein",
-   "street": "Alte Landstrasse 77",
-   "postcode": "9445",
-   "place": "Rebstein"
-  },
-  {
-   "bfs": 3256,
-   "commune": "Rüthi (SG)",
-   "street": "Staatsstrasse 78",
-   "postcode": "9464",
-   "place": "Rüthi (Rheintal)"
-  },
-  {
-   "bfs": 3271,
-   "commune": "Buchs (SG)",
-   "street": "St. Gallerstrasse 2",
-   "postcode": "9470",
-   "place": "Buchs SG"
-  },
-  {
-   "bfs": 3272,
-   "commune": "Gams",
-   "street": "Hof 1",
-   "postcode": "9473",
-   "place": "Gams"
   },
   {
    "bfs": 3274,
@@ -3650,18 +2637,8 @@
    ]
   },
   {
-   "bfs": 3292,
-   "commune": "Flums",
-   "street": "Marktstrasse 25",
-   "postcode": "8890",
-   "place": "Flums"
-  },
-  {
    "bfs": 3293,
    "commune": "Mels",
-   "street": "Platz 2",
-   "postcode": "8887",
-   "place": "Mels",
    "opening_hours_mo_su": [
     "08:00-11:30,13:30-16:00",
     "08:00-11:30,13:30-16:00",
@@ -3673,47 +2650,12 @@
    ]
   },
   {
-   "bfs": 3294,
-   "commune": "Pfäfers",
-   "street": "Hintergasse 4",
-   "postcode": "7312",
-   "place": "Pfäfers"
-  },
-  {
    "bfs": 3296,
    "commune": "Sargans",
    "street": "Städtchenstrasse 45",
    "postcode": "7320",
    "place": "Sargans",
    "phone": "081 725 56 56"
-  },
-  {
-   "bfs": 3297,
-   "commune": "Vilters-Wangs",
-   "street": "Dorfstrasse 34",
-   "postcode": "7323",
-   "place": "Wangs"
-  },
-  {
-   "bfs": 3311,
-   "commune": "Amden",
-   "street": "Dorfstrasse 22",
-   "postcode": "8873",
-   "place": "Amden"
-  },
-  {
-   "bfs": 3312,
-   "commune": "Benken (SG)",
-   "street": "Dorfplatz 3",
-   "postcode": "8717",
-   "place": "Benken SG"
-  },
-  {
-   "bfs": 3313,
-   "commune": "Kaltbrunn",
-   "street": "Dorfstrasse 5",
-   "postcode": "8722",
-   "place": "Kaltbrunn"
   },
   {
    "bfs": 3316,
@@ -3724,25 +2666,8 @@
    "phone": "055 616 60 16"
   },
   {
-   "bfs": 3338,
-   "commune": "Schmerikon",
-   "street": "Hauptstrasse 16",
-   "postcode": "8716",
-   "place": "Schmerikon"
-  },
-  {
-   "bfs": 3339,
-   "commune": "Uznach",
-   "street": "Städtchen 10",
-   "postcode": "8730",
-   "place": "Uznach"
-  },
-  {
    "bfs": 3340,
    "commune": "Rapperswil-Jona",
-   "street": "St. Gallerstrasse 40",
-   "postcode": "8645",
-   "place": "Jona",
    "opening_hours_mo_su": [
     "08:30-11:30,13:15-18:30",
     "08:30-11:30",
@@ -3756,9 +2681,6 @@
   {
    "bfs": 3341,
    "commune": "Gommiswald",
-   "street": "Dorfplatz 16",
-   "postcode": "8737",
-   "place": "Gommiswald",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-18:00",
     "08:00-11:30,14:00-16:30",
@@ -3770,18 +2692,8 @@
    ]
   },
   {
-   "bfs": 3352,
-   "commune": "Ebnat-Kappel",
-   "street": "Hofstrasse 1",
-   "postcode": "9642",
-   "place": "Ebnat-Kappel"
-  },
-  {
    "bfs": 3360,
    "commune": "Nesslau",
-   "street": "Hauptstrasse 24",
-   "postcode": "9650",
-   "place": "Nesslau",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-17:00",
     "08:00-11:30,14:00-17:00",
@@ -3791,34 +2703,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3374,
-   "commune": "Lichtensteig",
-   "street": "Hauptgasse 12",
-   "postcode": "9620",
-   "place": "Lichtensteig"
-  },
-  {
-   "bfs": 3379,
-   "commune": "Wattwil",
-   "street": "Grüenaustrasse 7",
-   "postcode": "9630",
-   "place": "Wattwil"
-  },
-  {
-   "bfs": 3392,
-   "commune": "Kirchberg (SG)",
-   "street": "Gähwilerstrasse 1",
-   "postcode": "9533",
-   "place": "Kirchberg SG"
-  },
-  {
-   "bfs": 3393,
-   "commune": "Lütisburg",
-   "street": "Flawilerstrasse 17",
-   "postcode": "9604",
-   "place": "Lütisburg"
   },
   {
    "bfs": 3396,
@@ -3837,27 +2721,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3402,
-   "commune": "Flawil",
-   "street": "Bahnhofstrasse 6",
-   "postcode": "9230",
-   "place": "Flawil"
-  },
-  {
-   "bfs": 3405,
-   "commune": "Jonschwil",
-   "street": "Poststrasse 12",
-   "postcode": "9243",
-   "place": "Jonschwil"
-  },
-  {
-   "bfs": 3407,
-   "commune": "Oberuzwil",
-   "street": "Flawilerstrasse 3",
-   "postcode": "9242",
-   "place": "Oberuzwil"
   },
   {
    "bfs": 3408,
@@ -3879,9 +2742,6 @@
   {
    "bfs": 3423,
    "commune": "Niederhelfenschwil",
-   "street": "Oberdorf 10",
-   "postcode": "9527",
-   "place": "Niederhelfenschwil",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-17:00",
     "08:00-11:30,14:00-17:00",
@@ -3893,13 +2753,6 @@
    ]
   },
   {
-   "bfs": 3424,
-   "commune": "Oberbüren",
-   "street": "Unterdorf 9",
-   "postcode": "9245",
-   "place": "Oberbüren"
-  },
-  {
    "bfs": 3426,
    "commune": "Zuzwil (SG)",
    "street": "Hinterdorfstrasse 3",
@@ -3908,25 +2761,8 @@
    "phone": "058 228 28 60"
   },
   {
-   "bfs": 3427,
-   "commune": "Wil (SG)",
-   "street": "Marktgasse 58",
-   "postcode": "9500",
-   "place": "Wil SG"
-  },
-  {
-   "bfs": 3441,
-   "commune": "Andwil (SG)",
-   "street": "Lätschenstrasse 7",
-   "postcode": "9204",
-   "place": "Andwil SG"
-  },
-  {
    "bfs": 3443,
    "commune": "Gossau (SG)",
-   "street": "Bahnhofstrasse 25",
-   "postcode": "9200",
-   "place": "Gossau SG",
    "opening_hours_mo_su": [
     "08:30-11:30,13:30-18:00",
     "13:00-17:00",
@@ -3940,9 +2776,6 @@
   {
    "bfs": 3444,
    "commune": "Waldkirch",
-   "street": "Bernhardzellerstrasse 28",
-   "postcode": "9205",
-   "place": "Waldkirch",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-17:00",
     "08:00-11:30,14:00-17:00",
@@ -3952,67 +2785,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3506,
-   "commune": "Vaz/Obervaz",
-   "phone": "081 385 21 00"
-  },
-  {
-   "bfs": 3513,
-   "commune": "Lantsch/Lenz",
-   "street": "Voia Principala 90",
-   "postcode": "7083",
-   "place": "Lantsch/Lenz"
-  },
-  {
-   "bfs": 3514,
-   "commune": "Schmitten (GR)",
-   "street": "Landwasserstrasse 50a",
-   "postcode": "7493",
-   "place": "Schmitten (Albula)"
-  },
-  {
-   "bfs": 3544,
-   "commune": "Bergün Filisur",
-   "street": "Dorfstrasse 38",
-   "postcode": "7477",
-   "place": "Filisur"
-  },
-  {
-   "bfs": 3551,
-   "commune": "Brusio",
-   "street": "Borgo 320",
-   "postcode": "7743",
-   "place": "Brusio"
-  },
-  {
-   "bfs": 3561,
-   "commune": "Poschiavo",
-   "street": "Via da Clalt 2",
-   "postcode": "7742",
-   "place": "Poschiavo"
-  },
-  {
-   "bfs": 3572,
-   "commune": "Falera",
-   "street": "Via Principala 45c",
-   "postcode": "7153",
-   "place": "Falera"
-  },
-  {
-   "bfs": 3581,
-   "commune": "Sagogn",
-   "street": "Via Vitg dado 23",
-   "postcode": "7152",
-   "place": "Sagogn"
-  },
-  {
-   "bfs": 3582,
-   "commune": "Schluein",
-   "street": "Via Veglia 11",
-   "postcode": "7151",
-   "place": "Schluein"
   },
   {
    "bfs": 3603,
@@ -4026,69 +2798,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3619,
-   "commune": "Ilanz/Glion",
-   "street": "Plazza Cumin 9",
-   "postcode": "7130",
-   "place": "Ilanz"
-  },
-  {
-   "bfs": 3633,
-   "commune": "Fürstenau",
-   "street": "Domleschgerstrasse 56",
-   "postcode": "7414",
-   "place": "Fürstenau"
-  },
-  {
-   "bfs": 3637,
-   "commune": "Rothenbrunnen",
-   "street": "Pro Sut 7",
-   "postcode": "7405",
-   "place": "Rothenbrunnen"
-  },
-  {
-   "bfs": 3638,
-   "commune": "Scharans",
-   "street": "Fravgia 1",
-   "postcode": "7412",
-   "place": "Scharans"
-  },
-  {
-   "bfs": 3640,
-   "commune": "Sils im Domleschg",
-   "street": "Ausserdorf 9",
-   "postcode": "7411",
-   "place": "Sils im Domleschg"
-  },
-  {
-   "bfs": 3661,
-   "commune": "Cazis",
-   "street": "Oberdorf 4",
-   "postcode": "7408",
-   "place": "Cazis"
-  },
-  {
-   "bfs": 3663,
-   "commune": "Masein",
-   "street": "Ausserdorf 2",
-   "postcode": "7425",
-   "place": "Masein"
-  },
-  {
-   "bfs": 3669,
-   "commune": "Tschappina",
-   "street": "Chrüzstutz 44",
-   "postcode": "7428",
-   "place": "Tschappina"
-  },
-  {
-   "bfs": 3670,
-   "commune": "Urmein",
-   "street": "Baltermeins 8",
-   "postcode": "7427",
-   "place": "Urmein"
   },
   {
    "bfs": 3673,
@@ -4140,13 +2849,6 @@
    ]
   },
   {
-   "bfs": 3701,
-   "commune": "Andeer",
-   "street": "Veia da Scola 6",
-   "postcode": "7440",
-   "place": "Andeer"
-  },
-  {
    "bfs": 3711,
    "commune": "Rongellen",
    "street": "Husmatta 3",
@@ -4164,19 +2866,6 @@
    ]
   },
   {
-   "bfs": 3712,
-   "commune": "Zillis-Reischen",
-   "street": "Hauptstrasse 28",
-   "postcode": "7432",
-   "place": "Zillis"
-  },
-  {
-   "bfs": 3713,
-   "commune": "Ferrera",
-   "phone": "081 661 15 85",
-   "email": "kanzlei@ferrera.ch"
-  },
-  {
    "bfs": 3714,
    "commune": "Rheinwald",
    "street": "Oberdorf 40",
@@ -4184,67 +2873,6 @@
    "place": "Splügen",
    "phone": "081 664 11 28",
    "email": "gemeinde@rheinwald.ch"
-  },
-  {
-   "bfs": 3715,
-   "commune": "Muntogna da Schons",
-   "street": "Farden 2",
-   "postcode": "7433",
-   "place": "Donat"
-  },
-  {
-   "bfs": 3721,
-   "commune": "Bonaduz",
-   "street": "Hauptstrasse 25",
-   "postcode": "7402",
-   "place": "Bonaduz"
-  },
-  {
-   "bfs": 3722,
-   "commune": "Domat/Ems",
-   "street": "Tircal 11",
-   "postcode": "7013",
-   "place": "Domat/Ems"
-  },
-  {
-   "bfs": 3723,
-   "commune": "Rhäzüns",
-   "street": "Via Suro 2",
-   "postcode": "7403",
-   "place": "Rhäzüns"
-  },
-  {
-   "bfs": 3731,
-   "commune": "Felsberg",
-   "street": "Schulstrasse 1",
-   "postcode": "7012",
-   "place": "Felsberg"
-  },
-  {
-   "bfs": 3732,
-   "commune": "Flims",
-   "street": "Via dil Casti 2",
-   "postcode": "7017",
-   "place": "Flims Dorf"
-  },
-  {
-   "bfs": 3733,
-   "commune": "Tamins",
-   "street": "Aligstrasse 1",
-   "postcode": "7015",
-   "place": "Tamins"
-  },
-  {
-   "bfs": 3746,
-   "commune": "Zernez",
-   "phone": "081 851 44 44"
-  },
-  {
-   "bfs": 3752,
-   "commune": "Samnaun",
-   "street": "Kirchweg 25",
-   "postcode": "7562",
-   "place": "Samnaun-Compatsch"
   },
   {
    "bfs": 3762,
@@ -4258,13 +2886,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3782,
-   "commune": "Celerina/Schlarigna",
-   "street": "Via Maistra 97",
-   "postcode": "7505",
-   "place": "Celerina/Schlarigna"
   },
   {
    "bfs": 3783,
@@ -4285,34 +2906,6 @@
    ]
   },
   {
-   "bfs": 3785,
-   "commune": "La Punt Chamues-ch",
-   "street": "Via Cumünela 43",
-   "postcode": "7522",
-   "place": "La Punt Chamues-ch"
-  },
-  {
-   "bfs": 3786,
-   "commune": "Samedan",
-   "street": "Plazzet 4",
-   "postcode": "7503",
-   "place": "Samedan"
-  },
-  {
-   "bfs": 3788,
-   "commune": "S-chanf",
-   "street": "Via Maistra 75",
-   "postcode": "7525",
-   "place": "S-chanf"
-  },
-  {
-   "bfs": 3791,
-   "commune": "Zuoz",
-   "street": "Plaz 6",
-   "postcode": "7524",
-   "place": "Zuoz"
-  },
-  {
    "bfs": 3792,
    "commune": "Bregaglia",
    "street": "Via ai Crott 17",
@@ -4331,74 +2924,11 @@
    ]
   },
   {
-   "bfs": 3804,
-   "commune": "Buseno",
-   "street": "Via Borlion 11 B",
-   "postcode": "6542",
-   "place": "Buseno"
-  },
-  {
-   "bfs": 3805,
-   "commune": "Castaneda",
-   "street": "Via a la Mota 2",
-   "postcode": "6540",
-   "place": "Castaneda"
-  },
-  {
-   "bfs": 3821,
-   "commune": "Lostallo",
-   "street": "Stradón 90",
-   "postcode": "6558",
-   "place": "Lostallo"
-  },
-  {
-   "bfs": 3822,
-   "commune": "Mesocco",
-   "street": "Stradón 14",
-   "postcode": "6563",
-   "place": "Mesocco"
-  },
-  {
    "bfs": 3831,
    "commune": "Cama",
    "street": "Stradon 113",
    "postcode": "6557",
    "place": "Cama"
-  },
-  {
-   "bfs": 3835,
-   "commune": "San Vittore",
-   "street": "Via Retica 11",
-   "postcode": "6534",
-   "place": "San Vittore"
-  },
-  {
-   "bfs": 3837,
-   "commune": "Calanca",
-   "street": "Via Pretorio 1",
-   "postcode": "6543",
-   "place": "Arvigo"
-  },
-  {
-   "bfs": 3847,
-   "commune": "Val Müstair",
-   "street": "Via da Lü 62",
-   "postcode": "7534",
-   "place": "Lü"
-  },
-  {
-   "bfs": 3851,
-   "commune": "Davos",
-   "street": "Berglistutz 1",
-   "postcode": "7270",
-   "place": "Davos Platz"
-  },
-  {
-   "bfs": 3861,
-   "commune": "Fideris",
-   "street": "Dorfstrasse 5",
-   "postcode": "7235",
-   "place": "Fideris"
   },
   {
    "bfs": 3862,
@@ -4411,7 +2941,6 @@
   {
    "bfs": 3863,
    "commune": "Jenaz",
-   "phone": "081 332 15 10",
    "opening_hours_mo_su": [
     "08:30-11:30",
     "",
@@ -4447,13 +2976,6 @@
    "place": "Conters im Prättigau"
   },
   {
-   "bfs": 3882,
-   "commune": "Küblis",
-   "street": "Cunterscher Strass 3",
-   "postcode": "7240",
-   "place": "Küblis"
-  },
-  {
    "bfs": 3901,
    "commune": "Chur",
    "opening_hours_mo_su": [
@@ -4469,9 +2991,6 @@
   {
    "bfs": 3911,
    "commune": "Churwalden",
-   "street": "Hauptstrasse 101",
-   "postcode": "7075",
-   "place": "Churwalden",
    "opening_hours_mo_su": [
     "09:00-12:00,15:00-17:00",
     "09:00-12:00,15:00-17:00",
@@ -4481,34 +3000,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3945,
-   "commune": "Trimmis",
-   "street": "Galbutz 2",
-   "postcode": "7203",
-   "place": "Trimmis"
-  },
-  {
-   "bfs": 3946,
-   "commune": "Untervaz",
-   "street": "Ulmgasse 1",
-   "postcode": "7204",
-   "place": "Untervaz"
-  },
-  {
-   "bfs": 3947,
-   "commune": "Zizers",
-   "street": "Vialstrasse 2",
-   "postcode": "7205",
-   "place": "Zizers"
-  },
-  {
-   "bfs": 3951,
-   "commune": "Fläsch",
-   "street": "St. Luzi 4",
-   "postcode": "7306",
-   "place": "Fläsch"
   },
   {
    "bfs": 3952,
@@ -4527,20 +3018,6 @@
    ]
   },
   {
-   "bfs": 3953,
-   "commune": "Maienfeld",
-   "street": "Balatrain",
-   "postcode": "7304",
-   "place": "Maienfeld"
-  },
-  {
-   "bfs": 3954,
-   "commune": "Malans",
-   "street": "Dorfplatz 8",
-   "postcode": "7208",
-   "place": "Malans GR"
-  },
-  {
    "bfs": 3955,
    "commune": "Landquart",
    "street": "Unterdorfstrasse 1",
@@ -4557,13 +3034,6 @@
    ]
   },
   {
-   "bfs": 3961,
-   "commune": "Grüsch",
-   "street": "Landstrass 4",
-   "postcode": "7214",
-   "place": "Grüsch"
-  },
-  {
    "bfs": 3962,
    "commune": "Schiers",
    "opening_hours_mo_su": [
@@ -4575,62 +3045,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 3981,
-   "commune": "Breil/Brigels",
-   "street": "Via Principala 32",
-   "postcode": "7165",
-   "place": "Breil/Brigels"
-  },
-  {
-   "bfs": 3982,
-   "commune": "Disentis/Mustér",
-   "street": "Via Cons 2",
-   "postcode": "7180",
-   "place": "Disentis/Mustér"
-  },
-  {
-   "bfs": 3983,
-   "commune": "Medel (Lucmagn)",
-   "street": "Via Lucmagn 32",
-   "postcode": "7184",
-   "place": "Curaglia"
-  },
-  {
-   "bfs": 3986,
-   "commune": "Tujetsch",
-   "street": "Via Alpsu 62",
-   "postcode": "7188",
-   "place": "Sedrun"
-  },
-  {
-   "bfs": 3988,
-   "commune": "Obersaxen Mundaun",
-   "street": "Vorstadt 26",
-   "postcode": "7134",
-   "place": "Obersaxen"
-  },
-  {
-   "bfs": 4001,
-   "commune": "Aarau",
-   "street": "Rathausgasse 1",
-   "postcode": "5000",
-   "place": "Aarau"
-  },
-  {
-   "bfs": 4002,
-   "commune": "Biberstein",
-   "street": "Kirchbergstrasse 1",
-   "postcode": "5023",
-   "place": "Biberstein"
-  },
-  {
-   "bfs": 4003,
-   "commune": "Buchs (AG)",
-   "street": "Mitteldorfstrasse 69",
-   "postcode": "5033",
-   "place": "Buchs AG"
   },
   {
    "bfs": 4013,
@@ -4652,9 +3066,6 @@
   {
    "bfs": 4023,
    "commune": "Bergdietikon",
-   "street": "Schulstrasse 6",
-   "postcode": "8962",
-   "place": "Bergdietikon",
    "opening_hours_mo_su": [
     "08:30-11:30,14:00-16:00",
     "08:30-11:30,14:00-16:00",
@@ -4668,9 +3079,6 @@
   {
    "bfs": 4026,
    "commune": "Ennetbaden",
-   "street": "Grendelstrasse 9",
-   "postcode": "5408",
-   "place": "Ennetbaden",
    "opening_hours_mo_su": [
     "08:30-11:30,14:00-17:30",
     "08:30-11:30,14:00-16:00",
@@ -4680,27 +3088,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 4028,
-   "commune": "Freienwil",
-   "street": "Schulstrasse 2",
-   "postcode": "5423",
-   "place": "Freienwil"
-  },
-  {
-   "bfs": 4029,
-   "commune": "Gebenstorf",
-   "street": "Vogelsangstrasse 2",
-   "postcode": "5412",
-   "place": "Gebenstorf"
-  },
-  {
-   "bfs": 4035,
-   "commune": "Niederrohrdorf",
-   "street": "Bremgartenstrasse 2",
-   "postcode": "5443",
-   "place": "Niederrohrdorf"
   },
   {
    "bfs": 4037,
@@ -4716,27 +3103,6 @@
    ]
   },
   {
-   "bfs": 4038,
-   "commune": "Obersiggenthal",
-   "street": "Landstrasse 134a",
-   "postcode": "5415",
-   "place": "Nussbaumen bei Baden"
-  },
-  {
-   "bfs": 4040,
-   "commune": "Spreitenbach",
-   "street": "Bahnhofstrasse 2",
-   "postcode": "8957",
-   "place": "Spreitenbach"
-  },
-  {
-   "bfs": 4044,
-   "commune": "Untersiggenthal",
-   "street": "Kornfeldweg 2",
-   "postcode": "5417",
-   "place": "Untersiggenthal"
-  },
-  {
    "bfs": 4045,
    "commune": "Wettingen",
    "street": "Alberich Zwyssigstrasse 76",
@@ -4746,26 +3112,12 @@
    "email": "gemeinde@wettingen.ch"
   },
   {
-   "bfs": 4046,
-   "commune": "Wohlenschwil",
-   "street": "Hauptstrasse 21",
-   "postcode": "5512",
-   "place": "Wohlenschwil"
-  },
-  {
    "bfs": 4049,
    "commune": "Ehrendingen",
    "street": "Dorfstrasse 16",
    "postcode": "5420",
    "place": "Ehrendingen",
    "phone": "056 200 77 10"
-  },
-  {
-   "bfs": 4063,
-   "commune": "Bremgarten (AG)",
-   "street": "Rathausplatz 3",
-   "postcode": "5620",
-   "place": "Bremgarten AG"
   },
   {
    "bfs": 4064,
@@ -4794,38 +3146,8 @@
    ]
   },
   {
-   "bfs": 4075,
-   "commune": "Rudolfstetten-Friedlisberg",
-   "street": "Friedlisbergstrasse",
-   "postcode": "8964",
-   "place": "Rudolfstetten"
-  },
-  {
-   "bfs": 4077,
-   "commune": "Tägerig",
-   "street": "Alte Poststrasse 6",
-   "postcode": "5522"
-  },
-  {
-   "bfs": 4082,
-   "commune": "Wohlen (AG)",
-   "street": "Kapellstrasse 1",
-   "postcode": "5610",
-   "place": "Wohlen AG"
-  },
-  {
-   "bfs": 4083,
-   "commune": "Zufikon",
-   "street": "Schulstrasse 15",
-   "postcode": "5621",
-   "place": "Zufikon"
-  },
-  {
    "bfs": 4084,
    "commune": "Islisberg",
-   "street": "Bonstetterstrasse 2",
-   "postcode": "8905",
-   "place": "Islisberg",
    "opening_hours_mo_su": [
     "14:00-18:00",
     "09:00-11:00",
@@ -4837,12 +3159,6 @@
    ]
   },
   {
-   "bfs": 4092,
-   "commune": "Birr",
-   "street": "Pestalozzistrasse 10",
-   "postcode": "5242"
-  },
-  {
    "bfs": 4100,
    "commune": "Hausen (AG)",
    "street": "Hauptstrasse 29",
@@ -4852,22 +3168,8 @@
    "email": "gemeindekanzlei@hausen.swiss"
   },
   {
-   "bfs": 4106,
-   "commune": "Mönthal",
-   "street": "Hauptstrasse 166",
-   "postcode": "5237",
-   "place": "Mönthal"
-  },
-  {
-   "bfs": 4107,
-   "commune": "Mülligen",
-   "street": "Stockfeldstrasse 1",
-   "postcode": "5243"
-  },
-  {
    "bfs": 4110,
    "commune": "Remigen",
-   "phone": "056 297 82 82",
    "opening_hours_mo_su": [
     "07:45-11:00,14:00-18:00",
     "07:45-11:00",
@@ -4881,9 +3183,6 @@
   {
    "bfs": 4132,
    "commune": "Birrwil",
-   "street": "Dorf 1",
-   "postcode": "5708",
-   "place": "Birrwil",
    "opening_hours_mo_su": [
     "",
     "08:00-13:00",
@@ -4895,32 +3194,6 @@
    ]
   },
   {
-   "bfs": 4139,
-   "commune": "Menziken",
-   "street": "Turnhallenstrasse",
-   "postcode": "5736",
-   "place": "Burg AG"
-  },
-  {
-   "bfs": 4140,
-   "commune": "Oberkulm",
-   "street": "Neudorfstrasse 7",
-   "postcode": "5727",
-   "place": "Oberkulm"
-  },
-  {
-   "bfs": 4145,
-   "commune": "Teufenthal (AG)",
-   "phone": "062 768 80 20"
-  },
-  {
-   "bfs": 4163,
-   "commune": "Frick",
-   "street": "Gemeindehausplatz 1",
-   "postcode": "5070",
-   "place": "Frick"
-  },
-  {
    "bfs": 4169,
    "commune": "Kaisten",
    "street": "Poststrasse 7",
@@ -4930,39 +3203,8 @@
    "email": "gemeindekanzlei@kaisten.ch"
   },
   {
-   "bfs": 4170,
-   "commune": "Laufenburg",
-   "street": "Laufenplatz 145",
-   "postcode": "5080",
-   "place": "Laufenburg"
-  },
-  {
-   "bfs": 4175,
-   "commune": "Oeschgen",
-   "street": "Mitteldorfstrasse 60",
-   "postcode": "5072",
-   "place": "Oeschgen"
-  },
-  {
-   "bfs": 4181,
-   "commune": "Wittnau",
-   "street": "Oberer Kirchweg 8",
-   "postcode": "5064",
-   "place": "Wittnau"
-  },
-  {
-   "bfs": 4184,
-   "commune": "Mettauertal",
-   "street": "Hauptstrasse 68",
-   "postcode": "5274",
-   "place": "Mettau"
-  },
-  {
    "bfs": 4192,
    "commune": "Boniswil",
-   "street": "Schulstrasse 10",
-   "postcode": "5706",
-   "place": "Boniswil",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-18:00",
     "08:00-11:30,14:00-17:00",
@@ -4974,44 +3216,8 @@
    ]
   },
   {
-   "bfs": 4195,
-   "commune": "Egliswil",
-   "street": "Mitteldorfstrasse 3",
-   "postcode": "5704",
-   "place": "Egliswil"
-  },
-  {
-   "bfs": 4196,
-   "commune": "Fahrwangen",
-   "street": "Aescherstrasse 2",
-   "postcode": "5615",
-   "place": "Fahrwangen"
-  },
-  {
-   "bfs": 4200,
-   "commune": "Hunzenschwil",
-   "street": "Schulgasse 2",
-   "postcode": "5502",
-   "place": "Hunzenschwil"
-  },
-  {
-   "bfs": 4202,
-   "commune": "Meisterschwanden",
-   "street": "Eggenstrasse 2",
-   "postcode": "5616",
-   "place": "Meisterschwanden"
-  },
-  {
-   "bfs": 4205,
-   "commune": "Othmarsingen",
-   "street": "Kirchrain 1",
-   "postcode": "5504",
-   "place": "Othmarsingen"
-  },
-  {
    "bfs": 4209,
    "commune": "Seon",
-   "phone": "062 769 85 00",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-18:30",
     "08:00-11:30",
@@ -5021,12 +3227,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 4210,
-   "commune": "Staufen",
-   "phone": "062 886 10 10",
-   "email": "gemeindekanzlei@staufen.ch"
   },
   {
    "bfs": 4222,
@@ -5042,13 +3242,6 @@
    ]
   },
   {
-   "bfs": 4224,
-   "commune": "Beinwil (Freiamt)",
-   "street": "Kirchfeld 5",
-   "postcode": "5637",
-   "place": "Beinwil (Freiamt)"
-  },
-  {
    "bfs": 4226,
    "commune": "Besenbüren",
    "street": "Kantonsstrasse 10",
@@ -5056,13 +3249,6 @@
    "place": "Besenbüren",
    "phone": "056 677 87 70",
    "email": "gemeindeverwaltung@besenbueren.ch"
-  },
-  {
-   "bfs": 4228,
-   "commune": "Boswil",
-   "street": "Zentralstrasse 32",
-   "postcode": "5623",
-   "place": "Boswil"
   },
   {
    "bfs": 4230,
@@ -5076,13 +3262,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 4253,
-   "commune": "Magden",
-   "street": "Schulstrasse 4",
-   "postcode": "4312",
-   "place": "Magden"
   },
   {
    "bfs": 4254,
@@ -5102,76 +3281,6 @@
    ]
   },
   {
-   "bfs": 4257,
-   "commune": "Olsberg",
-   "street": "Chillweg 6",
-   "postcode": "4305",
-   "place": "Olsberg"
-  },
-  {
-   "bfs": 4262,
-   "commune": "Wegenstetten",
-   "street": "Schulgasse 9",
-   "postcode": "4317",
-   "place": "Wegenstetten"
-  },
-  {
-   "bfs": 4263,
-   "commune": "Zeiningen",
-   "street": "Kirchweg 26",
-   "postcode": "4314",
-   "place": "Zeiningen"
-  },
-  {
-   "bfs": 4271,
-   "commune": "Aarburg",
-   "street": "Städtchen 37",
-   "postcode": "4663",
-   "place": "Aarburg"
-  },
-  {
-   "bfs": 4276,
-   "commune": "Kölliken",
-   "street": "Hauptstrasse 38",
-   "postcode": "5742",
-   "place": "Kölliken"
-  },
-  {
-   "bfs": 4277,
-   "commune": "Moosleerau",
-   "street": "Hubelstrasse 220",
-   "postcode": "5054",
-   "place": "Moosleerau"
-  },
-  {
-   "bfs": 4281,
-   "commune": "Reitnau",
-   "street": "Weinhalden 1",
-   "postcode": "5057",
-   "place": "Reitnau"
-  },
-  {
-   "bfs": 4282,
-   "commune": "Rothrist",
-   "street": "Bernstrasse 108",
-   "postcode": "4852",
-   "place": "Rothrist"
-  },
-  {
-   "bfs": 4285,
-   "commune": "Strengelbach",
-   "street": "Brittnauerstrasse 3.1",
-   "postcode": "4802",
-   "place": "Strengelbach"
-  },
-  {
-   "bfs": 4310,
-   "commune": "Koblenz",
-   "street": "Achenbergstrasse 6",
-   "postcode": "5322",
-   "place": "Koblenz"
-  },
-  {
    "bfs": 4311,
    "commune": "Leibstadt",
    "street": "Oberdorfstrasse 222",
@@ -5188,13 +3297,6 @@
    ]
   },
   {
-   "bfs": 4313,
-   "commune": "Leuggern",
-   "street": "Schulhausstrasse 1",
-   "postcode": "5316",
-   "place": "Leuggern"
-  },
-  {
    "bfs": 4318,
    "commune": "Schneisingen",
    "street": "Schladstrasse 2",
@@ -5204,39 +3306,8 @@
    "email": "gemeindekanzlei@schneisingen.ch"
   },
   {
-   "bfs": 4401,
-   "commune": "Arbon",
-   "street": "Hauptstrasse 12",
-   "postcode": "9320",
-   "place": "Arbon"
-  },
-  {
-   "bfs": 4406,
-   "commune": "Dozwil",
-   "street": "Kesswilerstrasse 16",
-   "postcode": "8582",
-   "place": "Dozwil"
-  },
-  {
-   "bfs": 4411,
-   "commune": "Egnach",
-   "street": "Bahnhofstrasse 81",
-   "postcode": "9315",
-   "place": "Neukirch (Egnach)"
-  },
-  {
-   "bfs": 4416,
-   "commune": "Hefenhofen",
-   "street": "Amriswilerstrasse 30",
-   "postcode": "8580",
-   "place": "Hefenhofen"
-  },
-  {
    "bfs": 4421,
    "commune": "Horn",
-   "street": "Tübacherstrasse 11",
-   "postcode": "9326",
-   "place": "Horn",
    "opening_hours_mo_su": [
     "08:00-11:30,13:30-16:30",
     "13:30-18:00",
@@ -5261,40 +3332,12 @@
    ]
   },
   {
-   "bfs": 4441,
-   "commune": "Salmsach",
-   "street": "Arbonerstrasse 8",
-   "postcode": "8599",
-   "place": "Salmsach"
-  },
-  {
-   "bfs": 4446,
-   "commune": "Sommeri",
-   "street": "Hauptstrasse 33",
-   "postcode": "8580",
-   "place": "Sommeri"
-  },
-  {
-   "bfs": 4451,
-   "commune": "Uttwil",
-   "street": "Kesswilerstrasse 5",
-   "postcode": "8592",
-   "place": "Uttwil"
-  },
-  {
    "bfs": 4461,
    "commune": "Amriswil",
    "street": "Arbonerstrasse 2",
    "postcode": "8580",
    "place": "Amriswil",
    "phone": "071 414 11 11"
-  },
-  {
-   "bfs": 4471,
-   "commune": "Bischofszell",
-   "street": "Marktgasse 11",
-   "postcode": "9220",
-   "place": "Bischofszell"
   },
   {
    "bfs": 4476,
@@ -5304,13 +3347,6 @@
    "place": "Erlen",
    "phone": "071 649 30 60",
    "email": "info@erlen.ch"
-  },
-  {
-   "bfs": 4486,
-   "commune": "Hauptwil-Gottshaus",
-   "street": "Oberdorfstrasse 3",
-   "postcode": "9213",
-   "place": "Hauptwil"
   },
   {
    "bfs": 4506,
@@ -5370,88 +3406,8 @@
    ]
   },
   {
-   "bfs": 4621,
-   "commune": "Warth-Weiningen",
-   "street": "Schulstrasse 1",
-   "postcode": "8532",
-   "place": "Weiningen TG"
-  },
-  {
-   "bfs": 4643,
-   "commune": "Bottighofen",
-   "street": "Schulstrasse 4",
-   "postcode": "8598",
-   "place": "Bottighofen"
-  },
-  {
-   "bfs": 4646,
-   "commune": "Ermatingen",
-   "street": "Hauptstrasse 88",
-   "postcode": "8272",
-   "place": "Ermatingen"
-  },
-  {
-   "bfs": 4651,
-   "commune": "Gottlieben",
-   "street": "Kirchstrasse 11",
-   "postcode": "8274",
-   "place": "Gottlieben"
-  },
-  {
-   "bfs": 4656,
-   "commune": "Güttingen",
-   "street": "Otmarhof 1",
-   "postcode": "8594",
-   "place": "Güttingen"
-  },
-  {
-   "bfs": 4666,
-   "commune": "Kemmental",
-   "street": "Alterswilerstrasse 2",
-   "postcode": "8573",
-   "place": "Siegershausen"
-  },
-  {
-   "bfs": 4671,
-   "commune": "Kreuzlingen",
-   "street": "Hauptstrasse 62",
-   "postcode": "8280",
-   "place": "Kreuzlingen"
-  },
-  {
-   "bfs": 4681,
-   "commune": "Langrickenbach",
-   "street": "Im Baumgarten 1",
-   "postcode": "8585",
-   "place": "Langrickenbach"
-  },
-  {
-   "bfs": 4683,
-   "commune": "Lengwil",
-   "street": "Hauptstrasse 8",
-   "postcode": "8574",
-   "place": "Lengwil"
-  },
-  {
-   "bfs": 4696,
-   "commune": "Tägerwilen",
-   "street": "Bahnhofstrasse 3",
-   "postcode": "8274",
-   "place": "Tägerwilen"
-  },
-  {
-   "bfs": 4701,
-   "commune": "Wäldi",
-   "street": "Ermatingerstrasse 7",
-   "postcode": "8564",
-   "place": "Hefenhausen"
-  },
-  {
    "bfs": 4711,
    "commune": "Affeltrangen",
-   "street": "Hauptstrasse 6",
-   "postcode": "9556",
-   "place": "Affeltrangen",
    "opening_hours_mo_su": [
     "08:00-11:30,13:30-17:00",
     "07:00-11:30,13:30-17:00",
@@ -5461,13 +3417,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 4723,
-   "commune": "Braunau",
-   "street": "Hauptstrasse 10",
-   "postcode": "9502",
-   "place": "Braunau"
   },
   {
    "bfs": 4724,
@@ -5512,13 +3461,6 @@
    ]
   },
   {
-   "bfs": 4776,
-   "commune": "Tobel-Tägerschen",
-   "street": "Hauptstrasse 20",
-   "postcode": "9555",
-   "place": "Tobel"
-  },
-  {
    "bfs": 4786,
    "commune": "Wilen (TG)",
    "street": "Hubstrasse 1",
@@ -5532,20 +3474,6 @@
    "street": "Seestrasse 78",
    "postcode": "8267",
    "place": "Berlingen"
-  },
-  {
-   "bfs": 4811,
-   "commune": "Herdern",
-   "street": "Liebenfelserstrasse 3",
-   "postcode": "8506",
-   "place": "Lanzenneunforn"
-  },
-  {
-   "bfs": 4816,
-   "commune": "Homburg",
-   "street": "Hauptstrasse 86",
-   "postcode": "8508",
-   "place": "Homburg"
   },
   {
    "bfs": 4831,
@@ -5566,53 +3494,8 @@
    ]
   },
   {
-   "bfs": 4846,
-   "commune": "Raperswilen",
-   "street": "Ifangstrasse 12",
-   "postcode": "8558",
-   "place": "Raperswilen"
-  },
-  {
-   "bfs": 4851,
-   "commune": "Salenstein",
-   "street": "Eugensbergstrasse 2",
-   "postcode": "8268",
-   "place": "Salenstein"
-  },
-  {
-   "bfs": 4864,
-   "commune": "Steckborn",
-   "street": "Seestrasse 123",
-   "postcode": "8266",
-   "place": "Steckborn"
-  },
-  {
-   "bfs": 4871,
-   "commune": "Wagenhausen",
-   "street": "Talacker 1",
-   "postcode": "8259",
-   "place": "Kaltenbach"
-  },
-  {
-   "bfs": 4891,
-   "commune": "Berg (TG)",
-   "street": "Hauptstrasse 43",
-   "postcode": "8572",
-   "place": "Berg TG"
-  },
-  {
-   "bfs": 4901,
-   "commune": "Birwinken",
-   "street": "Lochäckerstrasse 2",
-   "postcode": "8585",
-   "place": "Mattwil"
-  },
-  {
    "bfs": 4921,
    "commune": "Bussnang",
-   "street": "Schulstrasse 1",
-   "postcode": "9565",
-   "place": "Bussnang",
    "opening_hours_mo_su": [
     "13:30-18:00",
     "13:30-17:00",
@@ -5645,39 +3528,11 @@
    ]
   },
   {
-   "bfs": 5003,
-   "commune": "Cadenazzo",
-   "street": "Via Vecchio Nucleo 4",
-   "postcode": "6599",
-   "place": "Robasacco"
-  },
-  {
    "bfs": 5009,
    "commune": "Isone",
    "street": "Piázza San Luriens 1",
    "postcode": "6810",
    "place": "Isone"
-  },
-  {
-   "bfs": 5017,
-   "commune": "Sant'Antonino",
-   "street": "Via Municipio 10",
-   "postcode": "6592",
-   "place": "S. Antonino"
-  },
-  {
-   "bfs": 5048,
-   "commune": "Acquarossa",
-   "street": "Via Bosco Ciossera 9",
-   "postcode": "6716",
-   "place": "Acquarossa"
-  },
-  {
-   "bfs": 5049,
-   "commune": "Blenio",
-   "street": "Via Chiesa San Martino 1",
-   "postcode": "6718",
-   "place": "Olivone"
   },
   {
    "bfs": 5061,
@@ -5698,34 +3553,6 @@
    ]
   },
   {
-   "bfs": 5072,
-   "commune": "Faido",
-   "street": "Via Petronilla 47",
-   "postcode": "6746",
-   "place": "Lavorgo"
-  },
-  {
-   "bfs": 5076,
-   "commune": "Personico",
-   "street": "Via Centro Civico 6",
-   "postcode": "6744",
-   "place": "Personico"
-  },
-  {
-   "bfs": 5079,
-   "commune": "Quinto",
-   "street": "Strada di Rodi 21",
-   "postcode": "6772",
-   "place": "Rodi-Fiesso"
-  },
-  {
-   "bfs": 5097,
-   "commune": "Brissago",
-   "street": "Piazza Municipio 1",
-   "postcode": "6614",
-   "place": "Brissago"
-  },
-  {
    "bfs": 5113,
    "commune": "Locarno",
    "street": "Piazza Grande 18",
@@ -5735,67 +3562,11 @@
    "email": "citta@locarno.ch"
   },
   {
-   "bfs": 5131,
-   "commune": "Tenero-Contra",
-   "street": "Via Contra 750",
-   "postcode": "6646",
-   "place": "Contra"
-  },
-  {
-   "bfs": 5136,
-   "commune": "Onsernone",
-   "street": "Comologno 9",
-   "postcode": "6661",
-   "place": "Comologno"
-  },
-  {
-   "bfs": 5141,
-   "commune": "Agno",
-   "street": "Piazza Col. Vicari 1",
-   "postcode": "6982",
-   "place": "Agno"
-  },
-  {
-   "bfs": 5143,
-   "commune": "Aranno",
-   "street": "Ra Stráda dra Ca di Biss 6",
-   "postcode": "6994",
-   "place": "Aranno"
-  },
-  {
-   "bfs": 5144,
-   "commune": "Arogno",
-   "street": "Stráda Növa 44",
-   "postcode": "6822",
-   "place": "Arogno"
-  },
-  {
-   "bfs": 5148,
-   "commune": "Bedano",
-   "street": "Via Santa Maria 6",
-   "postcode": "6930",
-   "place": "Bedano"
-  },
-  {
    "bfs": 5151,
    "commune": "Bioggio",
    "street": "Via Cademario 10",
    "postcode": "6934",
    "place": "Bioggio"
-  },
-  {
-   "bfs": 5154,
-   "commune": "Bissone",
-   "street": "Via Maroggia",
-   "postcode": "6816",
-   "place": "Bissone"
-  },
-  {
-   "bfs": 5160,
-   "commune": "Brusino Arsizio",
-   "street": "Lungolago P. Roncaioli 95",
-   "postcode": "6827",
-   "place": "Brusino Arsizio"
   },
   {
    "bfs": 5192,
@@ -5809,13 +3580,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 5196,
-   "commune": "Massagno",
-   "street": "Via Giuseppe Motta 53",
-   "postcode": "6900",
-   "place": "Massagno"
   },
   {
    "bfs": 5203,
@@ -5834,41 +3598,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 5206,
-   "commune": "Neggio",
-   "street": "Strada Regina 23",
-   "postcode": "6991",
-   "place": "Neggio"
-  },
-  {
-   "bfs": 5212,
-   "commune": "Ponte Capriasca",
-   "street": "Via alle Scuole 26",
-   "postcode": "6946",
-   "place": "Ponte Capriasca"
-  },
-  {
-   "bfs": 5225,
-   "commune": "Sorengo",
-   "street": "Via al Colle 14",
-   "postcode": "6924",
-   "place": "Sorengo"
-  },
-  {
-   "bfs": 5237,
-   "commune": "Alto Malcantone",
-   "street": "Stradón da Brén 50",
-   "postcode": "6937",
-   "place": "Breno"
-  },
-  {
-   "bfs": 5240,
-   "commune": "Val Mara",
-   "street": "Via alla Chiesa 16",
-   "postcode": "6818",
-   "place": "Melano"
   },
   {
    "bfs": 5242,
@@ -5890,8 +3619,6 @@
   {
    "bfs": 5249,
    "commune": "Castel San Pietro",
-   "phone": "091 646 15 62",
-   "email": "info@castelsanpietro.ch",
    "opening_hours_mo_su": [
     "08:30-12:30",
     "08:30-12:30",
@@ -5905,7 +3632,6 @@
   {
    "bfs": 5250,
    "commune": "Chiasso",
-   "phone": "058 122 48 11",
    "opening_hours_mo_su": [
     "07:45-11:45,13:30-16:45",
     "07:45-11:45,13:30-16:45",
@@ -5919,9 +3645,6 @@
   {
    "bfs": 5251,
    "commune": "Coldrerio",
-   "street": "Via Pier Francesco Mola 1",
-   "postcode": "6877",
-   "place": "Coldrerio",
    "opening_hours_mo_su": [
     "09:00-12:00,14:00-17:00",
     "09:00-12:00,14:00-17:00",
@@ -5970,7 +3693,6 @@
   {
    "bfs": 5266,
    "commune": "Stabio",
-   "phone": "091 641 69 00",
    "opening_hours_mo_su": [
     "09:00-11:00,14:00-16:00",
     "09:00-11:00,14:00-16:00",
@@ -6007,20 +3729,6 @@
    ]
   },
   {
-   "bfs": 5395,
-   "commune": "Lema",
-   "street": "Via Scüpell 7",
-   "postcode": "6986",
-   "place": "Curio"
-  },
-  {
-   "bfs": 5396,
-   "commune": "Terre di Pedemonte",
-   "street": "Piazza della Gioventù 1",
-   "postcode": "6654",
-   "place": "Cavigliano"
-  },
-  {
    "bfs": 5398,
    "commune": "Gambarogno",
    "street": "Via Cantonale 138",
@@ -6028,13 +3736,6 @@
    "place": "Magadino",
    "phone": "091 786 84 00",
    "email": "comune@gambarogno.ch"
-  },
-  {
-   "bfs": 5399,
-   "commune": "Verzasca",
-   "street": "Via Giovanni Gada, Benefattore 1",
-   "postcode": "6634",
-   "place": "Brione (Verzasca)"
   },
   {
    "bfs": 5402,
@@ -6055,13 +3756,6 @@
    ]
   },
   {
-   "bfs": 5405,
-   "commune": "Gryon",
-   "street": "Rue du Village",
-   "postcode": "1882",
-   "place": "Gryon"
-  },
-  {
    "bfs": 5409,
    "commune": "Ollon",
    "street": "Place du Cotterd 1",
@@ -6080,32 +3774,11 @@
    ]
   },
   {
-   "bfs": 5410,
-   "commune": "Ormont-Dessous",
-   "street": "Chemin du Planchamp 2",
-   "postcode": "1863",
-   "place": "Le Sépey"
-  },
-  {
    "bfs": 5458,
    "commune": "Faoug",
    "street": "Route de Salavaux 1A",
    "postcode": "1595",
    "place": "Faoug"
-  },
-  {
-   "bfs": 5479,
-   "commune": "Cuarnens",
-   "street": "Route de l'Isle 2",
-   "postcode": "1148",
-   "place": "Cuarnens"
-  },
-  {
-   "bfs": 5498,
-   "commune": "La Sarraz",
-   "street": "Grand-Rue 1",
-   "postcode": "1315",
-   "place": "La Sarraz"
   },
   {
    "bfs": 5516,
@@ -6115,13 +3788,6 @@
    "place": "Cugy VD",
    "phone": "021 731 22 44",
    "email": "info@cugy-vd.ch"
-  },
-  {
-   "bfs": 5541,
-   "commune": "Goumoëns",
-   "street": "Route d'Eclagnens 2",
-   "postcode": "1376",
-   "place": "Goumoens-la-Ville"
   },
   {
    "bfs": 5559,
@@ -6142,9 +3808,6 @@
   {
    "bfs": 5571,
    "commune": "Tévenon",
-   "street": "Chemin de l'Eglise 6",
-   "postcode": "1423",
-   "place": "Villars-Burquin",
    "opening_hours_mo_su": [
     "",
     "15:00-19:00",
@@ -6161,19 +3824,6 @@
    "street": "Route de Lausanne 2",
    "postcode": "1033",
    "place": "Cheseaux"
-  },
-  {
-   "bfs": 5584,
-   "commune": "Epalinges",
-   "street": "Route de la Croix-Blanche 25",
-   "postcode": "1066",
-   "place": "Epalinges"
-  },
-  {
-   "bfs": 5586,
-   "commune": "Lausanne",
-   "street": "Place de la Palud 2",
-   "postcode": "1003"
   },
   {
    "bfs": 5587,
@@ -6220,9 +3870,6 @@
   {
    "bfs": 5609,
    "commune": "Rivaz",
-   "street": "Place du Collège 2",
-   "postcode": "1071",
-   "place": "Rivaz",
    "opening_hours_mo_su": [
     "",
     "09:00-12:00",
@@ -6255,41 +3902,6 @@
    "postcode": "1096",
    "place": "Bourg-en-Lavaux",
    "email": "info@b-e-l.ch"
-  },
-  {
-   "bfs": 5624,
-   "commune": "Bussigny",
-   "street": "Place de l'Hôtel de Ville 1",
-   "postcode": "1030",
-   "place": "Bussigny"
-  },
-  {
-   "bfs": 5632,
-   "commune": "Denges",
-   "street": "Place de l'Ancien Collège 2",
-   "postcode": "1026",
-   "place": "Denges"
-  },
-  {
-   "bfs": 5635,
-   "commune": "Ecublens (VD)",
-   "street": "Chemin de la Colline 5",
-   "postcode": "1024",
-   "place": "Ecublens (VD)"
-  },
-  {
-   "bfs": 5653,
-   "commune": "Vufflens-le-Château",
-   "street": "Place du Village 2",
-   "postcode": "1134",
-   "place": "Vufflens-le-Château"
-  },
-  {
-   "bfs": 5674,
-   "commune": "Lovatens",
-   "street": "Route de la Forneyre 2",
-   "postcode": "1682",
-   "place": "Lovatens"
   },
   {
    "bfs": 5678,
@@ -6333,9 +3945,6 @@
   {
    "bfs": 5724,
    "commune": "Nyon",
-   "street": "Place du Château 3",
-   "postcode": "1260",
-   "place": "Nyon",
    "opening_hours_mo_su": [
     "14:00-19:00",
     "08:00-11:30,14:00-17:00",
@@ -6353,27 +3962,6 @@
    "postcode": "1197",
    "place": "Prangins",
    "phone": "022 994 31 13"
-  },
-  {
-   "bfs": 5726,
-   "commune": "La Rippe",
-   "street": "Rue des 4 Fontaines",
-   "postcode": "1278",
-   "place": "La Rippe"
-  },
-  {
-   "bfs": 5730,
-   "commune": "Trélex",
-   "street": "Place de la Tour 6",
-   "postcode": "1270",
-   "place": "Trélex"
-  },
-  {
-   "bfs": 5731,
-   "commune": "Le Vaud",
-   "street": "Grand Rue 4",
-   "postcode": "1261",
-   "place": "Le Vaud"
   },
   {
    "bfs": 5746,
@@ -6429,18 +4017,8 @@
    ]
   },
   {
-   "bfs": 5764,
-   "commune": "Vallorbe",
-   "street": "Place du Pont 2",
-   "postcode": "1337",
-   "place": "Vallorbe"
-  },
-  {
    "bfs": 5790,
    "commune": "Maracon",
-   "street": "Route du Village 11",
-   "postcode": "1613",
-   "place": "Maracon",
    "opening_hours_mo_su": [
     "",
     "09:00-11:30",
@@ -6450,13 +4028,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 5792,
-   "commune": "Montpreveyres",
-   "street": "Rue du Village 10",
-   "postcode": "1081",
-   "place": "Montpreveyres"
   },
   {
    "bfs": 5799,
@@ -6476,30 +4047,8 @@
    "phone": "021 908 04 10"
   },
   {
-   "bfs": 5813,
-   "commune": "Chevroux",
-   "street": "Route du Village 5",
-   "postcode": "1545",
-   "place": "Chevroux"
-  },
-  {
-   "bfs": 5817,
-   "commune": "Grandcour",
-   "street": "Place des Chavannes 1",
-   "postcode": "1543",
-   "place": "Grandcour"
-  },
-  {
-   "bfs": 5841,
-   "commune": "Château-d'Oex",
-   "phone": "026 924 74 77"
-  },
-  {
    "bfs": 5857,
    "commune": "Gilly",
-   "street": "La place 1",
-   "postcode": "1182",
-   "place": "Gilly",
    "opening_hours_mo_su": [
     "08:00-11:30,14:00-16:00",
     "",
@@ -6511,25 +4060,8 @@
    ]
   },
   {
-   "bfs": 5882,
-   "commune": "Chardonne",
-   "street": "Rue du Village 19",
-   "postcode": "1803",
-   "place": "Chardonne"
-  },
-  {
-   "bfs": 5884,
-   "commune": "Corsier-sur-Vevey",
-   "street": "Rue du Château 4",
-   "postcode": "1804",
-   "place": "Corsier-sur-Vevey"
-  },
-  {
    "bfs": 5886,
    "commune": "Montreux",
-   "street": "Grand-Rue 73",
-   "postcode": "1820",
-   "place": "Montreux",
    "opening_hours_mo_su": [
     "08:00-12:00,13:00-16:30",
     "08:00-12:00,13:00-16:30",
@@ -6539,48 +4071,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 5890,
-   "commune": "Vevey",
-   "street": "Rue du Lac 2",
-   "postcode": "1800",
-   "place": "Vevey"
-  },
-  {
-   "bfs": 5892,
-   "commune": "Blonay - Saint-Légier",
-   "street": "Route du Village 45",
-   "postcode": "1807",
-   "place": "Blonay"
-  },
-  {
-   "bfs": 5902,
-   "commune": "Belmont-sur-Yverdon",
-   "street": "Grand'Rue",
-   "postcode": "1432",
-   "place": "Belmont-sur-Yverdon"
-  },
-  {
-   "bfs": 5911,
-   "commune": "Cuarny",
-   "street": "Rue du Couchant 4",
-   "postcode": "1404",
-   "place": "Cuarny"
-  },
-  {
-   "bfs": 5922,
-   "commune": "Montagny-près-Yverdon",
-   "street": "Chemin du Clos Lucens 1",
-   "postcode": "1442",
-   "place": "Montagny-près-Yverdon"
-  },
-  {
-   "bfs": 6011,
-   "commune": "Zwischbergen",
-   "street": "Simplonstrasse 34",
-   "postcode": "3907",
-   "place": "Gondo"
   },
   {
    "bfs": 6022,
@@ -6619,7 +4109,6 @@
   {
    "bfs": 6025,
    "commune": "Vétroz",
-   "phone": "027 345 37 70",
    "opening_hours_mo_su": [
     "08:00-12:00",
     "08:00-12:00",
@@ -6647,13 +4136,6 @@
    "email": "commsembr@dransnet.ch"
   },
   {
-   "bfs": 6037,
-   "commune": "Val de Bagnes",
-   "street": "Route de Clouchèvre 30",
-   "postcode": "1934",
-   "place": "Le Châble VS"
-  },
-  {
    "bfs": 6052,
    "commune": "Bellwald",
    "street": "Hauptgasse 1",
@@ -6661,18 +4143,8 @@
    "place": "Bellwald"
   },
   {
-   "bfs": 6057,
-   "commune": "Fiesch",
-   "street": "Furkastrasse 44",
-   "postcode": "3984",
-   "place": "Fiesch"
-  },
-  {
    "bfs": 6077,
    "commune": "Goms",
-   "street": "Furkastrasse 399",
-   "postcode": "3998",
-   "place": "Gluringen",
    "opening_hours_mo_su": [
     "08:30-11:30,14:00-17:00",
     "",
@@ -6706,13 +4178,6 @@
    "email": "gemeinde@gampel-bratsch.ch"
   },
   {
-   "bfs": 6119,
-   "commune": "Turtmann-Unterems",
-   "street": "Dorfstrasse 26",
-   "postcode": "3946",
-   "place": "Turtmann"
-  },
-  {
    "bfs": 6133,
    "commune": "Fully",
    "street": "Rue de l'Eglise 46",
@@ -6728,13 +4193,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 6142,
-   "commune": "Trient",
-   "street": "Le Gilliod 27",
-   "postcode": "1929",
-   "place": "Trient"
   },
   {
    "bfs": 6153,
@@ -6785,19 +4243,6 @@
    "place": "Grengiols"
   },
   {
-   "bfs": 6191,
-   "commune": "Ausserberg",
-   "street": "Dorfstrasse 71",
-   "postcode": "3938",
-   "place": "Ausserberg"
-  },
-  {
-   "bfs": 6197,
-   "commune": "Kippel",
-   "street": "Hauptstrasse 61",
-   "postcode": "3917"
-  },
-  {
    "bfs": 6198,
    "commune": "Niedergesteln",
    "street": "Kirchgasse 6",
@@ -6805,25 +4250,8 @@
    "place": "Niedergesteln"
   },
   {
-   "bfs": 6202,
-   "commune": "Wiler (Lötschen)",
-   "street": "Dorfstrasse 24",
-   "postcode": "3918",
-   "place": "Wiler (Lötschen)"
-  },
-  {
-   "bfs": 6214,
-   "commune": "Finhaut",
-   "street": "Place de l'Eglise 3",
-   "postcode": "1925",
-   "place": "Finhaut"
-  },
-  {
    "bfs": 6215,
    "commune": "Massongex",
-   "street": "Place de l'Eglise 1",
-   "postcode": "1869",
-   "place": "Massongex",
    "opening_hours_mo_su": [
     "15:00-18:00",
     "15:00-17:00",
@@ -6833,20 +4261,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 6217,
-   "commune": "Saint-Maurice",
-   "street": "Grand-Rue 79",
-   "postcode": "1890",
-   "place": "St-Maurice"
-  },
-  {
-   "bfs": 6239,
-   "commune": "Icogne",
-   "street": "Chemin de la Bourgeoisie 7",
-   "postcode": "1977",
-   "place": "Icogne"
   },
   {
    "bfs": 6240,
@@ -6880,20 +4294,6 @@
    "street": "Pl. Mgr Gabriel Balet",
    "postcode": "1971",
    "place": "Grimisuat"
-  },
-  {
-   "bfs": 6286,
-   "commune": "Lalden",
-   "street": "Dorfstrasse 60",
-   "postcode": "3931",
-   "place": "Lalden"
-  },
-  {
-   "bfs": 6297,
-   "commune": "Visp",
-   "street": "St. Martiniplatz 1",
-   "postcode": "3930",
-   "place": "Visp"
   },
   {
    "bfs": 6300,
@@ -6938,20 +4338,6 @@
    "place": "La Chaux-de-Fonds"
   },
   {
-   "bfs": 6422,
-   "commune": "Les Planchettes",
-   "street": "Le Village 11",
-   "postcode": "2325",
-   "place": "Les Planchettes"
-  },
-  {
-   "bfs": 6452,
-   "commune": "Cressier (NE)",
-   "street": "Rue Vallier 4",
-   "postcode": "2088",
-   "place": "Cressier (NE)"
-  },
-  {
    "bfs": 6458,
    "commune": "Neuchâtel",
    "opening_hours_mo_su": [
@@ -6963,27 +4349,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 6487,
-   "commune": "Val-de-Ruz",
-   "street": "Rue de l'Epervier 6",
-   "postcode": "2053",
-   "place": "Cernier"
-  },
-  {
-   "bfs": 6512,
-   "commune": "Val-de-Travers",
-   "street": "Rue des Collèges 2",
-   "postcode": "2108",
-   "place": "Couvet"
-  },
-  {
-   "bfs": 6513,
-   "commune": "Laténa",
-   "street": "Grand'Rue 33,35",
-   "postcode": "2072",
-   "place": "St-Blaise"
   },
   {
    "bfs": 6606,
@@ -7028,32 +4393,8 @@
    "place": "Céligny"
   },
   {
-   "bfs": 6612,
-   "commune": "Chêne-Bougeries",
-   "street": "Route de Chêne 136",
-   "postcode": "1224",
-   "place": "Chêne-Bougeries"
-  },
-  {
-   "bfs": 6617,
-   "commune": "Cologny",
-   "street": "Route de La-Capite 24",
-   "postcode": "1223",
-   "place": "Cologny"
-  },
-  {
-   "bfs": 6618,
-   "commune": "Confignon",
-   "street": "Promenade des Rêveries 2",
-   "postcode": "1232",
-   "place": "Confignon"
-  },
-  {
    "bfs": 6620,
    "commune": "Dardagny",
-   "street": "Route du Mandement 520",
-   "postcode": "1283",
-   "place": "Dardagny",
    "opening_hours_mo_su": [
     "08:00-11:45",
     "08:00-11:45",
@@ -7065,26 +4406,12 @@
    ]
   },
   {
-   "bfs": 6621,
-   "commune": "Genève",
-   "street": "Rue de l'Hôtel-de-Ville 2",
-   "postcode": "1211",
-   "place": "Genève"
-  },
-  {
    "bfs": 6622,
    "commune": "Genthod",
    "street": "Rue du Village 37",
    "postcode": "1294",
    "place": "Genthod",
    "phone": "022 774 12 80"
-  },
-  {
-   "bfs": 6628,
-   "commune": "Lancy",
-   "street": "Route du Grand-Lancy 41",
-   "postcode": "1212",
-   "place": "Grand-Lancy"
   },
   {
    "bfs": 6631,
@@ -7102,20 +4429,6 @@
    "phone": "022 721 02 50"
   },
   {
-   "bfs": 6633,
-   "commune": "Plan-les-Ouates",
-   "street": "Route des Chevaliers-de-Malte 5",
-   "postcode": "1228",
-   "place": "Plan-les-Ouates"
-  },
-  {
-   "bfs": 6634,
-   "commune": "Pregny-Chambésy",
-   "street": "Route de Pregny 47",
-   "postcode": "1292",
-   "place": "Chambésy"
-  },
-  {
    "bfs": 6635,
    "commune": "Presinge",
    "street": "Route de La-Louvière 14",
@@ -7123,32 +4436,11 @@
    "place": "Presinge"
   },
   {
-   "bfs": 6638,
-   "commune": "Satigny",
-   "street": "Rampe de Choully 17",
-   "postcode": "1242",
-   "place": "Satigny"
-  },
-  {
    "bfs": 6640,
    "commune": "Thônex",
    "street": "Chemin du Bois-Des-Arts 58",
    "postcode": "1226",
    "place": "Thônex"
-  },
-  {
-   "bfs": 6642,
-   "commune": "Vandoeuvres",
-   "street": "Route de Vandoeuvres 104",
-   "postcode": "1253",
-   "place": "Vandoeuvres"
-  },
-  {
-   "bfs": 6643,
-   "commune": "Vernier",
-   "street": "Rue du Village 9",
-   "postcode": "1214",
-   "place": "Vernier"
   },
   {
    "bfs": 6645,
@@ -7169,13 +4461,6 @@
    ]
   },
   {
-   "bfs": 6708,
-   "commune": "Courrendlin",
-   "street": "Route de Châtillon 15",
-   "postcode": "2830",
-   "place": "Courrendlin"
-  },
-  {
    "bfs": 6743,
    "commune": "Les Breuleux",
    "street": "Rue des Esserts 2",
@@ -7192,34 +4477,6 @@
     "",
     ""
    ]
-  },
-  {
-   "bfs": 6800,
-   "commune": "Porrentruy",
-   "street": "Rue Pierre Péquignat 2",
-   "postcode": "2900",
-   "place": "Porrentruy"
-  },
-  {
-   "bfs": 6809,
-   "commune": "Haute-Ajoie",
-   "street": "L'Abbaye 114",
-   "postcode": "2906",
-   "place": "Chevenez"
-  },
-  {
-   "bfs": 6810,
-   "commune": "La Baroche",
-   "street": "Route Principale 64",
-   "postcode": "2947",
-   "place": "Charmoille"
-  },
-  {
-   "bfs": 6812,
-   "commune": "Basse-Vendline",
-   "street": "Place Louis-Chevrolet 74",
-   "postcode": "2944",
-   "place": "Bonfol"
   },
   {
    "bfs": 6831,
