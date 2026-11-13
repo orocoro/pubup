@@ -12,6 +12,7 @@ and are not touched):
     porta/<lang>/support.html           support page
     porta/privacy.html, support.html    redirect to the visitor's language
     porta/style.css
+    porta/data/                         open data (ODbL) copied from tools/porta-data/
 """
 import html
 import json
@@ -125,6 +126,9 @@ def main():
         shutil.rmtree(OUT)
     OUT.mkdir()
     shutil.copy(ROOT / "tools" / "style.css", OUT / "style.css")
+    # Open data Porta must publish (OpenStreetMap-derived, ODbL). The JSON is
+    # written by Guichet/Tools/DataRun/odbl_extract.py in orocoro/04xPorj.
+    shutil.copytree(ROOT / "tools" / "porta-data", OUT / "data")
     (OUT / "index.html").write_text(app_index(), encoding="utf-8")
     for name in ("privacy", "support"):
         (OUT / f"{name}.html").write_text(redirect(name), encoding="utf-8")
