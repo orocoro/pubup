@@ -1,0 +1,4489 @@
+{
+ "title": "Swiss commune administrations from OpenStreetMap (Porta extract)",
+ "license": "Open Database License (ODbL) 1.0, https://opendatacommons.org/licenses/odbl/1-0/",
+ "attribution": "© OpenStreetMap contributors, https://www.openstreetmap.org/copyright",
+ "generated": "2026-11-13",
+ "notes": "One townhall per commune (amenity=townhall), keyed by BFS commune number. Opening hours are Monday..Sunday, '' = closed. Not confirmed by the communes.",
+ "communes": [
+  {
+   "bfs": 2,
+   "commune": "Affoltern am Albis",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-18:30",
+    "08:00-11:30,13:30-16:00",
+    "08:00-11:30,13:30-16:00",
+    "08:00-11:30,13:30-16:00",
+    "07:00-15:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3,
+   "commune": "Bonstetten",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-18:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "07:00-13:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 13,
+   "commune": "Stallikon",
+   "street": "Reppischtalstrasse 53",
+   "postcode": "8143",
+   "place": "Stallikon",
+   "phone": "044 701 92 00",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-16:00",
+    "08:00-11:30",
+    "08:00-11:30,14:00-17:30",
+    "08:00-11:30,14:00-16:00",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 14,
+   "commune": "Wettswil am Albis",
+   "street": "Ettenbergstrasse 1",
+   "postcode": "8907",
+   "place": "Wettswil am Albis",
+   "phone": "044 700 06 42",
+   "email": "gemeindeverwaltung@wettswil.ch"
+  },
+  {
+   "bfs": 24,
+   "commune": "Buch am Irchel",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-18:00",
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30,14:00-16:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 37,
+   "commune": "Ossingen",
+   "opening_hours_mo_su": [
+    "",
+    "17:00-19:00",
+    "08:00-12:00,14:00-17:00",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 53,
+   "commune": "Bülach",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-18:30",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 54,
+   "commune": "Dietlikon",
+   "street": "Bahnhofstrasse 60",
+   "postcode": "8305",
+   "place": "Dietlikon",
+   "email": "gemeinde@dietlikon.org"
+  },
+  {
+   "bfs": 55,
+   "commune": "Eglisau",
+   "street": "Obergass 17",
+   "postcode": "8193",
+   "place": "Eglisau",
+   "phone": "043 422 35 01"
+  },
+  {
+   "bfs": 56,
+   "commune": "Embrach",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 62,
+   "commune": "Kloten",
+   "street": "Kirchgasse 7",
+   "postcode": "8302",
+   "place": "Kloten",
+   "phone": "044 815 11 11",
+   "email": "info@kloten.ch",
+   "opening_hours_mo_su": [
+    "08:00-12:30,13:30-16:30",
+    "08:00-12:30,13:30-16:30",
+    "08:00-12:30,13:30-16:30",
+    "13:30-19:00",
+    "07:15-13:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 66,
+   "commune": "Opfikon",
+   "opening_hours_mo_su": [
+    "08:00-12:00,13:45-18:30",
+    "08:00-12:00,13:45-16:30",
+    "08:00-12:00,13:45-16:30",
+    "08:00-12:00,13:45-18:30",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 81,
+   "commune": "Bachs",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-16:00",
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-16:00",
+    "08:00-11:30,14:00-16:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 85,
+   "commune": "Dänikon",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-18:00",
+    "",
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 87,
+   "commune": "Hüttikon",
+   "street": "Zürcherstrasse 22",
+   "postcode": "8115",
+   "place": "Hüttikon",
+   "phone": "044 847 25 00",
+   "email": "gemeinde@huettikon.ch"
+  },
+  {
+   "bfs": 91,
+   "commune": "Niederweningen",
+   "street": "Alte Stationsstrasse 19",
+   "postcode": "8166",
+   "place": "Niederweningen",
+   "phone": "044 857 12 20"
+  },
+  {
+   "bfs": 92,
+   "commune": "Oberglatt",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-18:30",
+    "08:30-11:30",
+    "08:30-11:30,14:00-16:15",
+    "14:00-16:15",
+    "07:00-13:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 93,
+   "commune": "Oberweningen",
+   "street": "Dorfstrasse 6",
+   "postcode": "8165",
+   "place": "Oberweningen",
+   "phone": "044 857 10 10",
+   "email": "gemeinde@oberweningen.ch",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-18:30",
+    "07:30-11:30",
+    "08:30-11:30,14:00-16:00",
+    "",
+    "08:30-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 97,
+   "commune": "Rümlang",
+   "opening_hours_mo_su": [
+    "08:30-11:30,13:30-16:30",
+    "08:30-11:30,13:30-18:30",
+    "08:30-11:30,13:30-16:30",
+    "08:30-11:30,13:30-16:30",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 112,
+   "commune": "Bubikon",
+   "street": "Rutschbergstrasse 18",
+   "postcode": "8608",
+   "place": "Bubikon",
+   "phone": "055 253 33 33",
+   "email": "info@bubikon.ch"
+  },
+  {
+   "bfs": 115,
+   "commune": "Gossau (ZH)",
+   "street": "Berghofstrasse 4",
+   "postcode": "8625",
+   "place": "Gossau ZH",
+   "phone": "044 936 55 60"
+  },
+  {
+   "bfs": 118,
+   "commune": "Rüti (ZH)",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 121,
+   "commune": "Wetzikon (ZH)",
+   "street": "Bahnhofstrasse 167",
+   "postcode": "8620",
+   "phone": "044 931 32 00",
+   "email": "info@wetzikon.ch"
+  },
+  {
+   "bfs": 135,
+   "commune": "Kilchberg (ZH)",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-18:00",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "07:00-15:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 141,
+   "commune": "Thalwil",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:00-18:00",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-15:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 155,
+   "commune": "Männedorf",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-18:30",
+    "07:00-11:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 176,
+   "commune": "Lindau",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-17:30",
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:00-16:30",
+    "08:00-13:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 177,
+   "commune": "Pfäffikon",
+   "street": "Hochstrasse 1",
+   "postcode": "8330",
+   "place": "Pfäffikon ZH",
+   "phone": "044 952 52 52",
+   "opening_hours_mo_su": [
+    "08:00-12:00,13:00-18:30",
+    "08:00-12:00",
+    "08:00-12:00",
+    "08:00-12:00,13:00-18:30",
+    "08:00-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 180,
+   "commune": "Weisslingen",
+   "street": "Dorfstrasse 40",
+   "postcode": "8484",
+   "place": "Weisslingen",
+   "phone": "052 397 31 00",
+   "email": "info@weisslingen.ch"
+  },
+  {
+   "bfs": 191,
+   "commune": "Dübendorf",
+   "opening_hours_mo_su": [
+    "09:00-11:30,13:30-16:00",
+    "13:30-19:00",
+    "09:00-11:30,13:30-16:00",
+    "09:00-11:30,13:30-16:00",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 198,
+   "commune": "Uster",
+   "street": "Gotthardweg 2",
+   "postcode": "8610",
+   "phone": "044 944 71 11",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-18:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 211,
+   "commune": "Altikon",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:30",
+    "08:00-11:30",
+    "08:00-11:30",
+    "08:00-11:30",
+    "08:00-13:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 216,
+   "commune": "Dinhard",
+   "opening_hours_mo_su": [
+    "09:00-11:30,14:00-17:30",
+    "09:00-11:30",
+    "09:00-11:30",
+    "09:00-11:30",
+    "09:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 220,
+   "commune": "Hagenbuch",
+   "opening_hours_mo_su": [
+    "09:00-11:30,13:30-18:30",
+    "08:00-11:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 221,
+   "commune": "Hettlingen",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30",
+    "07:00-13:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 230,
+   "commune": "Winterthur",
+   "opening_hours_mo_su": [
+    "08:00-17:00",
+    "08:00-17:00",
+    "08:00-17:00",
+    "08:00-18:30",
+    "08:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 243,
+   "commune": "Dietikon",
+   "street": "Bremgartnerstrasse 22",
+   "postcode": "8953",
+   "place": "Dietikon",
+   "phone": "044 744 35 35",
+   "email": "stadt@dietikon.ch",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-18:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 245,
+   "commune": "Oberengstringen",
+   "street": "Zürcherstrasse 125",
+   "postcode": "8102",
+   "place": "Oberengstringen",
+   "phone": "043 455 17 00",
+   "opening_hours_mo_su": [
+    "08:30-12:00,14:00-18:30",
+    "08:30-12:00",
+    "08:30-13:00,14:00-16:30",
+    "08:30-12:00",
+    "07:00-13:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 246,
+   "commune": "Oetwil an der Limmat",
+   "opening_hours_mo_su": [
+    "",
+    "08:00-11:00,14:00-18:30",
+    "08:00-11:00,14:00-16:00",
+    "08:00-11:00,14:00-16:00",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 248,
+   "commune": "Uitikon",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:30-14:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 249,
+   "commune": "Unterengstringen",
+   "opening_hours_mo_su": [
+    "08:30-11:30,13:30-18:30",
+    "08:30-11:30,13:30-16:00",
+    "08:30-11:30,13:30-16:00",
+    "08:30-11:30,13:30-16:00",
+    "08:30-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 250,
+   "commune": "Urdorf",
+   "opening_hours_mo_su": [
+    "08:30-12:00,13:30-16:00",
+    "08:30-12:00,13:30-16:00",
+    "08:30-12:00,13:30-16:00",
+    "08:30-12:00,13:30-18:30",
+    "07:30-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 251,
+   "commune": "Weiningen (ZH)",
+   "street": "Badenerstrasse 15",
+   "postcode": "8104",
+   "place": "Weiningen (ZH)",
+   "phone": "044 752 25 25",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:30",
+    "08:00-11:30,14:00-16:45",
+    "08:00-11:30,14:00-16:45",
+    "08:00-11:30,14:00-16:45",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 261,
+   "commune": "Zürich",
+   "street": "Stadthausquai 17",
+   "postcode": "8001",
+   "place": "Zürich"
+  },
+  {
+   "bfs": 293,
+   "commune": "Wädenswil",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-18:00",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 295,
+   "commune": "Horgen",
+   "street": "Bahnhofstrasse 10",
+   "postcode": "8810",
+   "place": "Horgen",
+   "phone": "+41447284111"
+  },
+  {
+   "bfs": 296,
+   "commune": "Illnau-Effretikon",
+   "street": "Märtplatz 29",
+   "postcode": "8307",
+   "place": "Effretikon",
+   "phone": "052 354 24 24",
+   "opening_hours_mo_su": [
+    "08:00-11:45,13:30-19:00",
+    "08:00-11:45,13:30-16:30",
+    "08:00-11:45,13:30-16:30",
+    "08:00-11:45,13:30-16:30",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 297,
+   "commune": "Bauma",
+   "street": "Dorfstrasse 41",
+   "postcode": "8494",
+   "place": "Bauma",
+   "phone": "052 397 70 20",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-18:30",
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:00-16:30",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 298,
+   "commune": "Wiesendangen",
+   "opening_hours_mo_su": [
+    "08:00-11:45,13:30-18:00",
+    "08:00-11:45,13:30-16:30",
+    "08:00-11:45,13:30-16:30",
+    "08:00-11:45,13:30-16:30",
+    "08:00-11:45,13:30-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 302,
+   "commune": "Bargen (BE)",
+   "opening_hours_mo_su": [
+    "09:00-12:00",
+    "09:00-12:00,14:00-18:00",
+    "09:00-12:00",
+    "09:00-12:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 309,
+   "commune": "Radelfingen",
+   "opening_hours_mo_su": [
+    "08:00-12:00,13:30-18:00",
+    "08:00-12:00,13:30-16:30",
+    "08:00-12:00,13:30-16:30",
+    "08:00-12:00,13:30-16:30",
+    "08:00-12:00,13:30-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 312,
+   "commune": "Seedorf (BE)",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:30",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 321,
+   "commune": "Aarwangen",
+   "opening_hours_mo_su": [
+    "08:15-11:30,14:00-17:00",
+    "08:15-11:30,14:00-17:00",
+    "14:00-18:00",
+    "08:15-11:30,14:00-17:00",
+    "08:15-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 352,
+   "commune": "Bolligen",
+   "opening_hours_mo_su": [
+    "14:00-16:00",
+    "14:00-16:00",
+    "14:00-16:00",
+    "14:00-16:00",
+    "14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 353,
+   "commune": "Bremgarten bei Bern",
+   "opening_hours_mo_su": [
+    "07:30-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 355,
+   "commune": "Köniz",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-18:00",
+    "08:00-12:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 356,
+   "commune": "Muri bei Bern",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-17:00",
+    "08:00-11:30,13:30-18:00",
+    "07:30-12:00",
+    "08:00-11:30,13:30-17:00",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 362,
+   "commune": "Ittigen",
+   "opening_hours_mo_su": [
+    "08:30-11:30,13:30-18:00",
+    "08:30-11:30,13:30-17:00",
+    "12:15-17:00",
+    "08:30-11:30,13:30-17:00",
+    "08:30-11:30,13:30-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 363,
+   "commune": "Ostermundigen",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "14:00-17:00",
+    "14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-15:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 415,
+   "commune": "Lyssach",
+   "opening_hours_mo_su": [
+    "08:00-11:45,13:30-18:00",
+    "08:00-11:45",
+    "08:00-11:45,13:30-17:00",
+    "08:00-11:45,13:30-17:00",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 495,
+   "commune": "Gampelen",
+   "opening_hours_mo_su": [
+    "08:00-14:00",
+    "08:00-14:00",
+    "",
+    "08:00-14:00",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 497,
+   "commune": "Lüscherz",
+   "opening_hours_mo_su": [
+    "10:00-12:00",
+    "10:00-12:00,15:00-18:00",
+    "10:00-12:00",
+    "10:00-12:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 498,
+   "commune": "Müntschemier",
+   "opening_hours_mo_su": [
+    "08:00-11:30",
+    "08:00-11:30,15:00-19:00",
+    "",
+    "08:00-11:30",
+    "08:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 544,
+   "commune": "Moosseedorf",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-17:00",
+    "14:00-17:00",
+    "08:00-15:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 546,
+   "commune": "Münchenbuchsee",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-18:30",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-15:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 572,
+   "commune": "Bönigen",
+   "opening_hours_mo_su": [
+    "09:00-12:00,14:00-18:00",
+    "09:00-12:00,14:00-17:00",
+    "09:00-12:00,14:00-17:00",
+    "09:00-12:00,14:00-17:00",
+    "09:00-12:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 574,
+   "commune": "Brienzwiler",
+   "opening_hours_mo_su": [
+    "08:00-12:00,13:30-17:00",
+    "",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:15-12:15,13:30-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 723,
+   "commune": "La Neuveville",
+   "opening_hours_mo_su": [
+    "08:30-11:30,13:45-16:15",
+    "08:30-11:30,13:45-16:15",
+    "08:30-11:30",
+    "08:30-11:30,13:45-17:45",
+    "08:30-11:30,13:45-16:15",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 756,
+   "commune": "Twann-Tüscherz",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-18:15",
+    "14:00-16:30",
+    "",
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 783,
+   "commune": "Hasliberg",
+   "opening_hours_mo_su": [
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 880,
+   "commune": "Rüeggisberg",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-18:00",
+    "08:00-12:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 886,
+   "commune": "Wattenwil",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "",
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 888,
+   "commune": "Wald (BE)",
+   "opening_hours_mo_su": [
+    "07:45-11:00,14:00-17:00",
+    "14:00-17:00",
+    "07:45-11:00,14:00-17:00",
+    "07:45-11:00,14:00-17:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 901,
+   "commune": "Eggiwil",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-16:30",
+    "08:00-12:00,14:00-16:30",
+    "08:00-12:00,14:00-16:30",
+    "08:00-12:00,14:00-16:30",
+    "08:00-12:00,14:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 907,
+   "commune": "Signau",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-18:00",
+    "08:00-12:00,14:00-17:00",
+    "",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 929,
+   "commune": "Hilterfingen",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:45",
+    "",
+    "08:00-12:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 934,
+   "commune": "Oberhofen am Thunersee",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-17:00",
+    "",
+    "08:00-11:30,14:00-17:00",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 948,
+   "commune": "Forst-Längenbühl",
+   "opening_hours_mo_su": [
+    "08:00-11:30",
+    "14:00-17:00",
+    "",
+    "08:00-11:30,14:00-18:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 992,
+   "commune": "Wangen an der Aare",
+   "opening_hours_mo_su": [
+    "16:30-18:30",
+    "09:30-12:00",
+    "09:30-12:00",
+    "09:30-12:00",
+    "09:30-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1001,
+   "commune": "Doppleschwand",
+   "street": "Dorfmatte 16",
+   "postcode": "6112",
+   "place": "Doppleschwand",
+   "phone": "041 482 60 30"
+  },
+  {
+   "bfs": 1002,
+   "commune": "Entlebuch",
+   "street": "Unter Bodenmatt 1",
+   "postcode": "6162",
+   "place": "Entlebuch",
+   "phone": "041 482 02 50"
+  },
+  {
+   "bfs": 1005,
+   "commune": "Hasle (LU)",
+   "street": "Dorf 15",
+   "postcode": "6166",
+   "place": "Hasle LU",
+   "phone": "041 482 60 60"
+  },
+  {
+   "bfs": 1007,
+   "commune": "Romoos",
+   "street": "Dorf 32",
+   "postcode": "6113",
+   "place": "Romoos",
+   "phone": "041 480 13 73"
+  },
+  {
+   "bfs": 1008,
+   "commune": "Schüpfheim",
+   "street": "Chilegass 1",
+   "postcode": "6170",
+   "place": "Schüpfheim",
+   "phone": "041 485 87 00"
+  },
+  {
+   "bfs": 1009,
+   "commune": "Werthenstein",
+   "street": "Marktweg 2",
+   "postcode": "6110",
+   "place": "Wolhusen",
+   "phone": "041 492 66 66"
+  },
+  {
+   "bfs": 1010,
+   "commune": "Escholzmatt-Marbach",
+   "street": "Hauptstrasse 95",
+   "postcode": "6182",
+   "place": "Escholzmatt",
+   "phone": "041 487 70 00"
+  },
+  {
+   "bfs": 1021,
+   "commune": "Aesch (LU)",
+   "street": "Kreuzplatz",
+   "postcode": "6287",
+   "place": "Aesch LU",
+   "phone": "041 917 13 46"
+  },
+  {
+   "bfs": 1023,
+   "commune": "Ballwil",
+   "street": "Ambar 2",
+   "postcode": "6275",
+   "place": "Ballwil",
+   "phone": "041 449 55 20"
+  },
+  {
+   "bfs": 1024,
+   "commune": "Emmen",
+   "street": "Rüeggisingerstrasse 22",
+   "postcode": "6021",
+   "place": "Emmenbrücke",
+   "phone": "041 268 01 11"
+  },
+  {
+   "bfs": 1025,
+   "commune": "Ermensee",
+   "street": "Schulhausstrasse 16",
+   "postcode": "6294",
+   "place": "Ermensee",
+   "phone": "041 917 23 10"
+  },
+  {
+   "bfs": 1030,
+   "commune": "Hitzkirch",
+   "street": "Aescherstrasse 14",
+   "postcode": "6295",
+   "place": "Mosen",
+   "phone": "041 919 70 30"
+  },
+  {
+   "bfs": 1031,
+   "commune": "Hochdorf",
+   "street": "Hauptstrasse 3",
+   "postcode": "6280",
+   "place": "Hochdorf",
+   "phone": "041 914 17 17"
+  },
+  {
+   "bfs": 1032,
+   "commune": "Hohenrain",
+   "street": "Unterdorfstrasse 7 7",
+   "postcode": "6276",
+   "place": "Hohenrain",
+   "phone": "041 914 61 11"
+  },
+  {
+   "bfs": 1033,
+   "commune": "Inwil",
+   "street": "Hauptstrasse 38",
+   "postcode": "6034",
+   "place": "Inwil",
+   "phone": "041 449 61 00"
+  },
+  {
+   "bfs": 1037,
+   "commune": "Rain",
+   "street": "Dorfstrasse 22",
+   "postcode": "6026",
+   "place": "Rain",
+   "phone": "041 459 80 00"
+  },
+  {
+   "bfs": 1039,
+   "commune": "Römerswil",
+   "street": "Dorf 6",
+   "postcode": "6027",
+   "place": "Römerswil",
+   "phone": "041 914 20 60"
+  },
+  {
+   "bfs": 1040,
+   "commune": "Rothenburg",
+   "street": "Stationsstrasse 4",
+   "postcode": "6023",
+   "place": "Rothenburg",
+   "phone": "041 288 81 11",
+   "opening_hours_mo_su": [
+    "08:00-18:00",
+    "08:00-18:00",
+    "08:00-18:00",
+    "08:00-18:00",
+    "08:00-18:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1041,
+   "commune": "Schongau",
+   "street": "Schulweg 2",
+   "postcode": "6288",
+   "place": "Schongau",
+   "phone": "058 670 62 88"
+  },
+  {
+   "bfs": 1051,
+   "commune": "Adligenswil",
+   "street": "Dorfstrasse 4",
+   "postcode": "6043",
+   "place": "Adligenswil",
+   "phone": "041 375 72 10"
+  },
+  {
+   "bfs": 1052,
+   "commune": "Buchrain",
+   "street": "Hauptstrasse 18",
+   "postcode": "6033",
+   "place": "Buchrain",
+   "phone": "041 444 20 20"
+  },
+  {
+   "bfs": 1053,
+   "commune": "Dierikon",
+   "street": "Rigistrasse 15",
+   "postcode": "6036",
+   "place": "Dierikon",
+   "phone": "041 455 53 10"
+  },
+  {
+   "bfs": 1054,
+   "commune": "Ebikon",
+   "street": "Zentralstrasse 24",
+   "postcode": "6030",
+   "place": "Ebikon",
+   "phone": "041 444 02 02"
+  },
+  {
+   "bfs": 1055,
+   "commune": "Gisikon",
+   "street": "Mühlehofstrasse 5",
+   "postcode": "6038",
+   "place": "Gisikon",
+   "phone": "041 455 42 00"
+  },
+  {
+   "bfs": 1058,
+   "commune": "Horw",
+   "street": "Hauptstrasse 49",
+   "postcode": "6048",
+   "place": "Horw",
+   "phone": "041 349 11 11"
+  },
+  {
+   "bfs": 1062,
+   "commune": "Malters",
+   "street": "Bahnhofstrasse 16",
+   "postcode": "6102",
+   "place": "Malters",
+   "phone": "041 499 66 66"
+  },
+  {
+   "bfs": 1064,
+   "commune": "Meierskappel",
+   "street": "Dorfstrasse 2",
+   "postcode": "6344",
+   "place": "Meierskappel",
+   "phone": "041 790 44 44"
+  },
+  {
+   "bfs": 1065,
+   "commune": "Root",
+   "street": "Schulstrasse 14",
+   "postcode": "6037",
+   "place": "Root",
+   "phone": "041 455 56 00"
+  },
+  {
+   "bfs": 1066,
+   "commune": "Schwarzenberg",
+   "street": "Kirchweg 6",
+   "postcode": "6103",
+   "place": "Schwarzenberg LU",
+   "phone": "041 499 60 50"
+  },
+  {
+   "bfs": 1067,
+   "commune": "Udligenswil",
+   "street": "Schlössligasse 2",
+   "postcode": "6044",
+   "place": "Udligenswil",
+   "phone": "041 371 13 13"
+  },
+  {
+   "bfs": 1068,
+   "commune": "Vitznau",
+   "street": "Dorfplatz 6",
+   "postcode": "6354",
+   "place": "Vitznau",
+   "phone": "041 399 02 20"
+  },
+  {
+   "bfs": 1069,
+   "commune": "Weggis",
+   "street": "Parkstrasse 1",
+   "postcode": "6353",
+   "place": "Weggis",
+   "phone": "041 392 15 15",
+   "email": "info@weggis.lu.ch",
+   "opening_hours_mo_su": [
+    "08:00-11:45,13:30-17:00",
+    "08:00-11:45,13:30-17:00",
+    "08:00-11:45,13:30-17:00",
+    "08:00-11:45,13:30-17:00",
+    "08:00-11:45,13:30-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1081,
+   "commune": "Beromünster",
+   "street": "Fläcke 1",
+   "postcode": "6215",
+   "place": "Beromünster",
+   "phone": "041 932 14 14"
+  },
+  {
+   "bfs": 1082,
+   "commune": "Büron",
+   "street": "Bahnhofstrasse 10",
+   "postcode": "6233",
+   "place": "Büron",
+   "phone": "041 935 40 40"
+  },
+  {
+   "bfs": 1083,
+   "commune": "Buttisholz",
+   "street": "Oberdorf 4",
+   "postcode": "6018",
+   "place": "Buttisholz",
+   "phone": "041 929 60 70"
+  },
+  {
+   "bfs": 1084,
+   "commune": "Eich",
+   "street": "Botenhofstrasse 4",
+   "postcode": "6205",
+   "place": "Eich",
+   "phone": "041 462 53 00"
+  },
+  {
+   "bfs": 1085,
+   "commune": "Geuensee",
+   "street": "Chäppelimatt 7",
+   "postcode": "6232",
+   "place": "Geuensee",
+   "phone": "041 925 79 79"
+  },
+  {
+   "bfs": 1088,
+   "commune": "Hildisrieden",
+   "street": "Luzernerstrasse 19",
+   "postcode": "6024",
+   "place": "Hildisrieden",
+   "phone": "041 462 60 70"
+  },
+  {
+   "bfs": 1089,
+   "commune": "Knutwil",
+   "street": "Büelstrasse 3",
+   "postcode": "6213",
+   "place": "Knutwil",
+   "phone": "041 925 82 82"
+  },
+  {
+   "bfs": 1091,
+   "commune": "Mauensee",
+   "street": "Vogelmatt 2",
+   "postcode": "6216",
+   "place": "Mauensee",
+   "phone": "041 921 14 84"
+  },
+  {
+   "bfs": 1093,
+   "commune": "Neuenkirch",
+   "street": "Luzernstrasse 16",
+   "postcode": "6206",
+   "place": "Neuenkirch",
+   "phone": "041 469 72 72"
+  },
+  {
+   "bfs": 1094,
+   "commune": "Nottwil",
+   "street": "Zentrum Sagi",
+   "postcode": "6207",
+   "place": "Nottwil",
+   "phone": "041 939 31 31"
+  },
+  {
+   "bfs": 1095,
+   "commune": "Oberkirch",
+   "opening_hours_mo_su": [
+    "08:00-11:45,14:00-17:00",
+    "08:00-11:45,14:00-17:00",
+    "08:00-11:45,14:00-17:00",
+    "08:00-11:45,14:00-17:00",
+    "08:00-11:45,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1097,
+   "commune": "Rickenbach (LU)",
+   "street": "Kirchplatz 1",
+   "postcode": "6221",
+   "place": "Rickenbach LU",
+   "phone": "041 932 00 20"
+  },
+  {
+   "bfs": 1098,
+   "commune": "Ruswil",
+   "opening_hours_mo_su": [
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1099,
+   "commune": "Schenkon",
+   "street": "Schulhausstrasse 1",
+   "postcode": "6214",
+   "place": "Schenkon",
+   "phone": "041 925 70 90"
+  },
+  {
+   "bfs": 1100,
+   "commune": "Schlierbach",
+   "street": "Dorf 16",
+   "postcode": "6231",
+   "place": "Schlierbach",
+   "phone": "041 933 13 07"
+  },
+  {
+   "bfs": 1102,
+   "commune": "Sempach",
+   "street": "Stadtstrasse 8",
+   "postcode": "6204",
+   "place": "Sempach",
+   "phone": "041 462 52 00"
+  },
+  {
+   "bfs": 1104,
+   "commune": "Triengen",
+   "street": "Oberdorf 2",
+   "postcode": "6234",
+   "place": "Triengen",
+   "phone": "041 935 44 55"
+  },
+  {
+   "bfs": 1107,
+   "commune": "Wolhusen",
+   "street": "Menznauerstrasse 13",
+   "postcode": "6110",
+   "place": "Wolhusen",
+   "phone": "041 492 66 66"
+  },
+  {
+   "bfs": 1121,
+   "commune": "Alberswil",
+   "street": "Dorf 1",
+   "postcode": "6248",
+   "place": "Alberswil",
+   "phone": "041 980 17 54"
+  },
+  {
+   "bfs": 1123,
+   "commune": "Altishofen",
+   "street": "Schloss",
+   "postcode": "6246",
+   "place": "Altishofen",
+   "phone": "062 756 21 84"
+  },
+  {
+   "bfs": 1125,
+   "commune": "Dagmersellen",
+   "street": "Obere Kirchfeldstrasse 4",
+   "postcode": "6252",
+   "place": "Dagmersellen",
+   "phone": "062 748 52 52"
+  },
+  {
+   "bfs": 1127,
+   "commune": "Egolzwil",
+   "street": "Dorfchärn",
+   "postcode": "6243",
+   "place": "Egolzwil",
+   "phone": "041 984 00 10"
+  },
+  {
+   "bfs": 1128,
+   "commune": "Ettiswil",
+   "street": "Surseestrasse 5",
+   "postcode": "6218",
+   "place": "Ettiswil",
+   "phone": "041 984 13 20"
+  },
+  {
+   "bfs": 1129,
+   "commune": "Fischbach",
+   "street": "Hauptstrasse 11",
+   "postcode": "6145",
+   "place": "Fischbach LU",
+   "phone": "041 988 12 13"
+  },
+  {
+   "bfs": 1131,
+   "commune": "Grossdietwil",
+   "street": "Luzernerstrasse 3",
+   "postcode": "6146",
+   "place": "Grossdietwil",
+   "phone": "062 927 12 13"
+  },
+  {
+   "bfs": 1132,
+   "commune": "Hergiswil bei Willisau",
+   "street": "Steinacher 1",
+   "postcode": "6133",
+   "place": "Hergiswil b. Willisau"
+  },
+  {
+   "bfs": 1135,
+   "commune": "Luthern",
+   "street": "Oberdorf 8",
+   "postcode": "6156",
+   "place": "Luthern",
+   "phone": "041 978 80 10"
+  },
+  {
+   "bfs": 1136,
+   "commune": "Menznau",
+   "street": "Wolhuserstrasse 3",
+   "postcode": "6122",
+   "place": "Menznau",
+   "phone": "041 494 93 10"
+  },
+  {
+   "bfs": 1137,
+   "commune": "Nebikon",
+   "street": "Kirchplatz 1",
+   "postcode": "6244",
+   "place": "Nebikon",
+   "phone": "062 748 24 00"
+  },
+  {
+   "bfs": 1139,
+   "commune": "Pfaffnau",
+   "street": "Dorfstrasse 20",
+   "postcode": "6264",
+   "place": "Pfaffnau",
+   "phone": "062 747 30 70"
+  },
+  {
+   "bfs": 1140,
+   "commune": "Reiden",
+   "street": "Dorfstrasse 9",
+   "postcode": "6262",
+   "place": "Langnau bei Reiden",
+   "phone": "062 749 00 60"
+  },
+  {
+   "bfs": 1142,
+   "commune": "Roggliswil",
+   "street": "Schulhausstrasse 5",
+   "postcode": "6265",
+   "place": "Roggliswil",
+   "phone": "062 747 01 20"
+  },
+  {
+   "bfs": 1143,
+   "commune": "Schötz",
+   "street": "Lörzigen 2",
+   "postcode": "6143",
+   "place": "Ohmstal",
+   "phone": "041 984 01 11"
+  },
+  {
+   "bfs": 1145,
+   "commune": "Ufhusen",
+   "street": "Schulhausstrasse 3",
+   "postcode": "6153",
+   "place": "Ufhusen",
+   "phone": "041 988 12 57"
+  },
+  {
+   "bfs": 1146,
+   "commune": "Wauwil",
+   "street": "Surseestrasse 1",
+   "postcode": "6242",
+   "place": "Wauwil",
+   "phone": "041 984 11 11"
+  },
+  {
+   "bfs": 1150,
+   "commune": "Zell (LU)",
+   "street": "Luthernstrasse 1",
+   "postcode": "6144",
+   "place": "Zell LU",
+   "phone": "041 989 81 00"
+  },
+  {
+   "bfs": 1151,
+   "commune": "Willisau",
+   "street": "Hauptgasse 13",
+   "postcode": "6130",
+   "place": "Willisau",
+   "phone": "041 972 63 63"
+  },
+  {
+   "bfs": 1201,
+   "commune": "Altdorf (UR)",
+   "street": "Tellsgasse 25",
+   "postcode": "6460",
+   "place": "Altdorf UR",
+   "phone": "041 874 12 12",
+   "email": "info@altdorf.ch"
+  },
+  {
+   "bfs": 1202,
+   "commune": "Andermatt",
+   "opening_hours_mo_su": [
+    "09:30-11:30,13:30-16:30",
+    "09:30-11:30,13:30-16:30",
+    "",
+    "09:30-11:30,13:30-16:30",
+    "09:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1203,
+   "commune": "Attinghausen",
+   "street": "Schulhausweg 7",
+   "postcode": "6468",
+   "place": "Attinghausen",
+   "phone": "041 874 14 50",
+   "email": "info@attinghausen.ch",
+   "opening_hours_mo_su": [
+    "08:30-11:45,14:00-17:00",
+    "08:30-11:45,14:00-17:00",
+    "08:30-11:45,14:00-17:00",
+    "08:30-11:45,14:00-17:00",
+    "08:30-11:45,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1206,
+   "commune": "Erstfeld",
+   "street": "Gotthardstrasse 99",
+   "postcode": "6472",
+   "place": "Erstfeld",
+   "phone": "041 882 01 30",
+   "opening_hours_mo_su": [
+    "09:00-11:30,15:00-17:00",
+    "09:00-11:30,15:00-17:00",
+    "09:00-11:30,15:00-17:00",
+    "09:00-11:30,15:00-17:00",
+    "09:00-11:30,15:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1207,
+   "commune": "Flüelen",
+   "street": "Dorfstrasse 1",
+   "postcode": "6454",
+   "place": "Flüelen",
+   "phone": "041 874 10 00"
+  },
+  {
+   "bfs": 1213,
+   "commune": "Schattdorf",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:30",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1215,
+   "commune": "Seelisberg",
+   "opening_hours_mo_su": [
+    "08:30-11:00",
+    "08:30-11:00,13:30-17:00",
+    "08:30-11:00,13:30-17:00",
+    "08:30-11:00,13:30-17:00",
+    "08:30-11:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1216,
+   "commune": "Silenen",
+   "street": "Gotthardstrasse 217",
+   "postcode": "6473",
+   "place": "Silenen",
+   "phone": "041 884 81 10",
+   "opening_hours_mo_su": [
+    "15:00-17:30",
+    "15:00-17:30",
+    "15:00-17:30",
+    "15:00-17:30",
+    "07:00-09:30,13:30-17:00",
+    "15:00-17:30",
+    "15:00-17:30"
+   ]
+  },
+  {
+   "bfs": 1322,
+   "commune": "Freienbach",
+   "street": "Etzelstrasse 13",
+   "postcode": "8808",
+   "place": "Pfäffikon SZ",
+   "phone": "055 416 92 00"
+  },
+  {
+   "bfs": 1323,
+   "commune": "Wollerau",
+   "opening_hours_mo_su": [
+    "08:30-11:30,13:30-18:00",
+    "08:30-11:30,13:30-16:30",
+    "08:30-11:30,13:30-16:30",
+    "08:30-11:30,13:30-16:30",
+    "07:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1331,
+   "commune": "Küssnacht (SZ)",
+   "street": "Seeplatz 3",
+   "postcode": "6403",
+   "place": "Küssnacht am Rigi",
+   "phone": "041 854 01 81"
+  },
+  {
+   "bfs": 1362,
+   "commune": "Arth",
+   "street": "Rathausplatz 6",
+   "postcode": "6415",
+   "place": "Arth",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1366,
+   "commune": "Morschach",
+   "opening_hours_mo_su": [
+    "08:30-12:00,13:30-18:00",
+    "08:30-12:00",
+    "08:30-12:00",
+    "08:30-12:00,13:30-16:30",
+    "08:30-12:00",
+    "08:30-12:00",
+    ""
+   ]
+  },
+  {
+   "bfs": 1407,
+   "commune": "Sarnen",
+   "opening_hours_mo_su": [
+    "08:00-11:45,13:30-17:00",
+    "08:00-11:45,13:30-17:00",
+    "08:00-11:45,13:30-17:00",
+    "08:00-11:45,13:30-17:00",
+    "08:00-11:45,13:30-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1502,
+   "commune": "Buochs",
+   "street": "Beckenriederstrasse 9",
+   "postcode": "6374",
+   "place": "Buochs",
+   "phone": "041 624 52 52",
+   "email": "info@buochs.ch"
+  },
+  {
+   "bfs": 1503,
+   "commune": "Dallenwil",
+   "street": "Kreuzmattstrasse 1",
+   "postcode": "6383",
+   "place": "Dallenwil",
+   "phone": "041 629 77 99",
+   "email": "dallenwil@nw.ch"
+  },
+  {
+   "bfs": 1504,
+   "commune": "Emmetten",
+   "street": "Hinterhostattstrasse 6",
+   "postcode": "6376",
+   "place": "Emmetten",
+   "phone": "041 624 99 99",
+   "email": "gemeinde@emmetten.ch"
+  },
+  {
+   "bfs": 1505,
+   "commune": "Ennetbürgen",
+   "street": "Friedenstrasse 6",
+   "postcode": "6373",
+   "place": "Ennetbürgen",
+   "phone": "041 624 40 10",
+   "email": "info@ennetbuergen.ch",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1507,
+   "commune": "Hergiswil (NW)",
+   "street": "Seestrasse 54",
+   "postcode": "6052",
+   "place": "Hergiswil NW",
+   "phone": "041 632 65 65",
+   "email": "info@hergiswil.ch",
+   "opening_hours_mo_su": [
+    "08:00-12:00,13:30-16:30",
+    "08:00-12:00,13:30-16:30",
+    "08:00-12:00,13:30-16:30",
+    "08:00-12:00,13:30-16:30",
+    "08:00-12:00,13:30-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1508,
+   "commune": "Oberdorf (NW)",
+   "street": "Schulhausstrasse 19",
+   "postcode": "6370",
+   "place": "Oberdorf",
+   "phone": "041 618 62 62",
+   "email": "oberdorf@nw.ch"
+  },
+  {
+   "bfs": 1509,
+   "commune": "Stans",
+   "street": "Stansstaderstrasse 18",
+   "postcode": "6370",
+   "place": "Stans",
+   "phone": "041 619 01 00",
+   "email": "gemeindeverwaltung@stans.nw.ch",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1510,
+   "commune": "Stansstad",
+   "street": "Achereggstrasse 1",
+   "postcode": "6362",
+   "place": "Stansstad",
+   "phone": "041 618 24 24",
+   "email": "info@stansstad.ch",
+   "opening_hours_mo_su": [
+    "08:00-11:45,14:00-17:00",
+    "08:00-11:45,14:00-17:00",
+    "08:00-11:45,14:00-17:00",
+    "08:00-11:45,14:00-17:00",
+    "08:00-11:45,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1511,
+   "commune": "Wolfenschiessen",
+   "street": "Hauptstrasse 20",
+   "postcode": "6386",
+   "place": "Wolfenschiessen",
+   "phone": "041 629 73 30",
+   "email": "gemeindeverwaltung@wolfenschiessen.ch",
+   "opening_hours_mo_su": [
+    "08:00-11:45,14:00-17:00",
+    "14:00-17:00",
+    "08:00-11:45,14:00-17:00",
+    "14:00-18:00",
+    "08:00-11:45,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 1632,
+   "commune": "Glarus",
+   "street": "Rathausplatz 7",
+   "postcode": "8750",
+   "place": "Glarus"
+  },
+  {
+   "bfs": 1707,
+   "commune": "Risch",
+   "street": "Dorfmatt 1",
+   "postcode": "6343",
+   "place": "Rotkreuz",
+   "opening_hours_mo_su": [
+    "09:00-11:00,14:00-17:00",
+    "09:00-11:00,14:00-17:00",
+    "09:00-11:00,14:00-17:00",
+    "09:00-11:00,14:00-17:00",
+    "09:00-11:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2022,
+   "commune": "Gletterens",
+   "opening_hours_mo_su": [
+    "07:30-11:30,14:00-18:00",
+    "",
+    "",
+    "07:30-11:30",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2051,
+   "commune": "Delley-Portalban",
+   "opening_hours_mo_su": [
+    "08:30-10:30,16:00-18:30",
+    "08:30-10:30,14:00-17:00",
+    "08:30-10:30,14:00-16:30",
+    "08:30-10:30,14:00-17:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2055,
+   "commune": "Cheyres-Châbles",
+   "street": "Rue de la Gare 12",
+   "postcode": "1468",
+   "place": "Cheyres",
+   "phone": "026 663 37 91",
+   "email": "commune@cheyres-chables.ch"
+  },
+  {
+   "bfs": 2143,
+   "commune": "Morlon",
+   "street": "Au Village 46",
+   "postcode": "1638",
+   "place": "Morlon",
+   "phone": "026 912 38 30"
+  },
+  {
+   "bfs": 2174,
+   "commune": "Avry",
+   "street": "Route des Fontanettes 57",
+   "postcode": "1754",
+   "place": "Avry",
+   "phone": "026 470 40 00"
+  },
+  {
+   "bfs": 2175,
+   "commune": "Belfaux",
+   "opening_hours_mo_su": [
+    "10:00-11:45",
+    "07:30-11:45,15:00-17:00",
+    "10:00-11:45,15:00-18:30",
+    "10:00-11:45,13:30-17:00",
+    "10:00-11:45",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2194,
+   "commune": "Ferpicloz",
+   "street": "Route de la Forêt 26",
+   "postcode": "1724",
+   "place": "Ferpicloz",
+   "phone": "026 413 25 91",
+   "email": "administration@ferpicloz.ch"
+  },
+  {
+   "bfs": 2206,
+   "commune": "Marly",
+   "street": "Route de Fribourg 9",
+   "postcode": "1723",
+   "place": "Marly",
+   "phone": "026 435 50 50",
+   "email": "commune@marly.ch"
+  },
+  {
+   "bfs": 2265,
+   "commune": "Kerzers",
+   "street": "Herresrain 1",
+   "postcode": "3210",
+   "place": "Kerzers",
+   "phone": "031 750 53 53"
+  },
+  {
+   "bfs": 2284,
+   "commune": "Mont-Vully",
+   "street": "Route Principale",
+   "postcode": "1786",
+   "place": "Nant",
+   "phone": "026 673 90 40"
+  },
+  {
+   "bfs": 2300,
+   "commune": "Plasselb",
+   "street": "Dorfweg 16",
+   "postcode": "1737",
+   "place": "Plasselb",
+   "phone": "026 419 13 53",
+   "email": "gemeinde@plasselb.ch",
+   "opening_hours_mo_su": [
+    "14:00-17:00",
+    "14:00-17:00",
+    "14:00-17:00",
+    "14:00-17:00",
+    "14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2301,
+   "commune": "Rechthalten",
+   "street": "Im Dorf 21",
+   "postcode": "1718",
+   "place": "Rechthalten",
+   "phone": "026 418 22 37",
+   "email": "gemeinde@rechthalten.ch"
+  },
+  {
+   "bfs": 2321,
+   "commune": "Attalens",
+   "opening_hours_mo_su": [
+    "09:00-11:30,13:10-16:00",
+    "09:00-11:30,13:10-16:00",
+    "09:00-11:30,13:10-16:00",
+    "",
+    "07:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2325,
+   "commune": "Châtel-Saint-Denis",
+   "street": "Avenue de la Gare 33",
+   "postcode": "1618",
+   "place": "Châtel-St-Denis",
+   "phone": "021 948 22 11"
+  },
+  {
+   "bfs": 2333,
+   "commune": "Remaufens",
+   "street": "Route Villageoise 53",
+   "postcode": "1617",
+   "place": "Remaufens",
+   "phone": "021 948 80 84",
+   "email": "administration@remaufens.ch"
+  },
+  {
+   "bfs": 2472,
+   "commune": "Büren (SO)",
+   "opening_hours_mo_su": [
+    "10:00-12:00",
+    "10:00-12:00",
+    "10:00-12:00",
+    "16:00-18:30",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2473,
+   "commune": "Dornach",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-16:00",
+    "07:30-11:30",
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30,14:00-18:00",
+    "08:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2477,
+   "commune": "Metzerlen-Mariastein",
+   "opening_hours_mo_su": [
+    "",
+    "10:00-12:00",
+    "",
+    "",
+    "10:00-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2478,
+   "commune": "Nuglar-St. Pantaleon",
+   "street": "Ausserdorfstrasse 51",
+   "postcode": "4412",
+   "place": "Nuglar",
+   "phone": "061 911 99 88",
+   "email": "gemeinde@nuglar.ch"
+  },
+  {
+   "bfs": 2556,
+   "commune": "Selzach",
+   "street": "Schänzlistrasse 2",
+   "postcode": "2545",
+   "place": "Selzach",
+   "phone": "032 641 24 34",
+   "email": "info@selzach.ch"
+  },
+  {
+   "bfs": 2618,
+   "commune": "Himmelried",
+   "street": "Hauptstrasse 52",
+   "postcode": "4204",
+   "place": "Himmelried",
+   "phone": "061 741 17 78",
+   "email": "info@himmelried.ch"
+  },
+  {
+   "bfs": 2620,
+   "commune": "Meltingen",
+   "street": "Hauptstrasse 54",
+   "postcode": "4233",
+   "place": "Meltingen",
+   "phone": "061 551 03 30",
+   "opening_hours_mo_su": [
+    "09:00-11:00",
+    "",
+    "",
+    "17:00-19:00",
+    "14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2762,
+   "commune": "Allschwil",
+   "opening_hours_mo_su": [
+    "08:30-11:30,13:30-18:00",
+    "08:30-11:30",
+    "08:30-11:30,13:30-17:00",
+    "08:30-11:30",
+    "08:30-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2771,
+   "commune": "Oberwil (BL)",
+   "opening_hours_mo_su": [
+    "09:30-11:30,13:30-16:30",
+    "07:30-13:30",
+    "09:30-11:30,13:30-16:30",
+    "09:30-11:30,13:30-18:30",
+    "09:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2774,
+   "commune": "Schönenbuch",
+   "opening_hours_mo_su": [
+    "09:00-11:30,13:30-17:00",
+    "09:00-11:30,13:30-18:00",
+    "",
+    "09:00-11:30,13:30-17:00",
+    "09:00-11:30,13:30-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2828,
+   "commune": "Lausen",
+   "opening_hours_mo_su": [
+    "09:30-12:00,14:00-17:00",
+    "07:30-12:00",
+    "09:30-12:00,14:00-18:00",
+    "09:30-13:00",
+    "09:30-12:00,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2829,
+   "commune": "Liestal",
+   "opening_hours_mo_su": [
+    "07:30-11:30",
+    "08:00-11:30,13:30-16:30",
+    "10:30-18:30",
+    "08:30-11:30,13:30-16:30",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2830,
+   "commune": "Lupsingen",
+   "opening_hours_mo_su": [
+    "",
+    "09:30-11:30,14:00-17:00",
+    "09:30-11:30",
+    "09:30-11:30",
+    "09:30-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2885,
+   "commune": "Eptingen",
+   "opening_hours_mo_su": [
+    "",
+    "09:00-11:00,16:00-19:00",
+    "",
+    "09:00-11:00,14:00-17:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2915,
+   "commune": "Dörflingen",
+   "opening_hours_mo_su": [
+    "",
+    "08:30-11:30,14:00-17:00",
+    "",
+    "08:30-11:30,14:00-18:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2932,
+   "commune": "Beringen",
+   "opening_hours_mo_su": [
+    "09:00-12:00,14:00-17:00",
+    "09:00-12:00,14:00-17:00",
+    "14:00-18:00",
+    "09:00-12:00,14:00-17:00",
+    "09:00-12:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2936,
+   "commune": "Merishausen",
+   "street": "Hauptstrasse 78",
+   "postcode": "8232",
+   "place": "Merishausen"
+  },
+  {
+   "bfs": 2937,
+   "commune": "Neuhausen am Rheinfall",
+   "opening_hours_mo_su": [
+    "09:00-12:00,13:30-17:00",
+    "09:00-12:00,13:30-17:00",
+    "09:00-12:00,13:30-17:00",
+    "09:00-12:00,13:30-17:00",
+    "09:00-12:00,13:30-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2939,
+   "commune": "Schaffhausen",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2951,
+   "commune": "Beggingen",
+   "opening_hours_mo_su": [
+    "",
+    "08:30-11:30",
+    "",
+    "08:30-11:30,18:00-19:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2953,
+   "commune": "Siblingen",
+   "opening_hours_mo_su": [
+    "08:30-11:30",
+    "",
+    "",
+    "15:30-18:30",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 2964,
+   "commune": "Stein am Rhein",
+   "street": "Rathausplatz 1",
+   "postcode": "8260",
+   "place": "Stein am Rhein",
+   "phone": "052 742 20 20"
+  },
+  {
+   "bfs": 2971,
+   "commune": "Hallau",
+   "street": "Hauptstrasse 44",
+   "postcode": "8215",
+   "place": "Hallau"
+  },
+  {
+   "bfs": 3003,
+   "commune": "Schönengrund",
+   "street": "Unterdorf 13",
+   "postcode": "9105",
+   "place": "Schönengrund",
+   "phone": "071 361 18 18"
+  },
+  {
+   "bfs": 3021,
+   "commune": "Bühler",
+   "street": "Dorfstrasse 42",
+   "postcode": "9055",
+   "place": "Bühler",
+   "phone": "071 791 70 23",
+   "email": "info@buehler.ar.ch",
+   "opening_hours_mo_su": [
+    "09:30-17:00",
+    "09:30-11:30",
+    "",
+    "09:30-11:30",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3025,
+   "commune": "Trogen",
+   "street": "Landsgemeindeplatz 1",
+   "postcode": "9043",
+   "place": "Trogen",
+   "phone": "071 343 78 78",
+   "email": "gemeinde@trogen.ar.ch",
+   "opening_hours_mo_su": [
+    "08:30-11:00,14:00-17:00",
+    "08:30-11:00",
+    "08:30-11:00,14:00-17:00",
+    "08:30-11:00,14:00-17:00",
+    "08:30-11:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3031,
+   "commune": "Grub (AR)",
+   "street": "Dorf 60",
+   "postcode": "9035",
+   "place": "Grub AR",
+   "phone": "071 891 17 48",
+   "email": "info@grub.ch"
+  },
+  {
+   "bfs": 3032,
+   "commune": "Heiden",
+   "opening_hours_mo_su": [
+    "09:00-11:30,14:00-16:30",
+    "09:00-11:30,14:00-16:30",
+    "09:00-11:30,14:00-16:30",
+    "09:00-11:30,14:00-16:30",
+    "09:00-11:30,14:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3033,
+   "commune": "Lutzenberg",
+   "opening_hours_mo_su": [
+    "09:00-11:30,14:00-17:00",
+    "09:00-11:30",
+    "09:00-11:30",
+    "09:00-11:30",
+    "09:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3036,
+   "commune": "Wald (AR)",
+   "street": "Dorf 37",
+   "postcode": "9044",
+   "place": "Wald AR",
+   "phone": "071 877 31 08",
+   "email": "info@wald.ar.ch",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30",
+    "08:00-11:30",
+    "08:00-11:30",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3037,
+   "commune": "Walzenhausen",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-18:00",
+    "08:00-12:00,14:00-16:30",
+    "08:00-12:00,14:00-16:30",
+    "08:00-12:00,14:00-16:30",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3038,
+   "commune": "Wolfhalden",
+   "opening_hours_mo_su": [
+    "09:30-11:30,14:00-16:00",
+    "09:30-11:30",
+    "09:30-11:30,14:00-16:00",
+    "09:30-11:30,14:00-16:00",
+    "09:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3104,
+   "commune": "Schlatt-Haslen",
+   "opening_hours_mo_su": [
+    "08:00-12:00",
+    "",
+    "",
+    "13:30-17:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3111,
+   "commune": "Oberegg",
+   "street": "Dorfstrasse 17",
+   "postcode": "9413",
+   "place": "Oberegg",
+   "phone": "071 898 50 80",
+   "email": "info@oberegg.ai.ch",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3112,
+   "commune": "Schwende-Rüte",
+   "opening_hours_mo_su": [
+    "07:30-11:30,13:30-17:00",
+    "07:30-11:30,13:30-17:00",
+    "07:30-11:30",
+    "07:30-11:30,13:30-17:00",
+    "07:30-11:30,13:30-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3202,
+   "commune": "Muolen",
+   "opening_hours_mo_su": [
+    "13:30-16:30",
+    "13:30-16:30",
+    "13:30-16:30",
+    "13:30-16:30",
+    "08:30-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3203,
+   "commune": "St. Gallen",
+   "street": "Poststrasse 28",
+   "postcode": "9000",
+   "place": "St. Gallen"
+  },
+  {
+   "bfs": 3216,
+   "commune": "Rorschacherberg",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:30-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3219,
+   "commune": "Untereggen",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-18:00",
+    "08:00-11:30",
+    "13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "07:30-13:15",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3231,
+   "commune": "Au (SG)",
+   "street": "Kirchweg 6",
+   "postcode": "9434",
+   "place": "Au SG",
+   "phone": "071 747 02 10"
+  },
+  {
+   "bfs": 3235,
+   "commune": "Rheineck",
+   "opening_hours_mo_su": [
+    "08:30-11:30,13:30-17:00",
+    "08:30-11:30,13:30-17:00",
+    "08:30-11:30,13:30-17:00",
+    "08:30-11:30,13:30-17:00",
+    "08:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3238,
+   "commune": "Widnau",
+   "street": "Neugasse 4",
+   "postcode": "9443",
+   "place": "Widnau",
+   "phone": "071 727 03 00",
+   "email": "info@widnau.ch"
+  },
+  {
+   "bfs": 3252,
+   "commune": "Eichberg",
+   "opening_hours_mo_su": [
+    "08:15-12:30,14:00-18:00",
+    "08:15-11:30,14:00-16:30",
+    "08:15-11:30,14:00-16:30",
+    "08:15-11:30,14:00-16:30",
+    "08:15-11:30,14:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3274,
+   "commune": "Sennwald",
+   "street": "Spengelgass 10",
+   "postcode": "9467",
+   "place": "Frümsen",
+   "phone": "058 228 28 28"
+  },
+  {
+   "bfs": 3291,
+   "commune": "Bad Ragaz",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:45-16:00",
+    "08:00-11:30,13:45-16:00",
+    "08:00-11:30,13:45-16:00",
+    "08:00-11:30,13:45-18:00",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3293,
+   "commune": "Mels",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-16:00",
+    "08:00-11:30,13:30-16:00",
+    "08:00-11:30,13:30-16:00",
+    "08:00-11:30,13:30-18:00",
+    "08:00-11:30,13:30-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3296,
+   "commune": "Sargans",
+   "street": "Städtchenstrasse 45",
+   "postcode": "7320",
+   "place": "Sargans",
+   "phone": "081 725 56 56"
+  },
+  {
+   "bfs": 3316,
+   "commune": "Weesen",
+   "street": "Hauptstrasse 15",
+   "postcode": "8872",
+   "place": "Weesen",
+   "phone": "055 616 60 16"
+  },
+  {
+   "bfs": 3340,
+   "commune": "Rapperswil-Jona",
+   "opening_hours_mo_su": [
+    "08:30-11:30,13:15-18:30",
+    "08:30-11:30",
+    "08:30-11:30,13:15-16:30",
+    "08:30-11:30",
+    "08:30-11:30,13:15-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3341,
+   "commune": "Gommiswald",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3360,
+   "commune": "Nesslau",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3396,
+   "commune": "Neckertal",
+   "street": "Lettenstrasse 3",
+   "postcode": "9122",
+   "place": "Mogelsberg",
+   "phone": "058 228 33 33",
+   "email": "gemeinde@neckertal.ch",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-18:00",
+    "08:00-17:00",
+    "08:00-11:30",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3408,
+   "commune": "Uzwil",
+   "street": "Stickereiplatz 1",
+   "postcode": "9240",
+   "place": "Uzwil",
+   "phone": "071 950 40 00",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-18:30",
+    "08:00-11:30,13:30-17:00",
+    "08:00-11:30,13:30-17:00",
+    "08:00-11:30,13:30-17:00",
+    "08:00-11:30,13:30-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3423,
+   "commune": "Niederhelfenschwil",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3426,
+   "commune": "Zuzwil (SG)",
+   "street": "Hinterdorfstrasse 3",
+   "postcode": "9524",
+   "place": "Zuzwil SG",
+   "phone": "058 228 28 60"
+  },
+  {
+   "bfs": 3443,
+   "commune": "Gossau (SG)",
+   "opening_hours_mo_su": [
+    "08:30-11:30,13:30-18:00",
+    "13:00-17:00",
+    "08:30-11:30,13:30-17:00",
+    "08:30-11:30,13:30-17:00",
+    "08:30-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3444,
+   "commune": "Waldkirch",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "07:30-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3603,
+   "commune": "Vals",
+   "opening_hours_mo_su": [
+    "10:00-12:00,15:30-18:00",
+    "10:00-12:00,15:30-17:00",
+    "10:00-12:00,15:30-17:00",
+    "10:00-12:00,15:30-17:00",
+    "10:00-12:00,15:30-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3673,
+   "commune": "Domleschg",
+   "opening_hours_mo_su": [
+    "09:00-11:00,14:00-17:00",
+    "",
+    "09:00-11:00,14:00-17:00",
+    "",
+    "09:00-11:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3681,
+   "commune": "Avers",
+   "street": "Cresta 364",
+   "postcode": "7447",
+   "place": "Avers",
+   "phone": "081 667 11 62",
+   "email": "gemeinde@avers.ch",
+   "opening_hours_mo_su": [
+    "",
+    "08:00-12:00,14:00-17:00",
+    "",
+    "08:00-12:00,14:00-17:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3695,
+   "commune": "Sufers",
+   "street": "Poststrasse 13",
+   "postcode": "7434",
+   "place": "Sufers",
+   "phone": "081 664 10 10",
+   "email": "kanzlei@sufers.ch",
+   "opening_hours_mo_su": [
+    "09:00-11:00",
+    "",
+    "",
+    "09:00-11:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3711,
+   "commune": "Rongellen",
+   "street": "Husmatta 3",
+   "postcode": "7430",
+   "place": "Rongellen",
+   "phone": "081 651 44 96",
+   "opening_hours_mo_su": [
+    "",
+    "08:00-11:30",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3714,
+   "commune": "Rheinwald",
+   "street": "Oberdorf 40",
+   "postcode": "7435",
+   "place": "Splügen",
+   "phone": "081 664 11 28",
+   "email": "gemeinde@rheinwald.ch"
+  },
+  {
+   "bfs": 3762,
+   "commune": "Scuol",
+   "opening_hours_mo_su": [
+    "09:30-12:00",
+    "09:30-12:00",
+    "09:30-12:00",
+    "09:30-12:00",
+    "09:30-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3783,
+   "commune": "Madulain",
+   "street": "Via Suot 6",
+   "postcode": "7523",
+   "place": "Madulain",
+   "phone": "081 854 11 41",
+   "email": "info@madulain.ch",
+   "opening_hours_mo_su": [
+    "09:30-11:30",
+    "09:30-11:30",
+    "09:30-11:30",
+    "09:30-11:30",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3792,
+   "commune": "Bregaglia",
+   "street": "Via ai Crott 17",
+   "postcode": "7606",
+   "place": "Promontogno",
+   "phone": "081 822 60 60",
+   "email": "cancelleria@bregaglia.ch",
+   "opening_hours_mo_su": [
+    "10:00-11:30,14:00-17:00",
+    "10:00-11:30",
+    "10:00-11:30,14:00-17:00",
+    "10:00-11:30",
+    "10:00-11:30,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3831,
+   "commune": "Cama",
+   "street": "Stradon 113",
+   "postcode": "6557",
+   "place": "Cama"
+  },
+  {
+   "bfs": 3862,
+   "commune": "Furna",
+   "street": "Dorfstrasse 16",
+   "postcode": "7232",
+   "place": "Furna",
+   "phone": "081 332 30 93"
+  },
+  {
+   "bfs": 3863,
+   "commune": "Jenaz",
+   "opening_hours_mo_su": [
+    "08:30-11:30",
+    "",
+    "15:00-19:00",
+    "",
+    "08:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3871,
+   "commune": "Klosters",
+   "street": "Rathausgasse 2",
+   "postcode": "7250",
+   "place": "Klosters",
+   "phone": "081 423 36 00",
+   "opening_hours_mo_su": [
+    "08:30-11:30",
+    "08:30-11:30",
+    "08:30-11:30,13:30-16:30",
+    "08:30-11:30,13:30-16:30",
+    "08:30-11:30,13:30-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3881,
+   "commune": "Conters im Prättigau",
+   "street": "Ägerta 13",
+   "postcode": "7241",
+   "place": "Conters im Prättigau"
+  },
+  {
+   "bfs": 3901,
+   "commune": "Chur",
+   "opening_hours_mo_su": [
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3911,
+   "commune": "Churwalden",
+   "opening_hours_mo_su": [
+    "09:00-12:00,15:00-17:00",
+    "09:00-12:00,15:00-17:00",
+    "09:00-12:00,15:00-17:00",
+    "09:00-12:00,15:00-17:00",
+    "09:00-12:00,15:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3952,
+   "commune": "Jenins",
+   "street": "Rathausplatz 1",
+   "postcode": "7307",
+   "place": "Jenins",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-17:00",
+    "",
+    "08:00-17:00",
+    "",
+    "08:00-12:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3955,
+   "commune": "Landquart",
+   "street": "Unterdorfstrasse 1",
+   "postcode": "7206",
+   "place": "Igis",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 3962,
+   "commune": "Schiers",
+   "opening_hours_mo_su": [
+    "08:30-11:00,14:00-17:00",
+    "08:30-11:00,14:00-17:00",
+    "08:30-11:00,14:00-17:00",
+    "08:30-11:00,14:00-17:00",
+    "08:30-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4013,
+   "commune": "Unterentfelden",
+   "street": "Hauptstrasse 15",
+   "postcode": "5035",
+   "place": "Unterentfelden",
+   "phone": "062 737 03 00",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30",
+    "08:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4023,
+   "commune": "Bergdietikon",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30,14:00-18:00",
+    "08:30-11:30,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4026,
+   "commune": "Ennetbaden",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-17:30",
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30,14:00-16:00",
+    "08:30-11:30,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4037,
+   "commune": "Oberrohrdorf",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:00-16:30",
+    "08:30-11:30,14:30-18:30",
+    "08:30-11:30,14:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4045,
+   "commune": "Wettingen",
+   "street": "Alberich Zwyssigstrasse 76",
+   "postcode": "5430",
+   "place": "Wettingen",
+   "phone": "056 437 71 11",
+   "email": "gemeinde@wettingen.ch"
+  },
+  {
+   "bfs": 4049,
+   "commune": "Ehrendingen",
+   "street": "Dorfstrasse 16",
+   "postcode": "5420",
+   "place": "Ehrendingen",
+   "phone": "056 200 77 10"
+  },
+  {
+   "bfs": 4064,
+   "commune": "Büttikon",
+   "opening_hours_mo_su": [
+    "09:00-11:30,13:30-18:00",
+    "09:00-11:30",
+    "09:00-11:30,13:30-16:30",
+    "",
+    "07:30-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4067,
+   "commune": "Fischbach-Göslikon",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:15-18:00",
+    "08:00-11:30,13:15-16:00",
+    "08:00-11:30,13:15-16:00",
+    "08:00-11:30,13:15-16:00",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4084,
+   "commune": "Islisberg",
+   "opening_hours_mo_su": [
+    "14:00-18:00",
+    "09:00-11:00",
+    "",
+    "09:00-11:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4100,
+   "commune": "Hausen (AG)",
+   "street": "Hauptstrasse 29",
+   "postcode": "5212",
+   "place": "Hausen",
+   "phone": "056 461 70 40",
+   "email": "gemeindekanzlei@hausen.swiss"
+  },
+  {
+   "bfs": 4110,
+   "commune": "Remigen",
+   "opening_hours_mo_su": [
+    "07:45-11:00,14:00-18:00",
+    "07:45-11:00",
+    "07:45-11:00,14:00-17:15",
+    "07:45-11:00",
+    "07:45-11:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4132,
+   "commune": "Birrwil",
+   "opening_hours_mo_su": [
+    "",
+    "08:00-13:00",
+    "13:00-18:00",
+    "",
+    "08:00-13:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4169,
+   "commune": "Kaisten",
+   "street": "Poststrasse 7",
+   "postcode": "5082",
+   "place": "Kaisten",
+   "phone": "062 869 13 00",
+   "email": "gemeindekanzlei@kaisten.ch"
+  },
+  {
+   "bfs": 4192,
+   "commune": "Boniswil",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4209,
+   "commune": "Seon",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:30",
+    "08:00-11:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4222,
+   "commune": "Aristau",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4226,
+   "commune": "Besenbüren",
+   "street": "Kantonsstrasse 10",
+   "postcode": "5627",
+   "place": "Besenbüren",
+   "phone": "056 677 87 70",
+   "email": "gemeindeverwaltung@besenbueren.ch"
+  },
+  {
+   "bfs": 4230,
+   "commune": "Buttwil",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-18:00",
+    "08:00-11:30,14:00-16:30",
+    "14:00-16:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4254,
+   "commune": "Möhlin",
+   "street": "Hauptstrasse 36",
+   "postcode": "4313",
+   "place": "Möhlin",
+   "phone": "061 855 33 33",
+   "opening_hours_mo_su": [
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-17:00",
+    "08:00-12:00,13:30-18:00",
+    "08:00-12:00,13:30-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4311,
+   "commune": "Leibstadt",
+   "street": "Oberdorfstrasse 222",
+   "postcode": "5325",
+   "place": "Leibstadt",
+   "opening_hours_mo_su": [
+    "09:00-11:30,14:00-16:30",
+    "09:00-11:30,14:00-16:30",
+    "09:00-11:30,14:00-18:00",
+    "09:00-11:30,14:00-16:30",
+    "09:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4318,
+   "commune": "Schneisingen",
+   "street": "Schladstrasse 2",
+   "postcode": "5425",
+   "place": "Schneisingen",
+   "phone": "056 266 40 00",
+   "email": "gemeindekanzlei@schneisingen.ch"
+  },
+  {
+   "bfs": 4421,
+   "commune": "Horn",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-16:30",
+    "13:30-18:00",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-13:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4436,
+   "commune": "Romanshorn",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-18:00",
+    "08:00-12:00,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4461,
+   "commune": "Amriswil",
+   "street": "Arbonerstrasse 2",
+   "postcode": "8580",
+   "place": "Amriswil",
+   "phone": "071 414 11 11"
+  },
+  {
+   "bfs": 4476,
+   "commune": "Erlen",
+   "street": "Aachstrasse 11",
+   "postcode": "8586",
+   "place": "Erlen",
+   "phone": "071 649 30 60",
+   "email": "info@erlen.ch"
+  },
+  {
+   "bfs": 4506,
+   "commune": "Sulgen",
+   "street": "Kradolfstrasse 15",
+   "postcode": "8583",
+   "place": "Sulgen",
+   "phone": "071 644 95 60",
+   "email": "info@sulgen.ch",
+   "opening_hours_mo_su": [
+    "08:30-11:45,14:00-16:30",
+    "08:30-11:45,14:00-16:30",
+    "08:30-11:45,14:00-16:30",
+    "08:30-11:45,14:00-18:00",
+    "08:30-11:45,14:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4551,
+   "commune": "Aadorf",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-17:00",
+    "08:00-11:30,13:30-17:00",
+    "08:00-11:30,13:30-17:00",
+    "08:00-11:30,13:30-18:30",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4561,
+   "commune": "Felben-Wellhausen",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-16:00",
+    "13:30-18:30",
+    "08:00-11:30,13:30-16:00",
+    "08:00-11:30,13:30-16:00",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4566,
+   "commune": "Frauenfeld",
+   "opening_hours_mo_su": [
+    "08:30-11:30,13:30-17:00",
+    "08:30-11:30,13:30-17:00",
+    "08:30-11:30,13:30-17:00",
+    "08:30-11:30,13:30-18:00",
+    "08:30-11:30,13:30-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4711,
+   "commune": "Affeltrangen",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-17:00",
+    "07:00-11:30,13:30-17:00",
+    "08:00-11:30,13:30-17:00",
+    "08:00-11:30,13:30-18:00",
+    "08:00-15:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4724,
+   "commune": "Eschlikon",
+   "street": "Wiesenstrasse 3",
+   "postcode": "8360",
+   "place": "Eschlikon TG",
+   "phone": "071 973 99 11",
+   "email": "gemeinde@eschlikon.ch"
+  },
+  {
+   "bfs": 4741,
+   "commune": "Lommis",
+   "street": "Banneggstrasse 2",
+   "postcode": "9506",
+   "place": "Lommis"
+  },
+  {
+   "bfs": 4751,
+   "commune": "Rickenbach (TG)",
+   "street": "Hubstrasse 1",
+   "postcode": "9535",
+   "place": "Wilen bei Wil",
+   "phone": "071 929 55 00"
+  },
+  {
+   "bfs": 4761,
+   "commune": "Sirnach",
+   "street": "Kirchplatz 5",
+   "postcode": "8370",
+   "place": "Sirnach",
+   "phone": "071 969 34 34",
+   "email": "gemeinde@sirnach.ch",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30",
+    "08:00-11:30,14:00-16:30",
+    "08:00-11:30,14:00-18:00",
+    "07:00-14:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4786,
+   "commune": "Wilen (TG)",
+   "street": "Hubstrasse 1",
+   "postcode": "9535",
+   "place": "Wilen bei Wil",
+   "phone": "071 929 55 00"
+  },
+  {
+   "bfs": 4801,
+   "commune": "Berlingen",
+   "street": "Seestrasse 78",
+   "postcode": "8267",
+   "place": "Berlingen"
+  },
+  {
+   "bfs": 4831,
+   "commune": "Müllheim",
+   "street": "Frauenfelderstrasse 4",
+   "postcode": "8555",
+   "place": "Müllheim",
+   "phone": "052 762 72 13",
+   "email": "info@muellheim.ch",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-17:00",
+    "08:30-11:30,14:00-17:00",
+    "08:30-11:30,14:00-17:00",
+    "08:30-11:30,14:00-18:30",
+    "08:30-11:30,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4921,
+   "commune": "Bussnang",
+   "opening_hours_mo_su": [
+    "13:30-18:00",
+    "13:30-17:00",
+    "08:00-11:45",
+    "13:30-17:00",
+    "08:00-11:45",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 4941,
+   "commune": "Märstetten",
+   "street": "Dorfstrasse 17",
+   "postcode": "8560",
+   "place": "Märstetten",
+   "phone": "071 658 60 00"
+  },
+  {
+   "bfs": 4951,
+   "commune": "Wigoltingen",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-18:30",
+    "08:00-13:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5009,
+   "commune": "Isone",
+   "street": "Piázza San Luriens 1",
+   "postcode": "6810",
+   "place": "Isone"
+  },
+  {
+   "bfs": 5061,
+   "commune": "Airolo",
+   "street": "Via San Gottardo 85",
+   "postcode": "6780",
+   "place": "Airolo",
+   "phone": "091 873 81 20",
+   "email": "comune@airolo.ch",
+   "opening_hours_mo_su": [
+    "09:00-12:00",
+    "14:00-19:00",
+    "09:00-12:00",
+    "09:00-12:00",
+    "09:00-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5113,
+   "commune": "Locarno",
+   "street": "Piazza Grande 18",
+   "postcode": "6600",
+   "place": "Locarno",
+   "phone": "091 756 31 11",
+   "email": "citta@locarno.ch"
+  },
+  {
+   "bfs": 5151,
+   "commune": "Bioggio",
+   "street": "Via Cademario 10",
+   "postcode": "6934",
+   "place": "Bioggio"
+  },
+  {
+   "bfs": 5192,
+   "commune": "Lugano",
+   "opening_hours_mo_su": [
+    "08:00-17:00",
+    "08:00-17:00",
+    "08:00-17:00",
+    "08:00-17:00",
+    "08:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5203,
+   "commune": "Morcote",
+   "street": "Riva da Sant Antoni 10",
+   "postcode": "6922",
+   "place": "Morcote",
+   "phone": "091 986 00 00",
+   "email": "municipio@morcote.ch",
+   "opening_hours_mo_su": [
+    "14:00-17:00",
+    "14:00-17:00",
+    "14:00-17:00",
+    "14:00-17:00",
+    "14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5242,
+   "commune": "Balerna",
+   "street": "Via San Gottardo 90",
+   "postcode": "6828",
+   "place": "Balerna",
+   "phone": "091 695 11 60",
+   "opening_hours_mo_su": [
+    "10:00-12:00,14:00-16:00",
+    "10:00-12:00,14:00-16:00",
+    "10:00-12:00,14:00-16:00",
+    "10:00-12:00,14:00-16:00",
+    "10:00-12:00,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5249,
+   "commune": "Castel San Pietro",
+   "opening_hours_mo_su": [
+    "08:30-12:30",
+    "08:30-12:30",
+    "08:30-12:30",
+    "08:30-12:30",
+    "08:30-12:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5250,
+   "commune": "Chiasso",
+   "opening_hours_mo_su": [
+    "07:45-11:45,13:30-16:45",
+    "07:45-11:45,13:30-16:45",
+    "07:45-11:45,13:30-16:45",
+    "07:45-11:45,13:30-16:45",
+    "07:45-11:45,13:30-16:45",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5251,
+   "commune": "Coldrerio",
+   "opening_hours_mo_su": [
+    "09:00-12:00,14:00-17:00",
+    "09:00-12:00,14:00-17:00",
+    "09:00-12:00,14:00-17:00",
+    "09:00-12:00,14:00-17:00",
+    "09:00-12:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5254,
+   "commune": "Mendrisio",
+   "street": "Via Municipio 13",
+   "postcode": "6850",
+   "place": "Mendrisio",
+   "phone": "058 688 31 31",
+   "email": "info@mendrisio.ch",
+   "opening_hours_mo_su": [
+    "07:00-17:00",
+    "07:00-17:00",
+    "07:00-17:00",
+    "07:00-17:00",
+    "07:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5257,
+   "commune": "Morbio Inferiore",
+   "street": "Piazzale Municipio",
+   "postcode": "6834",
+   "place": "Morbio Inferiore",
+   "phone": "091 695 46 10",
+   "opening_hours_mo_su": [
+    "09:00-12:00,14:00-16:30",
+    "09:00-12:00,14:00-16:30",
+    "09:00-12:00,14:00-16:30",
+    "09:00-12:00,14:00-16:30",
+    "09:00-12:00,14:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5266,
+   "commune": "Stabio",
+   "opening_hours_mo_su": [
+    "09:00-11:00,14:00-16:00",
+    "09:00-11:00,14:00-16:00",
+    "09:00-11:00,16:00-18:00",
+    "09:00-11:00,14:00-16:00",
+    "09:00-11:00,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5268,
+   "commune": "Vacallo",
+   "street": "Piazza Municipio 1",
+   "postcode": "6833",
+   "place": "Vacallo"
+  },
+  {
+   "bfs": 5287,
+   "commune": "Riviera",
+   "street": "In Pièza 1",
+   "postcode": "6705",
+   "place": "Cresciano",
+   "phone": "091 873 45 66",
+   "email": "servizifinanziari@comuneriviera.ch",
+   "opening_hours_mo_su": [
+    "14:30-17:30",
+    "14:30-17:30",
+    "14:30-17:30",
+    "14:30-17:30",
+    "14:30-17:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5398,
+   "commune": "Gambarogno",
+   "street": "Via Cantonale 138",
+   "postcode": "6573",
+   "place": "Magadino",
+   "phone": "091 786 84 00",
+   "email": "comune@gambarogno.ch"
+  },
+  {
+   "bfs": 5402,
+   "commune": "Bex",
+   "street": "Rue Centrale 1",
+   "postcode": "1880",
+   "place": "Bex",
+   "phone": "024 463 02 67",
+   "email": "commune@bex.ch",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30,13:30-15:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5409,
+   "commune": "Ollon",
+   "street": "Place du Cotterd 1",
+   "postcode": "1867",
+   "place": "Ollon VD",
+   "phone": "024 499 01 01",
+   "email": "commune@ollon.ch",
+   "opening_hours_mo_su": [
+    "07:00-11:45,13:30-16:30",
+    "07:00-11:45,13:30-16:30",
+    "07:00-11:45,13:30-16:30",
+    "07:00-11:45,13:30-18:30",
+    "07:00-11:45",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5458,
+   "commune": "Faoug",
+   "street": "Route de Salavaux 1A",
+   "postcode": "1595",
+   "place": "Faoug"
+  },
+  {
+   "bfs": 5516,
+   "commune": "Cugy (VD)",
+   "street": "Rue du Village 13",
+   "postcode": "1053",
+   "place": "Cugy VD",
+   "phone": "021 731 22 44",
+   "email": "info@cugy-vd.ch"
+  },
+  {
+   "bfs": 5559,
+   "commune": "Giez",
+   "street": "Place du Collège 2",
+   "postcode": "1429",
+   "place": "Giez",
+   "phone": "024 445 44 42"
+  },
+  {
+   "bfs": 5561,
+   "commune": "Grandson",
+   "street": "Rue Basse 57",
+   "postcode": "1422",
+   "place": "Grandson",
+   "phone": "024 447 41 00"
+  },
+  {
+   "bfs": 5571,
+   "commune": "Tévenon",
+   "opening_hours_mo_su": [
+    "",
+    "15:00-19:00",
+    "",
+    "09:00-11:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5582,
+   "commune": "Cheseaux-sur-Lausanne",
+   "street": "Route de Lausanne 2",
+   "postcode": "1033",
+   "place": "Cheseaux"
+  },
+  {
+   "bfs": 5587,
+   "commune": "Le Mont-sur-Lausanne",
+   "street": "Route de Lausanne 16",
+   "postcode": "1052",
+   "place": "Le Mont-sur-Lausanne",
+   "phone": "021 651 91 91",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-16:30",
+    "08:00-11:30",
+    "",
+    "08:00-11:30",
+    "08:00-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5588,
+   "commune": "Paudex",
+   "street": "Route de la Bordinette",
+   "postcode": "1094",
+   "place": "Paudex",
+   "phone": "021 791 12 12",
+   "opening_hours_mo_su": [
+    "08:00-12:00",
+    "08:00-12:00",
+    "08:00-12:00",
+    "08:00-12:00",
+    "08:00-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5604,
+   "commune": "Forel (Lavaux)",
+   "street": "Route de Vevey 1",
+   "postcode": "1072",
+   "place": "Forel (Lavaux)",
+   "phone": "021 781 17 17"
+  },
+  {
+   "bfs": 5609,
+   "commune": "Rivaz",
+   "opening_hours_mo_su": [
+    "",
+    "09:00-12:00",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5610,
+   "commune": "Saint-Saphorin (Lavaux)",
+   "street": "Chemin de l'Ancien Collège 6",
+   "postcode": "1071",
+   "place": "St-Saphorin (Lavaux)"
+  },
+  {
+   "bfs": 5611,
+   "commune": "Savigny",
+   "street": "Route de Mollie-Margot",
+   "postcode": "1073",
+   "place": "Savigny",
+   "phone": "021 781 07 30"
+  },
+  {
+   "bfs": 5613,
+   "commune": "Bourg-en-Lavaux",
+   "street": "Route de Lausanne 2",
+   "postcode": "1096",
+   "place": "Bourg-en-Lavaux",
+   "email": "info@b-e-l.ch"
+  },
+  {
+   "bfs": 5678,
+   "commune": "Moudon",
+   "street": "Place de l'Hôtel-de-Ville 1",
+   "postcode": "1510",
+   "place": "Moudon",
+   "phone": "021 905 88 88"
+  },
+  {
+   "bfs": 5683,
+   "commune": "Prévonloup",
+   "street": "Route de Dompierre 6",
+   "postcode": "1682",
+   "place": "Prévonloup",
+   "phone": "026 652 08 00",
+   "email": "info@prevonloup.ch"
+  },
+  {
+   "bfs": 5705,
+   "commune": "Bogis-Bossey",
+   "street": "Chemin de la Pinte 2",
+   "postcode": "1279",
+   "place": "Bogis-Bossey",
+   "phone": "022 960 52 53",
+   "email": "greffe@bogis-bossey.ch"
+  },
+  {
+   "bfs": 5711,
+   "commune": "Commugny",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-17:00",
+    "07:30-11:30",
+    "08:30-11:30",
+    "07:30-11:30",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5724,
+   "commune": "Nyon",
+   "opening_hours_mo_su": [
+    "14:00-19:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-11:30,14:00-17:00",
+    "08:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5725,
+   "commune": "Prangins",
+   "street": "La Place 2",
+   "postcode": "1197",
+   "place": "Prangins",
+   "phone": "022 994 31 13"
+  },
+  {
+   "bfs": 5746,
+   "commune": "Bavois",
+   "street": "Rue du Collège 14",
+   "postcode": "1372",
+   "place": "Bavois",
+   "phone": "024 441 46 43",
+   "email": "greffe@bavois.ch",
+   "opening_hours_mo_su": [
+    "09:00-11:45",
+    "09:00-11:45,14:00-16:30",
+    "",
+    "09:00-11:45,14:00-16:30",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5749,
+   "commune": "Chavornay",
+   "street": "Rue du Collège 1",
+   "postcode": "1373",
+   "place": "Chavornay",
+   "phone": "024 442 85 10",
+   "email": "greffe@chavornay.ch",
+   "opening_hours_mo_su": [
+    "08:30-12:00,13:30-17:00",
+    "08:30-12:00,13:30-17:00",
+    "07:00-12:00,13:30-17:00",
+    "08:30-12:00,13:30-17:00",
+    "08:30-12:00,13:30-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5752,
+   "commune": "Croy",
+   "street": "Rue des Fontaines 12",
+   "postcode": "1322",
+   "place": "Croy",
+   "phone": "024 453 19 04",
+   "opening_hours_mo_su": [
+    "17:00-18:45",
+    "",
+    "",
+    "11:00-12:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5790,
+   "commune": "Maracon",
+   "opening_hours_mo_su": [
+    "",
+    "09:00-11:30",
+    "",
+    "09:00-11:30",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5799,
+   "commune": "Servion",
+   "street": "Chemin du Clos-Joli 2",
+   "postcode": "1077",
+   "place": "Servion",
+   "phone": "021 903 17 08",
+   "email": "info@servion.ch"
+  },
+  {
+   "bfs": 5805,
+   "commune": "Oron",
+   "street": "Grand-Rue",
+   "postcode": "1607",
+   "place": "Palézieux-Village",
+   "phone": "021 908 04 10"
+  },
+  {
+   "bfs": 5857,
+   "commune": "Gilly",
+   "opening_hours_mo_su": [
+    "08:00-11:30,14:00-16:00",
+    "",
+    "",
+    "08:00-11:30,14:00-18:30",
+    "08:00-11:30,14:00-16:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 5886,
+   "commune": "Montreux",
+   "opening_hours_mo_su": [
+    "08:00-12:00,13:00-16:30",
+    "08:00-12:00,13:00-16:30",
+    "08:00-12:00,13:00-16:30",
+    "08:00-12:00,13:00-16:30",
+    "08:00-12:00,13:00-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6022,
+   "commune": "Chamoson",
+   "street": "Chemin Neuf 9",
+   "postcode": "1955",
+   "place": "Chamoson",
+   "phone": "027 305 10 30",
+   "opening_hours_mo_su": [
+    "08:00-12:00",
+    "08:00-12:00",
+    "08:00-12:00",
+    "08:00-12:00",
+    "08:00-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6023,
+   "commune": "Conthey",
+   "street": "Route de Savoie 54",
+   "postcode": "1975",
+   "place": "Saint-Séverin",
+   "phone": "027 345 45 45",
+   "opening_hours_mo_su": [
+    "08:30-11:30",
+    "08:30-11:30",
+    "14:00-19:00",
+    "08:30-11:30",
+    "08:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6025,
+   "commune": "Vétroz",
+   "opening_hours_mo_su": [
+    "08:00-12:00",
+    "08:00-12:00",
+    "13:30-17:30",
+    "08:00-12:00",
+    "08:00-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6034,
+   "commune": "Orsières",
+   "street": "Rue de la Commune 3",
+   "postcode": "1938",
+   "place": "Orsières"
+  },
+  {
+   "bfs": 6035,
+   "commune": "Sembrancher",
+   "street": "Rue Principale 24",
+   "postcode": "1933",
+   "place": "Sembrancher",
+   "phone": "027 785 12 23",
+   "email": "commsembr@dransnet.ch"
+  },
+  {
+   "bfs": 6052,
+   "commune": "Bellwald",
+   "street": "Hauptgasse 1",
+   "postcode": "3997",
+   "place": "Bellwald"
+  },
+  {
+   "bfs": 6077,
+   "commune": "Goms",
+   "opening_hours_mo_su": [
+    "08:30-11:30,14:00-17:00",
+    "",
+    "08:30-11:30",
+    "08:30-11:30",
+    "08:30-11:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6102,
+   "commune": "Albinen",
+   "opening_hours_mo_su": [
+    "08:00-11:00",
+    "",
+    "16:00-18:30",
+    "14:00-16:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6118,
+   "commune": "Gampel-Bratsch",
+   "street": "Kirchstrasse 6",
+   "postcode": "3945",
+   "place": "Gampel",
+   "phone": "027 933 69 00",
+   "email": "gemeinde@gampel-bratsch.ch"
+  },
+  {
+   "bfs": 6133,
+   "commune": "Fully",
+   "street": "Rue de l'Eglise 46",
+   "postcode": "1926",
+   "place": "Fully",
+   "phone": "027 747 11 11",
+   "opening_hours_mo_su": [
+    "08:00-12:00",
+    "08:00-12:00",
+    "08:00-12:00",
+    "08:00-12:00",
+    "08:00-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6153,
+   "commune": "Monthey",
+   "street": "Place de l'Hôtel-de-Ville 2",
+   "postcode": "1870",
+   "place": "Monthey",
+   "phone": "024 475 75 11",
+   "email": "administration@monthey.ch"
+  },
+  {
+   "bfs": 6154,
+   "commune": "Port-Valais",
+   "street": "Chemin du Clous 18",
+   "postcode": "1897",
+   "place": "Bouveret"
+  },
+  {
+   "bfs": 6158,
+   "commune": "Vionnaz",
+   "street": "Rue du Pavé 6",
+   "postcode": "1895",
+   "place": "Vionnaz",
+   "phone": "024 481 42 52",
+   "email": "info@vionnaz.ch",
+   "opening_hours_mo_su": [
+    "09:00-11:00,14:00-18:00",
+    "09:00-11:00",
+    "09:00-11:00,14:00-16:00",
+    "09:00-11:00",
+    "09:00-11:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6172,
+   "commune": "Bister",
+   "street": "Kantonsstrasse 50",
+   "postcode": "3983",
+   "place": "Bister"
+  },
+  {
+   "bfs": 6177,
+   "commune": "Grengiols",
+   "street": "Dorfplatz 22",
+   "postcode": "3993",
+   "place": "Grengiols"
+  },
+  {
+   "bfs": 6198,
+   "commune": "Niedergesteln",
+   "street": "Kirchgasse 6",
+   "postcode": "3942",
+   "place": "Niedergesteln"
+  },
+  {
+   "bfs": 6215,
+   "commune": "Massongex",
+   "opening_hours_mo_su": [
+    "15:00-18:00",
+    "15:00-17:00",
+    "",
+    "15:00-17:00",
+    "09:00-11:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6240,
+   "commune": "Lens",
+   "opening_hours_mo_su": [
+    "08:00-11:30,13:30-17:30",
+    "13:30-17:30",
+    "13:30-17:30",
+    "13:30-17:30",
+    "13:30-17:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6253,
+   "commune": "Crans-Montana",
+   "opening_hours_mo_su": [
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "08:00-12:00,14:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6263,
+   "commune": "Grimisuat",
+   "street": "Pl. Mgr Gabriel Balet",
+   "postcode": "1971",
+   "place": "Grimisuat"
+  },
+  {
+   "bfs": 6300,
+   "commune": "Zermatt",
+   "street": "Kirchplatz 3",
+   "postcode": "3920",
+   "place": "Zermatt",
+   "phone": "027 966 22 11",
+   "email": "gemeinde@zermatt.ch"
+  },
+  {
+   "bfs": 6404,
+   "commune": "Boudry",
+   "street": "Route des Addoz 68",
+   "postcode": "2017",
+   "place": "Boudry",
+   "phone": "032 886 47 20"
+  },
+  {
+   "bfs": 6408,
+   "commune": "Cortaillod",
+   "street": "Chemin des Draizes 2",
+   "postcode": "2016",
+   "place": "Cortaillod",
+   "phone": "032 886 51 00",
+   "email": "commune.cortaillod@ne.ch",
+   "opening_hours_mo_su": [
+    "08:30-12:00",
+    "08:30-12:00",
+    "08:30-12:00",
+    "08:30-12:00",
+    "07:30-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6421,
+   "commune": "La Chaux-de-Fonds",
+   "street": "Place de l'Hôtel-de-Ville 1",
+   "postcode": "2300",
+   "place": "La Chaux-de-Fonds"
+  },
+  {
+   "bfs": 6458,
+   "commune": "Neuchâtel",
+   "opening_hours_mo_su": [
+    "09:00-12:00,13:30-16:30",
+    "",
+    "09:00-12:00,13:30-16:30",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6606,
+   "commune": "Bellevue",
+   "opening_hours_mo_su": [
+    "13:30-16:30",
+    "13:30-16:30",
+    "09:00-13:00",
+    "13:30-19:00",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6608,
+   "commune": "Carouge (GE)",
+   "opening_hours_mo_su": [
+    "09:00-12:00,14:00-16:00",
+    "09:00-12:00",
+    "09:00-11:00,12:00-16:00",
+    "09:00-12:00",
+    "09:00-12:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6609,
+   "commune": "Cartigny",
+   "street": "Chemin de la Bergerie 18",
+   "postcode": "1236",
+   "place": "Cartigny",
+   "phone": "022 756 12 77",
+   "email": "info@cartigny.ch"
+  },
+  {
+   "bfs": 6610,
+   "commune": "Céligny",
+   "street": "Route de Crans 1",
+   "postcode": "1298",
+   "place": "Céligny"
+  },
+  {
+   "bfs": 6620,
+   "commune": "Dardagny",
+   "opening_hours_mo_su": [
+    "08:00-11:45",
+    "08:00-11:45",
+    "",
+    "08:00-11:45",
+    "08:00-11:45",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6622,
+   "commune": "Genthod",
+   "street": "Rue du Village 37",
+   "postcode": "1294",
+   "place": "Genthod",
+   "phone": "022 774 12 80"
+  },
+  {
+   "bfs": 6631,
+   "commune": "Onex",
+   "street": "Place Duchêne 16",
+   "postcode": "1213",
+   "place": "Onex"
+  },
+  {
+   "bfs": 6632,
+   "commune": "Perly-Certoux",
+   "street": "Route de Certoux 51",
+   "postcode": "1258",
+   "place": "Perly",
+   "phone": "022 721 02 50"
+  },
+  {
+   "bfs": 6635,
+   "commune": "Presinge",
+   "street": "Route de La-Louvière 14",
+   "postcode": "1243",
+   "place": "Presinge"
+  },
+  {
+   "bfs": 6640,
+   "commune": "Thônex",
+   "street": "Chemin du Bois-Des-Arts 58",
+   "postcode": "1226",
+   "place": "Thônex"
+  },
+  {
+   "bfs": 6645,
+   "commune": "Veyrier",
+   "street": "Place de l'Église 7",
+   "postcode": "1255",
+   "place": "Veyrier",
+   "phone": "022 899 10 10",
+   "email": "info@veyrier.ch",
+   "opening_hours_mo_su": [
+    "09:00-13:00,13:30-16:30",
+    "09:00-13:00,13:30-18:00",
+    "09:00-13:00,13:30-16:30",
+    "09:00-16:30",
+    "09:00-13:00,13:30-16:30",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6743,
+   "commune": "Les Breuleux",
+   "street": "Rue des Esserts 2",
+   "postcode": "2345",
+   "place": "Les Breuleux",
+   "phone": "032 959 43 30",
+   "email": "info@breuleux.ch",
+   "opening_hours_mo_su": [
+    "10:00-12:00,15:00-17:00",
+    "10:00-12:00,15:00-17:00",
+    "10:00-12:00,15:00-17:00",
+    "10:00-12:00,15:00-18:00",
+    "10:00-12:00,15:00-17:00",
+    "",
+    ""
+   ]
+  },
+  {
+   "bfs": 6831,
+   "commune": "Moutier",
+   "street": "Rue de l'Hôtel-de-Ville 1",
+   "postcode": "2740",
+   "place": "Moutier"
+  }
+ ]
+}
