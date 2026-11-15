@@ -11849,7 +11849,7 @@
      "bfs": 6619,
      "name": "Corsier (GE)",
      "file": "6619.buildings",
-     "buildings": 518,
+     "buildings": 526,
      "box": [
       2503741,
       1123205,
@@ -11857,8 +11857,8 @@
       1126116
      ],
      "year": 2020,
-     "bytes": 382217,
-     "sha256": "56c18db80d190c475fb000a6934bc82989bb24b95369c84ee319b0c48f1120f5"
+     "bytes": 387765,
+     "sha256": "a4d92eb2b2ec21d58e8f4ff98aefec9d8aa5fae3e1ce8ca98361b031ae95bd20"
     },
     {
      "bfs": 6620,
@@ -11999,7 +11999,7 @@
      "bfs": 6629,
      "name": "Meinier",
      "file": "6629.buildings",
-     "buildings": 353,
+     "buildings": 379,
      "box": [
       2505477,
       1120100,
@@ -12007,8 +12007,8 @@
       1123587
      ],
      "year": 2020,
-     "bytes": 263853,
-     "sha256": "0997217d9ef8bb5c6d1501cdd4f8452b790745a558f169f0158887672fe98b30"
+     "bytes": 278663,
+     "sha256": "18162c71457d62831c0dacf8eed72c28801f36dc02691eca674e3bbb74be6378"
     },
     {
      "bfs": 6630,
@@ -19269,7 +19269,7 @@
      "bfs": 2581,
      "name": "Olten",
      "file": "2581.buildings",
-     "buildings": 4101,
+     "buildings": 4103,
      "box": [
       2632958,
       1240112,
@@ -19277,8 +19277,8 @@
       1246565
      ],
      "year": 2024,
-     "bytes": 1980583,
-     "sha256": "53764e618495e04dffd0fdeedb1ed5e1baa528e8cd0e1fff808a3790f3c54e79"
+     "bytes": 1981626,
+     "sha256": "3f1345f761cd29fdb3fef4bf91f6f976f0510de0901512d5a80359f1bf35b441"
     },
     {
      "bfs": 2582,
@@ -21690,7 +21690,7 @@
      "bfs": 5136,
      "name": "Onsernone",
      "file": "5136.buildings",
-     "buildings": 1816,
+     "buildings": 1818,
      "box": [
       2679075,
       1114566,
@@ -21698,8 +21698,8 @@
       1124694
      ],
      "year": 2021,
-     "bytes": 1394254,
-     "sha256": "05d8a9f71f73d5bd753ccbd398d2029a50315ec14df9d0222e1c86e8341c3e14"
+     "bytes": 1396136,
+     "sha256": "f53a21364e701837abd92af695b31e614581a419337c5afecfecfa4af3e0c3c9"
     },
     {
      "bfs": 5138,
@@ -23054,7 +23054,7 @@
      "bfs": 5401,
      "name": "Aigle",
      "file": "5401.buildings",
-     "buildings": 1672,
+     "buildings": 1674,
      "box": [
       2560958,
       1126773,
@@ -23062,14 +23062,14 @@
       1132336
      ],
      "year": 2020,
-     "bytes": 1560133,
-     "sha256": "714f802f0228759dab0201b208b1aa81944ee27cac4d1c49ef0490b235ae84d6"
+     "bytes": 1561484,
+     "sha256": "4388193bc2b823d1b0c9055001a01673cdf12150155f446a03f49f040b1be2a6"
     },
     {
      "bfs": 5402,
      "name": "Bex",
      "file": "5402.buildings",
-     "buildings": 3059,
+     "buildings": 3069,
      "box": [
       2563900,
       1116455,
@@ -23077,8 +23077,8 @@
       1128170
      ],
      "year": 2020,
-     "bytes": 2391230,
-     "sha256": "e6d65632294b4d9160cac657b66890b65206563080da508ea99344a87320a291"
+     "bytes": 2398655,
+     "sha256": "af30285a257aaf983433077c5980eacee868af08dee7021c5e9586e119a954c2"
     },
     {
      "bfs": 5403,
@@ -23099,7 +23099,7 @@
      "bfs": 5404,
      "name": "Corbeyrier",
      "file": "5404.buildings",
-     "buildings": 363,
+     "buildings": 365,
      "box": [
       2561535,
       1131712,
@@ -23107,8 +23107,8 @@
       1139396
      ],
      "year": 2020,
-     "bytes": 256500,
-     "sha256": "1ed8971721ea383f67d6b0dc8c7ccdf9dba0b9aca0d256f79bfa879ce89e86f1"
+     "bytes": 257257,
+     "sha256": "5dea32cf5c6da9e6a6c10d7388a1a8e962f0b9ec653f731fbf45df64e05ffcba"
     },
     {
      "bfs": 5405,
@@ -23129,7 +23129,7 @@
      "bfs": 5406,
      "name": "Lavey-Morcles",
      "file": "5406.buildings",
-     "buildings": 480,
+     "buildings": 482,
      "box": [
       2566781,
       1115149,
@@ -23137,14 +23137,14 @@
       1119705
      ],
      "year": 2020,
-     "bytes": 345808,
-     "sha256": "f59da211cf0d3d7d2cbcd8bcc19560e1719f8bc5b68bc7798266fc5ba241faa4"
+     "bytes": 347362,
+     "sha256": "4fc7b83afa1b75fa6a29a0888e2d991a1e06e327798ed0a0027dea15d71a3166"
     },
     {
      "bfs": 5407,
      "name": "Leysin",
      "file": "5407.buildings",
-     "buildings": 1142,
+     "buildings": 1146,
      "box": [
       2564456,
       1130025,
@@ -23152,8 +23152,8 @@
       1137176
      ],
      "year": 2020,
-     "bytes": 837833,
-     "sha256": "f86bb770105cc6d5b3d2c403c5214420694fde9f5abc7ce314202e400b22a58e"
+     "bytes": 841068,
+     "sha256": "a04a3da5a2f2b18d332abccd559fcd5c1f742c691ba4c2d6d2b8dd1af41dc0db"
     },
     {
      "bfs": 5408,
@@ -24584,7 +24584,7 @@
      "bfs": 5583,
      "name": "Crissier",
      "file": "5583.buildings",
-     "buildings": 1148,
+     "buildings": 1150,
      "box": [
       2532834,
       1154502,
@@ -24592,8 +24592,8 @@
       1159629
      ],
      "year": 2020,
-     "bytes": 910672,
-     "sha256": "ac9591f85ad40da4f4fe7ad85f5b4e92169dae997854c6011f85a36476ebcd1b"
+     "bytes": 912449,
+     "sha256": "807c431a99ccb2422b2c81cf7b956a60635d15de0a0616ea1d3b0302f378bea0"
     },
     {
      "bfs": 5584,
@@ -24614,7 +24614,7 @@
      "bfs": 5585,
      "name": "Jouxtens-Mézery",
      "file": "5585.buildings",
-     "buildings": 445,
+     "buildings": 447,
      "box": [
       2534602,
       1154935,
@@ -24622,8 +24622,8 @@
       1157187
      ],
      "year": 2020,
-     "bytes": 347334,
-     "sha256": "92c97dad68b4e22fc460542f09c7bd5e7cc70262617ed822cc6a1e081e08b23d"
+     "bytes": 349007,
+     "sha256": "8ddc14bb2aa16bd7801392f8dd9d2f4cb30a2528f7df8900a6de58ee220e6ec5"
     },
     {
      "bfs": 5586,
@@ -24884,7 +24884,7 @@
      "bfs": 5623,
      "name": "Buchillon",
      "file": "5623.buildings",
-     "buildings": 333,
+     "buildings": 335,
      "box": [
       2519547,
       1140999,
@@ -24892,8 +24892,8 @@
       1147525
      ],
      "year": 2020,
-     "bytes": 248261,
-     "sha256": "20a9f0717d63f97169608c4c7c685cdc509be3cfa6cfda0151b4c474b93b83a1"
+     "bytes": 249905,
+     "sha256": "bb935ce40668d7da17e97d376572226db576be4afc9ac47d378507525b1cefed"
     },
     {
      "bfs": 5624,
@@ -25034,7 +25034,7 @@
      "bfs": 5636,
      "name": "Etoy",
      "file": "5636.buildings",
-     "buildings": 521,
+     "buildings": 523,
      "box": [
       2520521,
       1147202,
@@ -25042,8 +25042,8 @@
       1150176
      ],
      "year": 2020,
-     "bytes": 438127,
-     "sha256": "9df52a5ae90247043512c49751fbcaca82b7db8dbc836abd1adcfdf453d47324"
+     "bytes": 439884,
+     "sha256": "f60ad14a48aca349da238f70e5205dc695559f462d8f32549ce902f8a479f3d9"
     },
     {
      "bfs": 5637,
@@ -26684,7 +26684,7 @@
      "bfs": 5841,
      "name": "Château-d'Oex",
      "file": "5841.buildings",
-     "buildings": 2569,
+     "buildings": 2571,
      "box": [
       2567441,
       1136032,
@@ -26692,8 +26692,8 @@
       1153474
      ],
      "year": 2023,
-     "bytes": 1865359,
-     "sha256": "9d8c139070c6e6541cad31d4587787a3ff8b5cddc8799dc9fb1be5ef1959129a"
+     "bytes": 1866299,
+     "sha256": "7560558ef53df7225a977d931ad60e26754059472dc355bdcf986ed2a9d5991d"
     },
     {
      "bfs": 5842,
@@ -26729,7 +26729,7 @@
      "bfs": 5851,
      "name": "Allaman",
      "file": "5851.buildings",
-     "buildings": 221,
+     "buildings": 223,
      "box": [
       2518518,
       1140569,
@@ -26737,8 +26737,8 @@
       1148194
      ],
      "year": 2020,
-     "bytes": 202044,
-     "sha256": "1172410043f5a3c10e2653c4ec0e0f9dd574d73eb376575c765be02f9c2781a6"
+     "bytes": 204193,
+     "sha256": "7bcf590ef40cfbc1c1bc64d9c2d0ff0cb2efd17b340b372ecd4f403970b012ae"
     },
     {
      "bfs": 5852,
@@ -27029,7 +27029,7 @@
      "bfs": 5886,
      "name": "Montreux",
      "file": "5886.buildings",
-     "buildings": 3580,
+     "buildings": 3582,
      "box": [
       2555460,
       1140003,
@@ -27037,8 +27037,8 @@
       1148459
      ],
      "year": 2023,
-     "bytes": 3440219,
-     "sha256": "61be8bc542b079f55bf4b6c2e8531dc96acc4e99a6c89ade070c539ab6409a4b"
+     "bytes": 3443100,
+     "sha256": "c4772c79ca823e3e2a277505d73b98b7ffdc0d3f672d3995878463dd34ceaa74"
     },
     {
      "bfs": 5889,
@@ -28806,7 +28806,7 @@
      "bfs": 6215,
      "name": "Massongex",
      "file": "6215.buildings",
-     "buildings": 590,
+     "buildings": 596,
      "box": [
       2562465,
       1117431,
@@ -28814,8 +28814,8 @@
       1122979
      ],
      "year": 2020,
-     "bytes": 513725,
-     "sha256": "0e807feb997d8205edcea29b10b915490fa1d53fea12602fb862433865560099"
+     "bytes": 517245,
+     "sha256": "2465284a320b3d59d4c4fa3819957914450acd838b26d1b6c776a5eebc8bcc75"
     },
     {
      "bfs": 6217,
@@ -31550,7 +31550,7 @@
      "bfs": 223,
      "name": "Neftenbach",
      "file": "223.buildings",
-     "buildings": 1442,
+     "buildings": 1446,
      "box": [
       2689971,
       1263508,
@@ -31558,8 +31558,8 @@
       1268681
      ],
      "year": 2019,
-     "bytes": 1169355,
-     "sha256": "a31e87dced580538af34c26c8b3b9709976f1c1ea0ad7d78bc0441e090c1402e"
+     "bytes": 1172032,
+     "sha256": "2b0c05ec8cc208959aabcc726da87e4781bc5a9c5075c557ac5bcc4299c993f9"
     },
     {
      "bfs": 224,
@@ -31640,7 +31640,7 @@
      "bfs": 230,
      "name": "Winterthur",
      "file": "230-1.buildings",
-     "buildings": 5842,
+     "buildings": 5843,
      "box": [
       2691997,
       1256843,
@@ -31648,14 +31648,14 @@
       1265106
      ],
      "year": 2019,
-     "bytes": 4972922,
-     "sha256": "dc4336eb0894cc1133d0ffee18a07d76719abcefe91cbfa83a401490fd2c1103"
+     "bytes": 4972864,
+     "sha256": "9bbed050372f097eb869504dd30d811c8af51759680ad71077c584cf6b0e7c86"
     },
     {
      "bfs": 230,
      "name": "Winterthur",
      "file": "230-2.buildings",
-     "buildings": 5842,
+     "buildings": 5843,
      "box": [
       2697491,
       1257611,
@@ -31663,8 +31663,8 @@
       1266781
      ],
      "year": 2019,
-     "bytes": 4932031,
-     "sha256": "2ef7b2db1a576a2ae6f4dace10cbe8b01cc6f2bb20143bd888617ffaef1f0c72"
+     "bytes": 4934128,
+     "sha256": "d52a473c538c0d6a0090ada9231ea01970481055c50c78dc7376b6f9cbee4fe6"
     },
     {
      "bfs": 231,
