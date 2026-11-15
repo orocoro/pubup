@@ -22,6 +22,11 @@ Public legal pages, served by GitHub Pages from the root of `main`.
   `einbuergerly/` (`https://orocoro.github.io/pubup/einbuergerly/` and
   `/privacy.html`). The source is `einbuergerly/site/` in orocoro/04xPorj;
   copy it from there rather than editing here.
+- **Skizze**: support page and privacy policy (English, German, French and
+  Italian, one section each) under `skizze/`
+  (`https://orocoro.github.io/pubup/skizze/` and `/privacy.html`). The source
+  is `Skizze/site/` in orocoro/04xPorj; copy it from there rather than editing
+  here.
 
 Porta's pages are generated: edit the text in `tools/content.py` and the
 publisher details in `site.json`, then run `python3 tools/build.py --check`.
