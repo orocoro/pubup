@@ -1,0 +1,2503 @@
+{
+ "version": 1,
+ "source": "swissBUILDINGS3D 3.0, © swisstopo",
+ "cantons": [
+  {
+   "code": "ZH",
+   "year": 2025,
+   "towns": [
+    {
+     "bfs": 1,
+     "name": "Aeugst am Albis",
+     "file": "1.buildings",
+     "buildings": 608,
+     "box": [
+      2678111,
+      1234561,
+      2681155,
+      1238544
+     ],
+     "year": 2019,
+     "bytes": 493414,
+     "sha256": "75b1f1287edae9e573867c3275860df3188484fa6987a7ef747d1ebb9d722d8e"
+    },
+    {
+     "bfs": 2,
+     "name": "Affoltern am Albis",
+     "file": "2.buildings",
+     "buildings": 1803,
+     "box": [
+      2673826,
+      1235208,
+      2678584,
+      1239338
+     ],
+     "year": 2024,
+     "bytes": 1524983,
+     "sha256": "82a86b6db69a963dec2906f5f0185a14b25bc1ce80fd41990db4b665d3935971"
+    },
+    {
+     "bfs": 3,
+     "name": "Bonstetten",
+     "file": "3.buildings",
+     "buildings": 838,
+     "box": [
+      2675745,
+      1238997,
+      2679642,
+      1243159
+     ],
+     "year": 2024,
+     "bytes": 709213,
+     "sha256": "9a09cee7d6cc4b7085943358a9a325cfe145e3012a35cf5eaecf9d4e59bcdb9e"
+    },
+    {
+     "bfs": 4,
+     "name": "Hausen am Albis",
+     "file": "4.buildings",
+     "buildings": 1184,
+     "box": [
+      2680394,
+      1230185,
+      2686463,
+      1236411
+     ],
+     "year": 2019,
+     "bytes": 969140,
+     "sha256": "ea9fbb15e88534614da04485516cbe0b9a532374f3d24ec593c86edfc750a2a0"
+    },
+    {
+     "bfs": 5,
+     "name": "Hedingen",
+     "file": "5.buildings",
+     "buildings": 873,
+     "box": [
+      2674866,
+      1238053,
+      2678972,
+      1241034
+     ],
+     "year": 2024,
+     "bytes": 805298,
+     "sha256": "31bb480b40d8468ff209fab60c6c11f0ae8fa93e442dc54f482ad8ec81990b80"
+    },
+    {
+     "bfs": 6,
+     "name": "Kappel am Albis",
+     "file": "6.buildings",
+     "buildings": 429,
+     "box": [
+      2679059,
+      1229407,
+      2683715,
+      1232607
+     ],
+     "year": 2019,
+     "bytes": 380900,
+     "sha256": "aafb08c355eed63eac0d75f4f732c2ed3837bef11d2176fedeccd03f128e1a03"
+    },
+    {
+     "bfs": 7,
+     "name": "Knonau",
+     "file": "7.buildings",
+     "buildings": 600,
+     "box": [
+      2675593,
+      1229137,
+      2679582,
+      1233130
+     ],
+     "year": 2024,
+     "bytes": 527575,
+     "sha256": "a9b6ced0aa10ec446fea26e337f6f64e9dde7179d6472ef2353ac4bc26e0974f"
+    },
+    {
+     "bfs": 8,
+     "name": "Maschwanden",
+     "file": "8.buildings",
+     "buildings": 263,
+     "box": [
+      2673845,
+      1230677,
+      2676420,
+      1233439
+     ],
+     "year": 2024,
+     "bytes": 236414,
+     "sha256": "0067fb56a414b9ac3dd189d86fc905c1a82a3c1b46d23f56e089c7674ae74873"
+    },
+    {
+     "bfs": 9,
+     "name": "Mettmenstetten",
+     "file": "9.buildings",
+     "buildings": 1301,
+     "box": [
+      2675200,
+      1230244,
+      2680380,
+      1235763
+     ],
+     "year": 2024,
+     "bytes": 1177202,
+     "sha256": "259d4fb90eefd515a8d0781dc5b34a6bcaf96ca6990e73f75c381eaf5df29fab"
+    },
+    {
+     "bfs": 10,
+     "name": "Obfelden",
+     "file": "10.buildings",
+     "buildings": 1245,
+     "box": [
+      2672793,
+      1232987,
+      2676119,
+      1237091
+     ],
+     "year": 2024,
+     "bytes": 916539,
+     "sha256": "de5516fe9bb24bc5d2df524bd2741f48bd6f3bcc15d1d347472dfcbc18fbbcd7"
+    },
+    {
+     "bfs": 11,
+     "name": "Ottenbach",
+     "file": "11.buildings",
+     "buildings": 755,
+     "box": [
+      2671863,
+      1235683,
+      2674902,
+      1238538
+     ],
+     "year": 2024,
+     "bytes": 544840,
+     "sha256": "474e3794d16c734e46aeb19d7e30010f69f3fd8fc0e72d9db17ec9788277835a"
+    },
+    {
+     "bfs": 12,
+     "name": "Rifferswil",
+     "file": "12.buildings",
+     "buildings": 447,
+     "box": [
+      2678256,
+      1231472,
+      2682151,
+      1235066
+     ],
+     "year": 2019,
+     "bytes": 345119,
+     "sha256": "03226217c6455529c58ea8b9408cb38b9aac766b240e8397a5b500b5ff9d5bfb"
+    },
+    {
+     "bfs": 13,
+     "name": "Stallikon",
+     "file": "13.buildings",
+     "buildings": 817,
+     "box": [
+      2677851,
+      1237736,
+      2681027,
+      1245396
+     ],
+     "year": 2019,
+     "bytes": 657365,
+     "sha256": "bd42a8eb5eae6def0468e356a7dad7ee71b6c1c18561175da4c7cd0de40d13f3"
+    },
+    {
+     "bfs": 14,
+     "name": "Wettswil am Albis",
+     "file": "14.buildings",
+     "buildings": 853,
+     "box": [
+      2676820,
+      1241892,
+      2679168,
+      1244867
+     ],
+     "year": 2019,
+     "bytes": 672234,
+     "sha256": "b8501a422182c428e0f82e0f61715c4178d6910c57543d62ff6c24fe47efd45a"
+    },
+    {
+     "bfs": 22,
+     "name": "Benken (ZH)",
+     "file": "22.buildings",
+     "buildings": 397,
+     "box": [
+      2689771,
+      1277337,
+      2692659,
+      1280328
+     ],
+     "year": 2019,
+     "bytes": 333279,
+     "sha256": "f19744ac4c03ae1becfb500ecd9f119e0631b0f47c64812d1f55fc238cac5b3e"
+    },
+    {
+     "bfs": 23,
+     "name": "Berg am Irchel",
+     "file": "23.buildings",
+     "buildings": 276,
+     "box": [
+      2684957,
+      1266887,
+      2688693,
+      1269915
+     ],
+     "year": 2025,
+     "bytes": 220757,
+     "sha256": "d19a7d8ef7cb7e3cdba01aa56695a2c13bc1ef69edb37d797e550f3090d5a5d3"
+    },
+    {
+     "bfs": 24,
+     "name": "Buch am Irchel",
+     "file": "24.buildings",
+     "buildings": 398,
+     "box": [
+      2687198,
+      1264720,
+      2691430,
+      1269122
+     ],
+     "year": 2019,
+     "bytes": 361716,
+     "sha256": "f1ec02a6dbf38cb854f56b60a76abeea903e378d2ae0ee01b10446fa13858e88"
+    },
+    {
+     "bfs": 25,
+     "name": "Dachsen",
+     "file": "25.buildings",
+     "buildings": 580,
+     "box": [
+      2687878,
+      1278013,
+      2690259,
+      1280946
+     ],
+     "year": 2025,
+     "bytes": 385102,
+     "sha256": "e3b6f32ca044f39c4246a7134385c2605b2081a09c82663a7fc80744f9157622"
+    },
+    {
+     "bfs": 26,
+     "name": "Dorf",
+     "file": "26.buildings",
+     "buildings": 281,
+     "box": [
+      2689709,
+      1268131,
+      2692487,
+      1271482
+     ],
+     "year": 2019,
+     "bytes": 205313,
+     "sha256": "c133ec1f5c20ad553f7a527fb792b901562bc0983da8cb146b48b44ee4900a26"
+    },
+    {
+     "bfs": 27,
+     "name": "Feuerthalen",
+     "file": "27.buildings",
+     "buildings": 773,
+     "box": [
+      2689611,
+      1281501,
+      2692439,
+      1283343
+     ],
+     "year": 2025,
+     "bytes": 594188,
+     "sha256": "fea035097caca031296fb96d9cc25296024acc142b66ece8aa172e951ce4be67"
+    },
+    {
+     "bfs": 28,
+     "name": "Flaach",
+     "file": "28.buildings",
+     "buildings": 591,
+     "box": [
+      2685277,
+      1269239,
+      2690570,
+      1272659
+     ],
+     "year": 2025,
+     "bytes": 569589,
+     "sha256": "cbdbf6603a18ee7e6ea8dcf338536d0607215cdd8c3e418bf7c2cb299d021b57"
+    },
+    {
+     "bfs": 29,
+     "name": "Flurlingen",
+     "file": "29.buildings",
+     "buildings": 400,
+     "box": [
+      2688994,
+      1281161,
+      2691731,
+      1283094
+     ],
+     "year": 2025,
+     "bytes": 335647,
+     "sha256": "b7c469bc4afc3d1fcd9beb7afffcad6de5b727359bdf6d9a6108c7a53bdc875b"
+    },
+    {
+     "bfs": 31,
+     "name": "Henggart",
+     "file": "31.buildings",
+     "buildings": 511,
+     "box": [
+      2692477,
+      1267294,
+      2694984,
+      1269669
+     ],
+     "year": 2019,
+     "bytes": 372312,
+     "sha256": "88c3e5df56969885fb4962b0f9a243b127622e97736d24f8077f81a2ef5713ce"
+    },
+    {
+     "bfs": 33,
+     "name": "Kleinandelfingen",
+     "file": "33.buildings",
+     "buildings": 773,
+     "box": [
+      2688777,
+      1271563,
+      2695170,
+      1276229
+     ],
+     "year": 2025,
+     "bytes": 623296,
+     "sha256": "eba16983099e808c94b87a31bba9df2e4d20908699a836bbb51f4d87dc12ac87"
+    },
+    {
+     "bfs": 34,
+     "name": "Laufen-Uhwiesen",
+     "file": "34.buildings",
+     "buildings": 614,
+     "box": [
+      2687687,
+      1279482,
+      2693168,
+      1281628
+     ],
+     "year": 2025,
+     "bytes": 459604,
+     "sha256": "125592fbe08ad3ac6207a1567597789011b1ff116ca8540858bd1c58bb188551"
+    },
+    {
+     "bfs": 35,
+     "name": "Marthalen",
+     "file": "35.buildings",
+     "buildings": 765,
+     "box": [
+      2686816,
+      1272196,
+      2692432,
+      1277787
+     ],
+     "year": 2025,
+     "bytes": 672347,
+     "sha256": "8b70cb9bfca216243941ca6633691a4d48c4f179fd247e3c6e5b04cc3c2498b1"
+    },
+    {
+     "bfs": 37,
+     "name": "Ossingen",
+     "file": "37.buildings",
+     "buildings": 636,
+     "box": [
+      2693806,
+      1271609,
+      2698932,
+      1276780
+     ],
+     "year": 2019,
+     "bytes": 651258,
+     "sha256": "56c45f78dec19107450abe6d3bf8deb05f0aad23e84b150491424355f034a8e8"
+    },
+    {
+     "bfs": 38,
+     "name": "Rheinau",
+     "file": "38.buildings",
+     "buildings": 514,
+     "box": [
+      2686918,
+      1273062,
+      2690379,
+      1278638
+     ],
+     "year": 2025,
+     "bytes": 458559,
+     "sha256": "8612f63ac1b6e88489111d7a84bee4c0e869101b972ed2c70474fcec1b1e6dc2"
+    },
+    {
+     "bfs": 39,
+     "name": "Thalheim an der Thur",
+     "file": "39.buildings",
+     "buildings": 381,
+     "box": [
+      2696219,
+      1269325,
+      2700093,
+      1272602
+     ],
+     "year": 2019,
+     "bytes": 342170,
+     "sha256": "95ee48322c3d072c8872516efcdbdf088b10c9649795e97a931dd8c4f88d2030"
+    },
+    {
+     "bfs": 40,
+     "name": "Trüllikon",
+     "file": "40.buildings",
+     "buildings": 596,
+     "box": [
+      2691534,
+      1275680,
+      2696192,
+      1280284
+     ],
+     "year": 2019,
+     "bytes": 497316,
+     "sha256": "e2bf7e4c72c03b35937d8fcb70044e6b03d23e827ca022e050dea1f21850f872"
+    },
+    {
+     "bfs": 41,
+     "name": "Truttikon",
+     "file": "41.buildings",
+     "buildings": 223,
+     "box": [
+      2695647,
+      1275348,
+      2698372,
+      1277745
+     ],
+     "year": 2019,
+     "bytes": 185138,
+     "sha256": "a3190021fab1aa56c1097b7c65aa59d9693de9197cf4598c8214eff9cd95446e"
+    },
+    {
+     "bfs": 43,
+     "name": "Volken",
+     "file": "43.buildings",
+     "buildings": 154,
+     "box": [
+      2688367,
+      1268960,
+      2691123,
+      1271442
+     ],
+     "year": 2025,
+     "bytes": 144643,
+     "sha256": "152140f53a4193100d821ca8e878a57e4d0f7904189063a0be1baee778b1e85d"
+    },
+    {
+     "bfs": 51,
+     "name": "Bachenbülach",
+     "file": "51.buildings",
+     "buildings": 601,
+     "box": [
+      2681656,
+      1260178,
+      2685124,
+      1263299
+     ],
+     "year": 2019,
+     "bytes": 439508,
+     "sha256": "bf251d8bab0297884ab03cf90a086acac45d76c3cc0724706b4c890c2dc4c04d"
+    },
+    {
+     "bfs": 52,
+     "name": "Bassersdorf",
+     "file": "52.buildings",
+     "buildings": 1593,
+     "box": [
+      2687835,
+      1252878,
+      2692262,
+      1257235
+     ],
+     "year": 2019,
+     "bytes": 1191649,
+     "sha256": "812f68ff93d310f6ac0371bf50b2abddb2be4edee087fbfc76b48e45c0473dba"
+    },
+    {
+     "bfs": 53,
+     "name": "Bülach",
+     "file": "53.buildings",
+     "buildings": 2227,
+     "box": [
+      2681097,
+      1261483,
+      2685622,
+      1268439
+     ],
+     "year": 2025,
+     "bytes": 1865821,
+     "sha256": "8232bd180debfcad6ff3cb406d219591beb7f27d6487c574cbe9c66130d7ca63"
+    },
+    {
+     "bfs": 54,
+     "name": "Dietlikon",
+     "file": "54.buildings",
+     "buildings": 956,
+     "box": [
+      2687322,
+      1251259,
+      2689845,
+      1254919
+     ],
+     "year": 2019,
+     "bytes": 747447,
+     "sha256": "eb702caf799e558c8f44ca66c7eb453d57bfb10c2133da70cda3057dc923c528"
+    },
+    {
+     "bfs": 55,
+     "name": "Eglisau",
+     "file": "55.buildings",
+     "buildings": 1016,
+     "box": [
+      2678391,
+      1267224,
+      2683965,
+      1272074
+     ],
+     "year": 2025,
+     "bytes": 898953,
+     "sha256": "c5d1f97e698132a2629e9e8f65dfda4def3a98e52c8fa9e252c303ff5e4486be"
+    },
+    {
+     "bfs": 56,
+     "name": "Embrach",
+     "file": "56.buildings",
+     "buildings": 1405,
+     "box": [
+      2685077,
+      1260639,
+      2689817,
+      1264944
+     ],
+     "year": 2019,
+     "bytes": 1178577,
+     "sha256": "9d8a911557d37393462b0ec197b65f500d4796e3061bfa3b05adeddfdf471d23"
+    },
+    {
+     "bfs": 57,
+     "name": "Freienstein-Teufen",
+     "file": "57.buildings",
+     "buildings": 607,
+     "box": [
+      2683950,
+      1264052,
+      2688376,
+      1268594
+     ],
+     "year": 2025,
+     "bytes": 496659,
+     "sha256": "fab9bd817b5da1a9679d23cafa2c002e5b813b06de08aa819fd22d3b4e727df4"
+    },
+    {
+     "bfs": 58,
+     "name": "Glattfelden",
+     "file": "58.buildings",
+     "buildings": 1285,
+     "box": [
+      2676575,
+      1265820,
+      2682098,
+      1270593
+     ],
+     "year": 2025,
+     "bytes": 960953,
+     "sha256": "b2bc2e82f6ee07835d05f0d1eacb82cf353d3d4727cf6540a731bcf60a4df17a"
+    },
+    {
+     "bfs": 59,
+     "name": "Hochfelden",
+     "file": "59.buildings",
+     "buildings": 398,
+     "box": [
+      2679206,
+      1262925,
+      2681924,
+      1266530
+     ],
+     "year": 2019,
+     "bytes": 324167,
+     "sha256": "da1079c9cab27a6ffbcf713bd753af0a2b2ffa38f0562625828fe15b1bce385f"
+    },
+    {
+     "bfs": 60,
+     "name": "Höri",
+     "file": "60.buildings",
+     "buildings": 536,
+     "box": [
+      2678546,
+      1261006,
+      2681714,
+      1263918
+     ],
+     "year": 2019,
+     "bytes": 430163,
+     "sha256": "60fdc2a34d74ad72ef300f6749567a636b9687bb3820a2e5b059d322ef912959"
+    },
+    {
+     "bfs": 61,
+     "name": "Hüntwangen",
+     "file": "61.buildings",
+     "buildings": 423,
+     "box": [
+      2678264,
+      1270527,
+      2681209,
+      1273293
+     ],
+     "year": 2019,
+     "bytes": 287501,
+     "sha256": "a339f55b7c1ad06389203522d0a25b6257e91f6feb0b4b404c3e76562248c386"
+    },
+    {
+     "bfs": 62,
+     "name": "Kloten",
+     "file": "62.buildings",
+     "buildings": 1882,
+     "box": [
+      2683446,
+      1254530,
+      2689741,
+      1259609
+     ],
+     "year": 2019,
+     "bytes": 1569234,
+     "sha256": "aefd215a60f68f235f2fd40e4a9a962a97e3a4343dc57b8a18177f8b060c0fba"
+    },
+    {
+     "bfs": 63,
+     "name": "Lufingen",
+     "file": "63.buildings",
+     "buildings": 487,
+     "box": [
+      2685418,
+      1257997,
+      2688406,
+      1261294
+     ],
+     "year": 2019,
+     "bytes": 338040,
+     "sha256": "a94411405071f1a0e7b23fe5e2aa3ce8286d60ebd953d617a7d6adb98d9f24d1"
+    },
+    {
+     "bfs": 64,
+     "name": "Nürensdorf",
+     "file": "64.buildings",
+     "buildings": 1178,
+     "box": [
+      2689356,
+      1254528,
+      2693524,
+      1259372
+     ],
+     "year": 2019,
+     "bytes": 940231,
+     "sha256": "fb40f65a983b20659f4f82e8f69327142d31270cf6e3bfa13d2c2220be9e77df"
+    },
+    {
+     "bfs": 65,
+     "name": "Oberembrach",
+     "file": "65.buildings",
+     "buildings": 428,
+     "box": [
+      2687633,
+      1258441,
+      2692121,
+      1262666
+     ],
+     "year": 2019,
+     "bytes": 391007,
+     "sha256": "f2f037ee7d59e7d317c67713aff03c40691a0451d5c7bc66e4227a5b06f96fc2"
+    },
+    {
+     "bfs": 66,
+     "name": "Opfikon",
+     "file": "66.buildings",
+     "buildings": 1411,
+     "box": [
+      2684153,
+      1252256,
+      2687163,
+      1255189
+     ],
+     "year": 2019,
+     "bytes": 1183817,
+     "sha256": "9f076f6ab444382ce37c07a670780bbaa6b3fe7cf67dc5f65b6d4fd930a4aabc"
+    },
+    {
+     "bfs": 67,
+     "name": "Rafz",
+     "file": "67.buildings",
+     "buildings": 1136,
+     "box": [
+      2680946,
+      1271878,
+      2685404,
+      1276522
+     ],
+     "year": 2025,
+     "bytes": 899992,
+     "sha256": "007422f41d118aedbb349eb45c169acef4f06629a0bdb37f2e5007f92314fdb3"
+    },
+    {
+     "bfs": 68,
+     "name": "Rorbas",
+     "file": "68.buildings",
+     "buildings": 584,
+     "box": [
+      2683703,
+      1263661,
+      2686532,
+      1267240
+     ],
+     "year": 2025,
+     "bytes": 460079,
+     "sha256": "ded63eb70c4a3987490fb82182c13f64fa1d5f14513d674732c3156b1fa600fa"
+    },
+    {
+     "bfs": 69,
+     "name": "Wallisellen",
+     "file": "69.buildings",
+     "buildings": 1891,
+     "box": [
+      2685581,
+      1250961,
+      2689124,
+      1254557
+     ],
+     "year": 2019,
+     "bytes": 1564464,
+     "sha256": "273f4aee0c08327024f4d431ce23345b47276e205d47fb7b69cf95b39932a2bf"
+    },
+    {
+     "bfs": 70,
+     "name": "Wasterkingen",
+     "file": "70.buildings",
+     "buildings": 221,
+     "box": [
+      2676552,
+      1270865,
+      2678881,
+      1273849
+     ],
+     "year": 2019,
+     "bytes": 174721,
+     "sha256": "cce6b7b9cafaaa9eabe5f15b44d2f717d0f046753f97ed827dfa5e880ff5e5e7"
+    },
+    {
+     "bfs": 71,
+     "name": "Wil (ZH)",
+     "file": "71.buildings",
+     "buildings": 597,
+     "box": [
+      2678136,
+      1271332,
+      2683158,
+      1276266
+     ],
+     "year": 2025,
+     "bytes": 475649,
+     "sha256": "2636bdb201c8208ace39b351e2dce72d92b043513306c726170e93d2f681028d"
+    },
+    {
+     "bfs": 72,
+     "name": "Winkel",
+     "file": "72.buildings",
+     "buildings": 871,
+     "box": [
+      2682743,
+      1257728,
+      2686035,
+      1262928
+     ],
+     "year": 2019,
+     "bytes": 670187,
+     "sha256": "6f5d45ce46ef1fc6ee944ede2466e680cf98ff725586a4ff160ceb9c098288fe"
+    },
+    {
+     "bfs": 81,
+     "name": "Bachs",
+     "file": "81.buildings",
+     "buildings": 323,
+     "box": [
+      2672448,
+      1262759,
+      2677045,
+      1266626
+     ],
+     "year": 2024,
+     "bytes": 299816,
+     "sha256": "4f0995ab33fd71a926330840163c5f6699bd6c895fa0a2e29c5bf524b9647536"
+    },
+    {
+     "bfs": 82,
+     "name": "Boppelsen",
+     "file": "82.buildings",
+     "buildings": 360,
+     "box": [
+      2671673,
+      1256801,
+      2674055,
+      1259475
+     ],
+     "year": 2024,
+     "bytes": 300020,
+     "sha256": "e22f6e8ebb5ee7ad37bff4a6a2cd699b8436d7ade6cfcba04b9b409ed62e4e80"
+    },
+    {
+     "bfs": 83,
+     "name": "Buchs (ZH)",
+     "file": "83.buildings",
+     "buildings": 753,
+     "box": [
+      2673447,
+      1255700,
+      2677300,
+      1258128
+     ],
+     "year": 2019,
+     "bytes": 638933,
+     "sha256": "e8e2e0f4060aac12e5b50c6d3256a3d7315a56ee871affff7d5c9baf62c9ca76"
+    },
+    {
+     "bfs": 84,
+     "name": "Dällikon",
+     "file": "84.buildings",
+     "buildings": 578,
+     "box": [
+      2673645,
+      1253538,
+      2676415,
+      1255901
+     ],
+     "year": 2019,
+     "bytes": 502030,
+     "sha256": "31326df85c51a8a4146ca0da1a9f73243faf13f84a94978589dc87e14f989db5"
+    },
+    {
+     "bfs": 85,
+     "name": "Dänikon",
+     "file": "85.buildings",
+     "buildings": 302,
+     "box": [
+      2671735,
+      1254209,
+      2674001,
+      1256174
+     ],
+     "year": 2024,
+     "bytes": 254760,
+     "sha256": "f26fe7c0763c698c8d024bb2e7e2444b5890febce7b902783bbb981339d128db"
+    },
+    {
+     "bfs": 86,
+     "name": "Dielsdorf",
+     "file": "86.buildings",
+     "buildings": 827,
+     "box": [
+      2674442,
+      1257244,
+      2678150,
+      1260384
+     ],
+     "year": 2019,
+     "bytes": 714459,
+     "sha256": "610b55d90d9b436bfce9d6c198205f198f07fac7b4f90d3b695b2f5180428b55"
+    },
+    {
+     "bfs": 87,
+     "name": "Hüttikon",
+     "file": "87.buildings",
+     "buildings": 244,
+     "box": [
+      2671077,
+      1254211,
+      2672792,
+      1255992
+     ],
+     "year": 2024,
+     "bytes": 196695,
+     "sha256": "78a2a7706d02b052bf0d522ba9d8699691ebf66f93550820c1ddb52a354a9e57"
+    },
+    {
+     "bfs": 88,
+     "name": "Neerach",
+     "file": "88.buildings",
+     "buildings": 783,
+     "box": [
+      2676493,
+      1260811,
+      2679467,
+      1264666
+     ],
+     "year": 2019,
+     "bytes": 640505,
+     "sha256": "a1f223faaed6a193cbd48b5634a2d66184a16f5694f8e626baef6848523ec3cb"
+    },
+    {
+     "bfs": 89,
+     "name": "Niederglatt",
+     "file": "89.buildings",
+     "buildings": 807,
+     "box": [
+      2678150,
+      1259603,
+      2681578,
+      1261740
+     ],
+     "year": 2019,
+     "bytes": 607110,
+     "sha256": "f3a42f8a0aee40f4af850794f28579562f12f8d8b8324037624d76d04c96e16f"
+    },
+    {
+     "bfs": 90,
+     "name": "Niederhasli",
+     "file": "90.buildings",
+     "buildings": 1442,
+     "box": [
+      2677153,
+      1255520,
+      2681845,
+      1260736
+     ],
+     "year": 2019,
+     "bytes": 1319934,
+     "sha256": "faa202b71b03e5322f821061375048dc7152cd0a2a95b6a8c83fc094fa5cc100"
+    },
+    {
+     "bfs": 91,
+     "name": "Niederweningen",
+     "file": "91.buildings",
+     "buildings": 750,
+     "box": [
+      2669245,
+      1259309,
+      2671808,
+      1264668
+     ],
+     "year": 2024,
+     "bytes": 634622,
+     "sha256": "a842a11b79540339f3333036225550e0ff67a71f17cc55a16a666e5703c44c9d"
+    },
+    {
+     "bfs": 92,
+     "name": "Oberglatt",
+     "file": "92.buildings",
+     "buildings": 859,
+     "box": [
+      2679877,
+      1257448,
+      2683878,
+      1261326
+     ],
+     "year": 2019,
+     "bytes": 646805,
+     "sha256": "fca4b545fa973ec47a70565481d97d6af3cf31ba708766d5a468aed43b6b52db"
+    },
+    {
+     "bfs": 93,
+     "name": "Oberweningen",
+     "file": "93.buildings",
+     "buildings": 368,
+     "box": [
+      2671898,
+      1259497,
+      2673816,
+      1265169
+     ],
+     "year": 2024,
+     "bytes": 333157,
+     "sha256": "3d58f08820277755b494ccf5436962ce25e59e53b30ea9daadbe58d72205e50e"
+    },
+    {
+     "bfs": 94,
+     "name": "Otelfingen",
+     "file": "94.buildings",
+     "buildings": 647,
+     "box": [
+      2669895,
+      1255855,
+      2673965,
+      1259443
+     ],
+     "year": 2024,
+     "bytes": 540165,
+     "sha256": "4ad116e0a48072e729450958971ed713befe2fb6dce0b9bb49e2ceb9231dc952"
+    },
+    {
+     "bfs": 95,
+     "name": "Regensberg",
+     "file": "95.buildings",
+     "buildings": 80,
+     "box": [
+      2672783,
+      1257999,
+      2675993,
+      1259895
+     ],
+     "year": 2019,
+     "bytes": 88633,
+     "sha256": "542a4d59357b45a9943b65f9630b3c878c7ca5c9f67aa489ab5bcc7ae16db464"
+    },
+    {
+     "bfs": 96,
+     "name": "Regensdorf",
+     "file": "96.buildings",
+     "buildings": 1929,
+     "box": [
+      2675582,
+      1252441,
+      2680293,
+      1257250
+     ],
+     "year": 2019,
+     "bytes": 1646277,
+     "sha256": "df9c52e178c62c61639de450ef1f9e0be7f439ea4aa3307fb6fcd464e8530789"
+    },
+    {
+     "bfs": 97,
+     "name": "Rümlang",
+     "file": "97.buildings",
+     "buildings": 1220,
+     "box": [
+      2680074,
+      1253893,
+      2684519,
+      1258176
+     ],
+     "year": 2019,
+     "bytes": 995365,
+     "sha256": "85a4a8b32a6bbcbb39a91233aea42bc207cf971d024002dea69d31e4debc3de0"
+    },
+    {
+     "bfs": 98,
+     "name": "Schleinikon",
+     "file": "98.buildings",
+     "buildings": 286,
+     "box": [
+      2670633,
+      1259407,
+      2672916,
+      1264326
+     ],
+     "year": 2024,
+     "bytes": 281641,
+     "sha256": "8c1ee44e8fc67b55741a8dbf458a9b27972b0bc427f781b47bc906e26a53485b"
+    },
+    {
+     "bfs": 99,
+     "name": "Schöfflisdorf",
+     "file": "99.buildings",
+     "buildings": 348,
+     "box": [
+      2673006,
+      1259900,
+      2674943,
+      1264162
+     ],
+     "year": 2019,
+     "bytes": 283112,
+     "sha256": "a8648d683c3559410c293236f985987e2eb5dc8745ca5163219389c3921a4948"
+    },
+    {
+     "bfs": 100,
+     "name": "Stadel",
+     "file": "100.buildings",
+     "buildings": 807,
+     "box": [
+      2675397,
+      1263209,
+      2679921,
+      1268199
+     ],
+     "year": 2024,
+     "bytes": 815393,
+     "sha256": "4b583599e938c3f6159fb9708dcf20f7bbe923cea8294f3611dc62b80704f1e0"
+    },
+    {
+     "bfs": 101,
+     "name": "Steinmaur",
+     "file": "101.buildings",
+     "buildings": 790,
+     "box": [
+      2673275,
+      1259495,
+      2678292,
+      1263532
+     ],
+     "year": 2019,
+     "bytes": 716003,
+     "sha256": "ec13ab4c9d26d62e40bf429cdfb8336b7004ca5e739f1d8067820c83a20462c0"
+    },
+    {
+     "bfs": 102,
+     "name": "Weiach",
+     "file": "102.buildings",
+     "buildings": 509,
+     "box": [
+      2673450,
+      1265632,
+      2677524,
+      1269583
+     ],
+     "year": 2024,
+     "bytes": 426295,
+     "sha256": "25abe02e319b8dac7958020cefbede910d3714d6b2f74ff42a1dc74fa2c8a7b5"
+    },
+    {
+     "bfs": 111,
+     "name": "Bäretswil",
+     "file": "111.buildings",
+     "buildings": 1471,
+     "box": [
+      2704430,
+      1241465,
+      2711666,
+      1247104
+     ],
+     "year": 2019,
+     "bytes": 1127062,
+     "sha256": "2d80e74a3f09a54242ad68acf760052dbb059fe301ba65b641466c023b850b20"
+    },
+    {
+     "bfs": 112,
+     "name": "Bubikon",
+     "file": "112.buildings",
+     "buildings": 1666,
+     "box": [
+      2701571,
+      1233800,
+      2705843,
+      1238900
+     ],
+     "year": 2022,
+     "bytes": 1375617,
+     "sha256": "c8525a9be7242f32b2fa00b81768235ec792c744bfe40f4ed99a065294981955"
+    },
+    {
+     "bfs": 113,
+     "name": "Dürnten",
+     "file": "113.buildings",
+     "buildings": 1691,
+     "box": [
+      2704831,
+      1235348,
+      2709920,
+      1238575
+     ],
+     "year": 2022,
+     "bytes": 1332306,
+     "sha256": "d69ff14c4f8bf2799db01577a76ccb562cb96e58a7a3a2d6325b14b66aaf3c8b"
+    },
+    {
+     "bfs": 114,
+     "name": "Fischenthal",
+     "file": "114.buildings",
+     "buildings": 1005,
+     "box": [
+      2709614,
+      1240719,
+      2716900,
+      1248312
+     ],
+     "year": 2022,
+     "bytes": 713293,
+     "sha256": "b12391905771733262f338eca47ea972fdd9f62a5ad12673026814e1f61a224f"
+    },
+    {
+     "bfs": 115,
+     "name": "Gossau (ZH)",
+     "file": "115.buildings",
+     "buildings": 2005,
+     "box": [
+      2697375,
+      1237015,
+      2703926,
+      1242690
+     ],
+     "year": 2019,
+     "bytes": 1497171,
+     "sha256": "d43da5a1641a726ed9e7d1bc10f846ce0341173368956877328e95744573690f"
+    },
+    {
+     "bfs": 116,
+     "name": "Grüningen",
+     "file": "116.buildings",
+     "buildings": 917,
+     "box": [
+      2697854,
+      1235815,
+      2702566,
+      1238863
+     ],
+     "year": 2022,
+     "bytes": 762786,
+     "sha256": "5531e13b908cc689b5db98e0f5eaa1ae82e56146f320d2d8dec18282c68fe381"
+    },
+    {
+     "bfs": 117,
+     "name": "Hinwil",
+     "file": "117.buildings",
+     "buildings": 2493,
+     "box": [
+      2703227,
+      1237442,
+      2711238,
+      1242707
+     ],
+     "year": 2019,
+     "bytes": 1914142,
+     "sha256": "6d4c1676ae9a4d4bc407fed50ccda8495e20c7e57e4690102331a1f59579f4ad"
+    },
+    {
+     "bfs": 118,
+     "name": "Rüti (ZH)",
+     "file": "118.buildings",
+     "buildings": 2156,
+     "box": [
+      2705099,
+      1233458,
+      2711016,
+      1236746
+     ],
+     "year": 2022,
+     "bytes": 1683843,
+     "sha256": "b2648a7a31a2f11cc352bbff9446a38f672553c2ef3b8e5e8d454b1454231534"
+    },
+    {
+     "bfs": 119,
+     "name": "Seegräben",
+     "file": "119.buildings",
+     "buildings": 375,
+     "box": [
+      2699339,
+      1242955,
+      2701507,
+      1245648
+     ],
+     "year": 2019,
+     "bytes": 283338,
+     "sha256": "be93aa017a9e8a0013bd5e9e8eb627e03cdfef0e18ba113e1d2515cce8f87c4b"
+    },
+    {
+     "bfs": 120,
+     "name": "Wald (ZH)",
+     "file": "120.buildings",
+     "buildings": 2508,
+     "box": [
+      2709473,
+      1234553,
+      2716175,
+      1241522
+     ],
+     "year": 2022,
+     "bytes": 1986248,
+     "sha256": "24145b2a509546e37738e13d31421ae7c16e915a6fa0bbe2d0114ea808c665cb"
+    },
+    {
+     "bfs": 121,
+     "name": "Wetzikon (ZH)",
+     "file": "121.buildings",
+     "buildings": 3115,
+     "box": [
+      2700146,
+      1239274,
+      2706272,
+      1245087
+     ],
+     "year": 2019,
+     "bytes": 2595369,
+     "sha256": "c24aa7cef778dd875572230ee3c2e7697c8da85f941fb77f45c25183225d68ba"
+    },
+    {
+     "bfs": 131,
+     "name": "Adliswil",
+     "file": "131.buildings",
+     "buildings": 1768,
+     "box": [
+      2680481,
+      1237820,
+      2683342,
+      1242726
+     ],
+     "year": 2019,
+     "bytes": 1520633,
+     "sha256": "96e167069920adc62eac1f98c7616366200c42909ca39643309af425b39c6a73"
+    },
+    {
+     "bfs": 135,
+     "name": "Kilchberg (ZH)",
+     "file": "135.buildings",
+     "buildings": 1393,
+     "box": [
+      2682828,
+      1240448,
+      2684500,
+      1243312
+     ],
+     "year": 2019,
+     "bytes": 1219523,
+     "sha256": "65c38285e3625c9ba499f1b47529781f58ffafb2d1a94d75c8441c0c1eeb3518"
+    },
+    {
+     "bfs": 136,
+     "name": "Langnau am Albis",
+     "file": "136.buildings",
+     "buildings": 1185,
+     "box": [
+      2680605,
+      1234961,
+      2684267,
+      1239425
+     ],
+     "year": 2019,
+     "bytes": 1005893,
+     "sha256": "347529b3d4d0b2e00c4460e87d54cdb495b9e8890eba77fe6784e352bf6cb8f4"
+    },
+    {
+     "bfs": 137,
+     "name": "Oberrieden",
+     "file": "137.buildings",
+     "buildings": 821,
+     "box": [
+      2684402,
+      1235321,
+      2686923,
+      1237456
+     ],
+     "year": 2019,
+     "bytes": 648838,
+     "sha256": "c0c82f30d3b44fc6807e368afced71df1ebeeb4cfc6e28f69118d4bd1e76f6c0"
+    },
+    {
+     "bfs": 138,
+     "name": "Richterswil",
+     "file": "138.buildings",
+     "buildings": 2010,
+     "box": [
+      2692701,
+      1226454,
+      2696878,
+      1230669
+     ],
+     "year": 2022,
+     "bytes": 1739118,
+     "sha256": "2bc6c48226a5f6a3c44ce7619bc6d37ef02357c93f84d994d50cc887382e733a"
+    },
+    {
+     "bfs": 139,
+     "name": "Rüschlikon",
+     "file": "139.buildings",
+     "buildings": 981,
+     "box": [
+      2682588,
+      1238647,
+      2684924,
+      1241145
+     ],
+     "year": 2019,
+     "bytes": 862061,
+     "sha256": "828007c10296cc48641dd7404f70b045a46af316539fde7fce6a2a383164c915"
+    },
+    {
+     "bfs": 141,
+     "name": "Thalwil",
+     "file": "141.buildings",
+     "buildings": 1996,
+     "box": [
+      2683480,
+      1236355,
+      2686329,
+      1239651
+     ],
+     "year": 2019,
+     "bytes": 1726182,
+     "sha256": "b54ecbcd688b4d4892787e26b307831209633d75d8de88a3368accf648495610"
+    },
+    {
+     "bfs": 151,
+     "name": "Erlenbach (ZH)",
+     "file": "151.buildings",
+     "buildings": 1118,
+     "box": [
+      2686797,
+      1238757,
+      2690246,
+      1241052
+     ],
+     "year": 2019,
+     "bytes": 871872,
+     "sha256": "cbbf711a6d47002a3e211c8b4809ae7a23503ed26cf9d4d17a6423f26f7042df"
+    },
+    {
+     "bfs": 152,
+     "name": "Herrliberg",
+     "file": "152.buildings",
+     "buildings": 1381,
+     "box": [
+      2687716,
+      1237506,
+      2692521,
+      1240726
+     ],
+     "year": 2019,
+     "bytes": 1051487,
+     "sha256": "d26f732dbcfd30599b21677e09ca9afcaba3f61c26bb7ebd8aee41be0b647df6"
+    },
+    {
+     "bfs": 153,
+     "name": "Hombrechtikon",
+     "file": "153.buildings",
+     "buildings": 1839,
+     "box": [
+      2697724,
+      1232273,
+      2703423,
+      1236349
+     ],
+     "year": 2022,
+     "bytes": 1434969,
+     "sha256": "f85179f155051e3425312c76ba8add70959be94341a862b4f311a0b58f2ed04c"
+    },
+    {
+     "bfs": 154,
+     "name": "Küsnacht (ZH)",
+     "file": "154.buildings",
+     "buildings": 2803,
+     "box": [
+      2685631,
+      1240212,
+      2692240,
+      1243428
+     ],
+     "year": 2019,
+     "bytes": 2252745,
+     "sha256": "46fada36938fd52c7dd0b36377904ef498c3211799c5b222a3c382315462a8e0"
+    },
+    {
+     "bfs": 155,
+     "name": "Männedorf",
+     "file": "155.buildings",
+     "buildings": 1667,
+     "box": [
+      2693828,
+      1233530,
+      2696614,
+      1236606
+     ],
+     "year": 2019,
+     "bytes": 1265792,
+     "sha256": "98f86fd6d9d530876d361e0e1890175067eac3836ef799782c7c63c60e61d5a9"
+    },
+    {
+     "bfs": 156,
+     "name": "Meilen",
+     "file": "156.buildings",
+     "buildings": 2196,
+     "box": [
+      2688626,
+      1235206,
+      2694182,
+      1239657
+     ],
+     "year": 2019,
+     "bytes": 1857046,
+     "sha256": "cdc09285596fa6881a1d7664ab7c0c3b543e360125e606d8bcc338c285125ae6"
+    },
+    {
+     "bfs": 157,
+     "name": "Oetwil am See",
+     "file": "157.buildings",
+     "buildings": 846,
+     "box": [
+      2695048,
+      1235268,
+      2698982,
+      1238243
+     ],
+     "year": 2019,
+     "bytes": 640416,
+     "sha256": "fd7e9b80323d335821cb29cb4f0212ed70ec9a8bc9a0e5fb279656566a8e8b81"
+    },
+    {
+     "bfs": 158,
+     "name": "Stäfa",
+     "file": "158.buildings",
+     "buildings": 2293,
+     "box": [
+      2696032,
+      1232200,
+      2701154,
+      1235703
+     ],
+     "year": 2022,
+     "bytes": 1902564,
+     "sha256": "2ab44894706017005f8d401732ca0312c6d82db22cfcddf05ba0d0e9f5f14cdb"
+    },
+    {
+     "bfs": 159,
+     "name": "Uetikon am See",
+     "file": "159.buildings",
+     "buildings": 1059,
+     "box": [
+      2692998,
+      1234856,
+      2695211,
+      1237787
+     ],
+     "year": 2019,
+     "bytes": 954415,
+     "sha256": "d46b97159638d47190baed735a263eb5070b9aea670c463977eff570084d46b3"
+    },
+    {
+     "bfs": 160,
+     "name": "Zumikon",
+     "file": "160.buildings",
+     "buildings": 982,
+     "box": [
+      2687989,
+      1241890,
+      2691279,
+      1245030
+     ],
+     "year": 2019,
+     "bytes": 823601,
+     "sha256": "0cec21dbeade350d6fe456635f71f9288195178aea9f39afc66a29b54b794c69"
+    },
+    {
+     "bfs": 161,
+     "name": "Zollikon",
+     "file": "161.buildings",
+     "buildings": 1936,
+     "box": [
+      2685057,
+      1242730,
+      2689787,
+      1245507
+     ],
+     "year": 2019,
+     "bytes": 1611598,
+     "sha256": "9596bd3ddae9b384f66ab90879734f8587f0d8a1df472c8784676d7af4b024e0"
+    },
+    {
+     "bfs": 172,
+     "name": "Fehraltorf",
+     "file": "172.buildings",
+     "buildings": 949,
+     "box": [
+      2697097,
+      1246705,
+      2701010,
+      1251398
+     ],
+     "year": 2019,
+     "bytes": 846988,
+     "sha256": "558ce8c11750d2af3db4c96c09c3febeb88177810dc328afd219d5a5a97d5617"
+    },
+    {
+     "bfs": 173,
+     "name": "Hittnau",
+     "file": "173.buildings",
+     "buildings": 868,
+     "box": [
+      2703001,
+      1244621,
+      2707158,
+      1249541
+     ],
+     "year": 2019,
+     "bytes": 659314,
+     "sha256": "13109768d1cd00973b3b594ab11ae361b65d6c67504dca23d378ca80726d6d7a"
+    },
+    {
+     "bfs": 176,
+     "name": "Lindau",
+     "file": "176.buildings",
+     "buildings": 1256,
+     "box": [
+      2691821,
+      1252252,
+      2695956,
+      1258228
+     ],
+     "year": 2019,
+     "bytes": 1014619,
+     "sha256": "20b0793b7f9909ad461583f8c6799841b796cae7a83f502310f91bdb678ee04c"
+    },
+    {
+     "bfs": 177,
+     "name": "Pfäffikon",
+     "file": "177.buildings",
+     "buildings": 2146,
+     "box": [
+      2699176,
+      1243859,
+      2705931,
+      1251081
+     ],
+     "year": 2019,
+     "bytes": 1787281,
+     "sha256": "0ee1e6fd06ead8239e733d2513631d675901beead1dcb95a4a9b69e77557db3d"
+    },
+    {
+     "bfs": 178,
+     "name": "Russikon",
+     "file": "178.buildings",
+     "buildings": 1119,
+     "box": [
+      2699082,
+      1248606,
+      2704062,
+      1253579
+     ],
+     "year": 2019,
+     "bytes": 858582,
+     "sha256": "c440362d39f09c168f3b9319ab433e41b816b587604f0d6ad2d46ecc0b609f5d"
+    },
+    {
+     "bfs": 180,
+     "name": "Weisslingen",
+     "file": "180.buildings",
+     "buildings": 925,
+     "box": [
+      2698625,
+      1251880,
+      2703121,
+      1256917
+     ],
+     "year": 2019,
+     "bytes": 778035,
+     "sha256": "0861b3ae72a21d397b025bcd8b9eb10aa76e0845d4bc5790c08182e750740f01"
+    },
+    {
+     "bfs": 181,
+     "name": "Wila",
+     "file": "181.buildings",
+     "buildings": 630,
+     "box": [
+      2704927,
+      1249890,
+      2710773,
+      1254441
+     ],
+     "year": 2019,
+     "bytes": 482020,
+     "sha256": "1e0e2f62b3f76cced139bc752e466205ff5051a36832e7f4c059bde018266965"
+    },
+    {
+     "bfs": 182,
+     "name": "Wildberg",
+     "file": "182.buildings",
+     "buildings": 500,
+     "box": [
+      2702929,
+      1250386,
+      2706974,
+      1255362
+     ],
+     "year": 2019,
+     "bytes": 363592,
+     "sha256": "9c01e2ff761ff6cad04746911ad4b114c3ddc76788176afc4ee889adddb9a723"
+    },
+    {
+     "bfs": 191,
+     "name": "Dübendorf",
+     "file": "191.buildings",
+     "buildings": 3038,
+     "box": [
+      2686408,
+      1246884,
+      2691668,
+      1251628
+     ],
+     "year": 2019,
+     "bytes": 2556688,
+     "sha256": "e5deb515793402c53ca6c0d191e9af602c88107845ccb6f5b6db1b06ea211272"
+    },
+    {
+     "bfs": 192,
+     "name": "Egg",
+     "file": "192.buildings",
+     "buildings": 1647,
+     "box": [
+      2692068,
+      1236811,
+      2698325,
+      1241863
+     ],
+     "year": 2019,
+     "bytes": 1309886,
+     "sha256": "d5fa08371f8231a99b4748e327b74c57dc33790650d4b97281911b978f277d58"
+    },
+    {
+     "bfs": 193,
+     "name": "Fällanden",
+     "file": "193.buildings",
+     "buildings": 854,
+     "box": [
+      2688843,
+      1245822,
+      2692045,
+      1248754
+     ],
+     "year": 2019,
+     "bytes": 758614,
+     "sha256": "229f938f94277732d2b5a486efb2ac51ccb9cb3e68e1f11f8f8069202bc21f1d"
+    },
+    {
+     "bfs": 194,
+     "name": "Greifensee",
+     "file": "194.buildings",
+     "buildings": 439,
+     "box": [
+      2692648,
+      1245434,
+      2694992,
+      1248345
+     ],
+     "year": 2019,
+     "bytes": 376138,
+     "sha256": "0d97285e980b11d4efa3985c66e640d57811965ab2e9a063d0156b99519fe50d"
+    },
+    {
+     "bfs": 195,
+     "name": "Maur",
+     "file": "195.buildings",
+     "buildings": 1767,
+     "box": [
+      2689347,
+      1240426,
+      2695194,
+      1246354
+     ],
+     "year": 2019,
+     "bytes": 1362902,
+     "sha256": "b8894c7c0c0ca6066fab46fcd6df006c78def62105a01e13b3365dfd0b1f593b"
+    },
+    {
+     "bfs": 196,
+     "name": "Mönchaltorf",
+     "file": "196.buildings",
+     "buildings": 715,
+     "box": [
+      2695149,
+      1238981,
+      2700228,
+      1243650
+     ],
+     "year": 2019,
+     "bytes": 516715,
+     "sha256": "e89edd073d1f2a95e96531281659c6070459a8067add958d6f044f0bd20c90f6"
+    },
+    {
+     "bfs": 197,
+     "name": "Schwerzenbach",
+     "file": "197.buildings",
+     "buildings": 552,
+     "box": [
+      2690897,
+      1247492,
+      2693002,
+      1249929
+     ],
+     "year": 2019,
+     "bytes": 460849,
+     "sha256": "91d16507979350b6805bfa4abdd1db00aa2732e97376a9ed3d89f83546e7018e"
+    },
+    {
+     "bfs": 198,
+     "name": "Uster",
+     "file": "198.buildings",
+     "buildings": 4483,
+     "box": [
+      2693564,
+      1241810,
+      2699888,
+      1248884
+     ],
+     "year": 2019,
+     "bytes": 3507711,
+     "sha256": "b3ec8e36c6fbdea36efe8b86182817adf6ace87e92ca7c995d1d737cbb5b9edf"
+    },
+    {
+     "bfs": 199,
+     "name": "Volketswil",
+     "file": "199.buildings",
+     "buildings": 2109,
+     "box": [
+      2691541,
+      1247797,
+      2697751,
+      1252366
+     ],
+     "year": 2019,
+     "bytes": 1838434,
+     "sha256": "05492d7fecbf5dc745ed85f565a16ac238f0f5dc51d87530ebe4b3d87f05b034"
+    },
+    {
+     "bfs": 200,
+     "name": "Wangen-Brüttisellen",
+     "file": "200.buildings",
+     "buildings": 1155,
+     "box": [
+      2689293,
+      1250123,
+      2693009,
+      1254014
+     ],
+     "year": 2019,
+     "bytes": 976706,
+     "sha256": "0fe452f597d2c81d46e8e7bc9a9266abcc4a37744084bd5642c454218cb49d88"
+    },
+    {
+     "bfs": 211,
+     "name": "Altikon",
+     "file": "211.buildings",
+     "buildings": 370,
+     "box": [
+      2699500,
+      1268992,
+      2703205,
+      1272191
+     ],
+     "year": 2019,
+     "bytes": 406609,
+     "sha256": "102415fe4a66b511200d4e526af59f1173f8ca72077bc3c1fe9d135f296543ee"
+    },
+    {
+     "bfs": 213,
+     "name": "Brütten",
+     "file": "213.buildings",
+     "buildings": 525,
+     "box": [
+      2691409,
+      1257357,
+      2695098,
+      1260657
+     ],
+     "year": 2019,
+     "bytes": 425493,
+     "sha256": "fb04085a51b6fa05c6810e53abb3ca8c4fd2d4222a6cdd2d71344541bb80e16e"
+    },
+    {
+     "bfs": 214,
+     "name": "Dägerlen",
+     "file": "214.buildings",
+     "buildings": 397,
+     "box": [
+      2694776,
+      1266759,
+      2698605,
+      1270836
+     ],
+     "year": 2019,
+     "bytes": 400856,
+     "sha256": "22b633429f02c7a31ae2882082f9f92fd40f57b30b452dcea4a652e3d8c03f88"
+    },
+    {
+     "bfs": 215,
+     "name": "Dättlikon",
+     "file": "215.buildings",
+     "buildings": 282,
+     "box": [
+      2687929,
+      1263918,
+      2690527,
+      1265854
+     ],
+     "year": 2019,
+     "bytes": 225797,
+     "sha256": "6d0df3edb990aa772bb3c1fccb325ea62d0032fbd7ac94b502e35c0326361d42"
+    },
+    {
+     "bfs": 216,
+     "name": "Dinhard",
+     "file": "216.buildings",
+     "buildings": 556,
+     "box": [
+      2698071,
+      1266732,
+      2701384,
+      1270157
+     ],
+     "year": 2019,
+     "bytes": 524476,
+     "sha256": "8d14524b4e35b1d0f50cc2ec84439788cb341fa22bd7869907248fd5735fdfdc"
+    },
+    {
+     "bfs": 218,
+     "name": "Ellikon an der Thur",
+     "file": "218.buildings",
+     "buildings": 396,
+     "box": [
+      2702578,
+      1267675,
+      2706301,
+      1270117
+     ],
+     "year": 2019,
+     "bytes": 345912,
+     "sha256": "229a940650a8c165be264beaa630a39ea42480cd14560fd2361cc69912b7eb26"
+    },
+    {
+     "bfs": 219,
+     "name": "Elsau",
+     "file": "219.buildings",
+     "buildings": 1046,
+     "box": [
+      2700976,
+      1260262,
+      2704932,
+      1264082
+     ],
+     "year": 2019,
+     "bytes": 827612,
+     "sha256": "cfd1aa33d3ae2e17b8eb2f17c62e27f6cde29f1adff873ff44ce3908413538b2"
+    },
+    {
+     "bfs": 220,
+     "name": "Hagenbuch",
+     "file": "220.buildings",
+     "buildings": 457,
+     "box": [
+      2706064,
+      1262152,
+      2709930,
+      1265299
+     ],
+     "year": 2019,
+     "bytes": 386552,
+     "sha256": "1a981bdcfa0266e28c87f050e365c6e7f5efc12b163f7662e72ff09914285537"
+    },
+    {
+     "bfs": 221,
+     "name": "Hettlingen",
+     "file": "221.buildings",
+     "buildings": 800,
+     "box": [
+      2693993,
+      1265435,
+      2697188,
+      1268869
+     ],
+     "year": 2019,
+     "bytes": 570986,
+     "sha256": "33aeeb64ee43f35ffc0828e09dada102d95ed01483e7ee25c43cfa64411db9c1"
+    },
+    {
+     "bfs": 223,
+     "name": "Neftenbach",
+     "file": "223.buildings",
+     "buildings": 1442,
+     "box": [
+      2689971,
+      1263508,
+      2694832,
+      1268681
+     ],
+     "year": 2019,
+     "bytes": 1169355,
+     "sha256": "a31e87dced580538af34c26c8b3b9709976f1c1ea0ad7d78bc0441e090c1402e"
+    },
+    {
+     "bfs": 224,
+     "name": "Pfungen",
+     "file": "224.buildings",
+     "buildings": 750,
+     "box": [
+      2688799,
+      1261456,
+      2692082,
+      1264151
+     ],
+     "year": 2019,
+     "bytes": 606868,
+     "sha256": "e7d895a936570aa699271d45767860c1de8adbe8eacd938985de2173083c0a18"
+    },
+    {
+     "bfs": 225,
+     "name": "Rickenbach (ZH)",
+     "file": "225.buildings",
+     "buildings": 737,
+     "box": [
+      2700667,
+      1265704,
+      2703487,
+      1269343
+     ],
+     "year": 2019,
+     "bytes": 583426,
+     "sha256": "dfdaab3bce280519e31893beb2ce4bcec97b5dcd7168399b5ed8c83c02ba09df"
+    },
+    {
+     "bfs": 226,
+     "name": "Schlatt (ZH)",
+     "file": "226.buildings",
+     "buildings": 376,
+     "box": [
+      2702283,
+      1256857,
+      2707273,
+      1260687
+     ],
+     "year": 2019,
+     "bytes": 335148,
+     "sha256": "7b5cad542b8300fd2efae5f4c6ca50040a69749091a7c72fe9e2b6b4a4c3ed38"
+    },
+    {
+     "bfs": 227,
+     "name": "Seuzach",
+     "file": "227.buildings",
+     "buildings": 1478,
+     "box": [
+      2694868,
+      1264100,
+      2699101,
+      1267287
+     ],
+     "year": 2019,
+     "bytes": 1156212,
+     "sha256": "9f9c4dce390bdb838b61c5903cf1fa09c60aa52cab5646206038d4edbcc147dd"
+    },
+    {
+     "bfs": 228,
+     "name": "Turbenthal",
+     "file": "228.buildings",
+     "buildings": 1327,
+     "box": [
+      2704950,
+      1251095,
+      2712738,
+      1258008
+     ],
+     "year": 2019,
+     "bytes": 1020149,
+     "sha256": "3f9be60fb8f68f310dd26128fbb2f79d01aab4866977c4889ce18c066bab8837"
+    },
+    {
+     "bfs": 230,
+     "name": "Winterthur",
+     "file": "230-1.buildings",
+     "buildings": 5842,
+     "box": [
+      2691997,
+      1256843,
+      2697547,
+      1265106
+     ],
+     "year": 2019,
+     "bytes": 4972922,
+     "sha256": "dc4336eb0894cc1133d0ffee18a07d76719abcefe91cbfa83a401490fd2c1103"
+    },
+    {
+     "bfs": 230,
+     "name": "Winterthur",
+     "file": "230-2.buildings",
+     "buildings": 5842,
+     "box": [
+      2697491,
+      1257611,
+      2702893,
+      1266781
+     ],
+     "year": 2019,
+     "bytes": 4932031,
+     "sha256": "2ef7b2db1a576a2ae6f4dace10cbe8b01cc6f2bb20143bd888617ffaef1f0c72"
+    },
+    {
+     "bfs": 231,
+     "name": "Zell (ZH)",
+     "file": "231.buildings",
+     "buildings": 1432,
+     "box": [
+      2699742,
+      1254196,
+      2706249,
+      1258350
+     ],
+     "year": 2019,
+     "bytes": 1086743,
+     "sha256": "d2f019d5a4e5b6baf0c7b433f43aaa59cf70afb22b679d8b03a8ea5effacfce5"
+    },
+    {
+     "bfs": 241,
+     "name": "Aesch (ZH)",
+     "file": "241.buildings",
+     "buildings": 409,
+     "box": [
+      2673609,
+      1241970,
+      2676835,
+      1244457
+     ],
+     "year": 2024,
+     "bytes": 355837,
+     "sha256": "59628dc5e8372f9ccb63d07346bb343c98fc135b5c0cbcea9b508ad31a1f8b48"
+    },
+    {
+     "bfs": 242,
+     "name": "Birmensdorf (ZH)",
+     "file": "242.buildings",
+     "buildings": 1150,
+     "box": [
+      2672937,
+      1243142,
+      2678289,
+      1246956
+     ],
+     "year": 2024,
+     "bytes": 873034,
+     "sha256": "fb33c70b205f66cd3529367af21efc5ba4573e11842fd2c4a6d1f11914be325f"
+    },
+    {
+     "bfs": 243,
+     "name": "Dietikon",
+     "file": "243.buildings",
+     "buildings": 2305,
+     "box": [
+      2669738,
+      1247547,
+      2675125,
+      1253451
+     ],
+     "year": 2024,
+     "bytes": 1904295,
+     "sha256": "5bc1b614d899ae89b8402393f5e7ad248c599629d6d18d1ddf3d0df0e84e6748"
+    },
+    {
+     "bfs": 244,
+     "name": "Geroldswil",
+     "file": "244.buildings",
+     "buildings": 671,
+     "box": [
+      2672711,
+      1251496,
+      2674275,
+      1253682
+     ],
+     "year": 2019,
+     "bytes": 557273,
+     "sha256": "af0c410f0705e46f5e4864815774465c6db02db7fdac71440f0a77ee676827b3"
+    },
+    {
+     "bfs": 245,
+     "name": "Oberengstringen",
+     "file": "245.buildings",
+     "buildings": 598,
+     "box": [
+      2676461,
+      1250746,
+      2678468,
+      1252777
+     ],
+     "year": 2019,
+     "bytes": 470842,
+     "sha256": "015ad4f6ac3a02716c819c6e3f8acf1adffa637863aec023f8d6c3baee596e18"
+    },
+    {
+     "bfs": 246,
+     "name": "Oetwil an der Limmat",
+     "file": "246.buildings",
+     "buildings": 431,
+     "box": [
+      2670617,
+      1252744,
+      2673943,
+      1254508
+     ],
+     "year": 2024,
+     "bytes": 353126,
+     "sha256": "3d9513673bf182217597f51a9789e8bd6530a72e3fd78b65bbf55915d7b8e3fb"
+    },
+    {
+     "bfs": 247,
+     "name": "Schlieren",
+     "file": "247.buildings",
+     "buildings": 1312,
+     "box": [
+      2674526,
+      1248203,
+      2678126,
+      1251390
+     ],
+     "year": 2019,
+     "bytes": 1266003,
+     "sha256": "f2e9e8a3f53e2636759a4bf22f7e6a8ff4d6c4a014f8bfc00e4b6c42ee4fd47a"
+    },
+    {
+     "bfs": 248,
+     "name": "Uitikon",
+     "file": "248.buildings",
+     "buildings": 856,
+     "box": [
+      2675289,
+      1245176,
+      2679230,
+      1248203
+     ],
+     "year": 2019,
+     "bytes": 656816,
+     "sha256": "675631391e5d955720d00179c13bddc87d80bfffdd5d5d9d221e4970da8dc8f4"
+    },
+    {
+     "bfs": 249,
+     "name": "Unterengstringen",
+     "file": "249.buildings",
+     "buildings": 625,
+     "box": [
+      2673118,
+      1250406,
+      2677259,
+      1252768
+     ],
+     "year": 2019,
+     "bytes": 528635,
+     "sha256": "5219ef2af43798334b3bb255857b2feb0b964810e88a745f01c48cbc6bee12a1"
+    },
+    {
+     "bfs": 250,
+     "name": "Urdorf",
+     "file": "250.buildings",
+     "buildings": 1090,
+     "box": [
+      2672573,
+      1246521,
+      2676225,
+      1249984
+     ],
+     "year": 2019,
+     "bytes": 903191,
+     "sha256": "45dcddd40d742671710be698a96d6df87d811bc3a342cd8552930472be7efa36"
+    },
+    {
+     "bfs": 251,
+     "name": "Weiningen (ZH)",
+     "file": "251.buildings",
+     "buildings": 743,
+     "box": [
+      2673255,
+      1250948,
+      2676577,
+      1254179
+     ],
+     "year": 2019,
+     "bytes": 570737,
+     "sha256": "48ed1d34633c222668231975f6551ecff40e8296e18c2fc2d0c9fbd8e25d4fc3"
+    },
+    {
+     "bfs": 261,
+     "name": "Zürich",
+     "file": "261-1.buildings",
+     "buildings": 9208,
+     "box": [
+      2677118,
+      1244358,
+      2680493,
+      1253885
+     ],
+     "year": 2019,
+     "bytes": 4842731,
+     "sha256": "7d3a5d0d38e30f4fe4d1f654a61f95090b8fc81af999c55095fe939aa3bf1173"
+    },
+    {
+     "bfs": 261,
+     "name": "Zürich",
+     "file": "261-2.buildings",
+     "buildings": 9208,
+     "box": [
+      2680335,
+      1241905,
+      2681818,
+      1253882
+     ],
+     "year": 2019,
+     "bytes": 5209100,
+     "sha256": "a16b73857299bfdb5464cf413dc5d239f86a7c4c16dc646e363f840ae252dd29"
+    },
+    {
+     "bfs": 261,
+     "name": "Zürich",
+     "file": "261-3.buildings",
+     "buildings": 9208,
+     "box": [
+      2681707,
+      1242073,
+      2682732,
+      1254067
+     ],
+     "year": 2019,
+     "bytes": 6796810,
+     "sha256": "10548ca260e3b9c5fa408d196c4fc6472acbec1a61d44f3d0da3f3c046bc7374"
+    },
+    {
+     "bfs": 261,
+     "name": "Zürich",
+     "file": "261-4.buildings",
+     "buildings": 9208,
+     "box": [
+      2682653,
+      1242729,
+      2683684,
+      1254035
+     ],
+     "year": 2019,
+     "bytes": 7231430,
+     "sha256": "45c6b1a2ed107d8a03ecc9b6a5344f5f07c689c7b95929d9ac2d5d037716953b"
+    },
+    {
+     "bfs": 261,
+     "name": "Zürich",
+     "file": "261-5.buildings",
+     "buildings": 9207,
+     "box": [
+      2683628,
+      1244920,
+      2684830,
+      1253966
+     ],
+     "year": 2019,
+     "bytes": 7252406,
+     "sha256": "21148bf37e5ea53e071f28340b988edbead0b2a8497553d9a8e12f98e399738b"
+    },
+    {
+     "bfs": 261,
+     "name": "Zürich",
+     "file": "261-6.buildings",
+     "buildings": 9207,
+     "box": [
+      2684788,
+      1244531,
+      2689381,
+      1252661
+     ],
+     "year": 2019,
+     "bytes": 5168307,
+     "sha256": "ec026f8a8cc7f9cd100d172a71be9f81055d4f65222bbabd324c46d67b57bf97"
+    },
+    {
+     "bfs": 291,
+     "name": "Andelfingen",
+     "file": "291.buildings",
+     "buildings": 1183,
+     "box": [
+      2690363,
+      1268730,
+      2697489,
+      1273704
+     ],
+     "year": 2019,
+     "bytes": 945708,
+     "sha256": "3b3d316d286e8f5d88a8ccfdef8ccd2884fe1e5eb9b45c52fd2975419e883fec"
+    },
+    {
+     "bfs": 292,
+     "name": "Stammheim",
+     "file": "292.buildings",
+     "buildings": 1364,
+     "box": [
+      2698137,
+      1273161,
+      2704389,
+      1280296
+     ],
+     "year": 2019,
+     "bytes": 1127482,
+     "sha256": "f1c00a6ad89094b2bb180053be256078b55de27cdf4c22606028d9c8340e7a4d"
+    },
+    {
+     "bfs": 293,
+     "name": "Wädenswil",
+     "file": "293.buildings",
+     "buildings": 4326,
+     "box": [
+      2689148,
+      1223896,
+      2695048,
+      1234148
+     ],
+     "year": 2022,
+     "bytes": 3686946,
+     "sha256": "b7cc3ecbf011369f3d09b8fe14b46100c62b06d11e7d6b0a158607a610ee8548"
+    },
+    {
+     "bfs": 294,
+     "name": "Elgg",
+     "file": "294.buildings",
+     "buildings": 1432,
+     "box": [
+      2703992,
+      1256057,
+      2709963,
+      1263430
+     ],
+     "year": 2019,
+     "bytes": 1374347,
+     "sha256": "d6e6ac10252df2271c18eda5c906f9f7f77bb8f15f9274f3c645af5a36448edc"
+    },
+    {
+     "bfs": 295,
+     "name": "Horgen",
+     "file": "295.buildings",
+     "buildings": 3336,
+     "box": [
+      2683012,
+      1228267,
+      2690443,
+      1236373
+     ],
+     "year": 2019,
+     "bytes": 2700298,
+     "sha256": "b9a18eddb62eb718a414937cc123d8e8a39d5aaf71f99cb02a88f297e814cc4d"
+    },
+    {
+     "bfs": 296,
+     "name": "Illnau-Effretikon",
+     "file": "296.buildings",
+     "buildings": 2741,
+     "box": [
+      2692987,
+      1250000,
+      2700728,
+      1258390
+     ],
+     "year": 2019,
+     "bytes": 2332910,
+     "sha256": "3aedf90f81a1852c9048333852bfc57450077323420623b9f07e721165405ae2"
+    },
+    {
+     "bfs": 297,
+     "name": "Bauma",
+     "file": "297.buildings",
+     "buildings": 1680,
+     "box": [
+      2705663,
+      1245116,
+      2713653,
+      1251120
+     ],
+     "year": 2022,
+     "bytes": 1312860,
+     "sha256": "dff237807abeac69b0e76968e86ebf4bb33ba1bddfa0cd539c16876cd68f16a4"
+    },
+    {
+     "bfs": 298,
+     "name": "Wiesendangen",
+     "file": "298.buildings",
+     "buildings": 1873,
+     "box": [
+      2700057,
+      1263099,
+      2708089,
+      1267927
+     ],
+     "year": 2019,
+     "bytes": 1536199,
+     "sha256": "dca83a3da23b431749fee7f9b55360874c6547357fb101da8d89c8cecd8e6157"
+    }
+   ],
+   "base": "https://github.com/orocoro/pubup/releases/download/skizze-buildings-ZH/"
+  }
+ ]
+}
