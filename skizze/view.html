@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Skizze – Shared view</title>
+<link rel="stylesheet" href="style.css">
+<style>
+.open { display: inline-block; margin: 8px 0 4px; padding: 12px 22px; border-radius: 12px; background: var(--brand); color: var(--bg); font-weight: 600; text-decoration: none; }
+.place { font-size: 1.35em; font-weight: 600; margin: 12px 0 0; }
+#bad { display: none; }
+</style>
+</head>
+<body>
+<main>
+<header><img src="icon.png" alt=""><h1 id="title">Shared view</h1></header>
+<!-- A view link from Skizze (docs/11-save-and-share.md). This page only reads its own address and
+     hands the same query to the app; it loads nothing and sends nothing anywhere. -->
+<div id="good">
+<p class="place" id="name"></p>
+<p id="lead">Someone shared a view of Switzerland drawn in Skizze.</p>
+<p><a class="open" id="open" href="skizze://view">Open in Skizze</a></p>
+<p class="lang" id="hint">Skizze is an iPhone and iPad app. If nothing happens, Skizze is not installed on this device.</p>
+<p><a id="geo" href="https://map.geo.admin.ch">See the place on map.geo.admin.ch</a></p>
+</div>
+<p id="bad">This link is incomplete. Ask for the view to be shared again.</p>
+<footer><a href="index.html" id="help">About Skizze</a> · <a href="privacy.html" id="privacy">Privacy policy</a></footer>
+</main>
+<script>
+(function () {
+  var text = {
+    en: { title: "Shared view", lead: "Someone shared a view of Switzerland drawn in Skizze.", open: "Open in Skizze",
+          hint: "Skizze is an iPhone and iPad app. If nothing happens, Skizze is not installed on this device.",
+          geo: "See the place on map.geo.admin.ch", bad: "This link is incomplete. Ask for the view to be shared again.",
+          help: "About Skizze", privacy: "Privacy policy" },
+    de: { title: "Geteilte Ansicht", lead: "Jemand hat eine in Skizze gezeichnete Ansicht der Schweiz geteilt.", open: "In Skizze öffnen",
+          hint: "Skizze ist eine App für iPhone und iPad. Wenn nichts passiert, ist Skizze auf diesem Gerät nicht installiert.",
+          geo: "Den Ort auf map.geo.admin.ch ansehen", bad: "Dieser Link ist unvollständig. Bitten Sie darum, die Ansicht nochmals zu teilen.",
+          help: "Über Skizze", privacy: "Datenschutzerklärung" },
+    fr: { title: "Vue partagée", lead: "Quelqu’un a partagé une vue de la Suisse dessinée dans Skizze.", open: "Ouvrir dans Skizze",
+          hint: "Skizze est une app pour iPhone et iPad. Si rien ne se passe, Skizze n’est pas installée sur cet appareil.",
+          geo: "Voir le lieu sur map.geo.admin.ch", bad: "Ce lien est incomplet. Demandez que la vue soit partagée à nouveau.",
+          help: "À propos de Skizze", privacy: "Politique de confidentialité" },
+    it: { title: "Vista condivisa", lead: "Qualcuno ha condiviso una vista della Svizzera disegnata in Skizze.", open: "Apri in Skizze",
+          hint: "Skizze è un’app per iPhone e iPad. Se non succede nulla, Skizze non è installata su questo dispositivo.",
+          geo: "Vedi il luogo su map.geo.admin.ch", bad: "Questo link è incompleto. Chieda di condividere di nuovo la vista.",
+          help: "Informazioni su Skizze", privacy: "Informativa sulla privacy" }
+  };
+  var lang = (navigator.language || "en").slice(0, 2).toLowerCase();
+  var t = text[lang] || text.en;
+  document.documentElement.lang = text[lang] ? lang : "en";
+  ["title", "lead", "open", "hint", "geo", "bad", "help", "privacy"].forEach(function (id) {
+    document.getElementById(id).textContent = t[id];
+  });
+  document.title = "Skizze – " + t.title;
+
+  var q = new URLSearchParams(location.search);
+  var e = parseFloat(q.get("e")), n = parseFloat(q.get("n"));
+  // Roughly Switzerland in LV95 (the app checks again).
+  if (!(e > 2400000 && e < 2900000 && n > 1000000 && n < 1350000)) {
+    document.getElementById("good").style.display = "none";
+    document.getElementById("bad").style.display = "block";
+    return;
+  }
+  var name = (q.get("name") || "").trim().slice(0, 80);
+  document.getElementById("name").textContent = name || "Skizze";
+  document.getElementById("open").href = "skizze://view" + location.search;
+  document.getElementById("geo").href = "https://map.geo.admin.ch/#/map?center=" +
+    Math.round(e) + "," + Math.round(n) + "&z=6";
+})();
+</script>
+</body>
+</html>
