@@ -24,6 +24,11 @@ Any rights in individual contents of the database are licensed under the
 <a href="https://opendatacommons.org/licenses/dbcl/1-0/">Database Contents License</a>.</p>
 <p>The data is not confirmed by the communes. Contact details from the cantons of Bern
 and Basel-Landschaft and live results from Apple Maps are not part of this file.</p>
+<h2>Data updates for the app</h2>
+<p><a href="manifest.json">manifest.json</a> lists data files (such as waste collection
+dates or vote days) that replace the copies built into the app, each with its SHA-256.
+The app checks it at most every six hours. An empty list means the app uses its built-in data.
+It is built with <code>Guichet/Tools/RemoteData/build_manifest.py</code> in the app repository.</p>
 <p><a href="../index.html">Porta</a></p>
 </main>
 </body>

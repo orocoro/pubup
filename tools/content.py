@@ -83,7 +83,8 @@ PRIVACY = {
             "<li>Federal Chancellery, News Service Bund ({news}): the latest federal press releases under “News &amp; Media”. The list is the same for all of Switzerland.</li>"
             "<li>Your home canton, if it publishes its press releases as a feed ({cantons}): its latest press releases on “My commune”. The canton sees that someone loads its press releases, but not which commune you chose.</li>"
             "<li>{links} and other official federal, cantonal and commune websites: only when you open a link.</li>"
-            "<li>Switzerland Tourism and partners ({photos}): photos in Discover.</li></ul>"),
+            "<li>Switzerland Tourism and partners ({photos}): photos in Discover.</li>"
+            "<li>GitHub Pages (orocoro.github.io), at most every six hours: a small list of data updates, such as new waste collection dates or vote days. The list and the files are the same for everyone, so the request does not reveal which commune you chose.</li></ul>"),
         ("If you contact us", "<p>If you write to us by e-mail, we use your address and message only to answer you, and delete them when they are no longer needed for that.</p>"),
         ("This website", "<p>This page is hosted on GitHub Pages by GitHub, Inc. in the United States. GitHub may log your IP address when you visit it, under the <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>; this can mean your IP address is processed abroad. The page uses no cookies and no tracking. E-mails to us are handled by Proton AG in Switzerland.</p>"),
         ("Children", "<p>The app is not directed at children and collects no data from anyone.</p>"),
@@ -106,7 +107,8 @@ PRIVACY = {
             "<li>Schweizerische Bundeskanzlei, News Service Bund ({news}): die neusten Medienmitteilungen des Bundes unter «News &amp; Medien». Die Liste ist für die ganze Schweiz dieselbe.</li>"
             "<li>Ihr Wohnkanton, wenn er seine Medienmitteilungen als Feed veröffentlicht ({cantons}): seine neusten Medienmitteilungen auf «Meine Gemeinde». Der Kanton sieht dabei, dass jemand seine Mitteilungen lädt, aber nicht, welche Gemeinde Sie gewählt haben.</li>"
             "<li>{links} sowie weitere offizielle Seiten von Bund, Kantonen und Gemeinden: nur, wenn Sie einen Link öffnen.</li>"
-            "<li>Schweiz Tourismus und Partner ({photos}): Fotos in Discover.</li></ul>"),
+            "<li>Schweiz Tourismus und Partner ({photos}): Fotos in Discover.</li>"
+            "<li>GitHub Pages (orocoro.github.io), höchstens alle sechs Stunden: eine kleine Liste mit Datenaktualisierungen, etwa neuen Abfuhrdaten oder Abstimmungsterminen. Liste und Dateien sind für alle gleich; die Anfrage verrät also nicht, welche Gemeinde Sie gewählt haben.</li></ul>"),
         ("Wenn Sie uns schreiben", "<p>Wenn Sie uns per E-Mail kontaktieren, verwenden wir Ihre Adresse und Nachricht nur, um Ihnen zu antworten, und löschen sie, sobald sie dafür nicht mehr nötig sind.</p>"),
         ("Diese Website", "<p>Diese Seite wird über GitHub Pages von GitHub, Inc. in den USA bereitgestellt. GitHub kann beim Aufruf Ihre IP-Adresse protokollieren, gemäss dem <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>; Ihre IP-Adresse kann dabei im Ausland bearbeitet werden. Die Seite verwendet keine Cookies und kein Tracking. E-Mails an uns laufen über Proton AG in der Schweiz.</p>"),
         ("Kinder", "<p>Die App richtet sich nicht an Kinder und erhebt von niemandem Daten.</p>"),
@@ -129,7 +131,8 @@ PRIVACY = {
             "<li>Chancellerie fédérale, News Service Bund ({news}) : les derniers communiqués de presse de la Confédération sous « Actualités &amp; médias ». La liste est la même pour toute la Suisse.</li>"
             "<li>Votre canton de domicile, s’il publie ses communiqués sous forme de flux ({cantons}) : ses derniers communiqués sous « Ma commune ». Le canton voit alors que quelqu’un charge ses communiqués, mais pas quelle commune vous avez choisie.</li>"
             "<li>{links} et autres sites officiels de la Confédération, des cantons et des communes : uniquement lorsque vous ouvrez un lien.</li>"
-            "<li>Suisse Tourisme et partenaires ({photos}) : photos dans Discover.</li></ul>"),
+            "<li>Suisse Tourisme et partenaires ({photos}) : photos dans Discover.</li>"
+            "<li>GitHub Pages (orocoro.github.io), au plus toutes les six heures : une petite liste de mises à jour de données, par exemple de nouvelles dates de collecte des déchets ou de votations. La liste et les fichiers sont les mêmes pour tout le monde ; la requête ne révèle donc pas quelle commune vous avez choisie.</li></ul>"),
         ("Si vous nous écrivez", "<p>Si vous nous contactez par e-mail, nous utilisons votre adresse et votre message uniquement pour vous répondre et les supprimons dès qu’ils ne sont plus nécessaires à cette fin.</p>"),
         ("Ce site", "<p>Cette page est hébergée sur GitHub Pages par GitHub, Inc. aux États-Unis. GitHub peut enregistrer votre adresse IP lors de votre visite, selon la <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a> ; votre adresse IP peut ainsi être traitée à l’étranger. La page n’utilise ni cookies ni pistage. Les e-mails qui nous sont adressés transitent par Proton AG, en Suisse.</p>"),
         ("Enfants", "<p>L’app ne s’adresse pas aux enfants et ne collecte aucune donnée, de personne.</p>"),
@@ -152,7 +155,8 @@ PRIVACY = {
             "<li>Cancelleria federale, News Service Bund ({news}): gli ultimi comunicati stampa della Confederazione in «Notizie &amp; media». L’elenco è lo stesso per tutta la Svizzera.</li>"
             "<li>Il vostro Cantone di domicilio, se pubblica i suoi comunicati come feed ({cantons}): i suoi ultimi comunicati in «Il mio comune». Il Cantone vede così che qualcuno carica i suoi comunicati, ma non quale comune avete scelto.</li>"
             "<li>{links} e altri siti ufficiali di Confederazione, cantoni e comuni: solo quando aprite un link.</li>"
-            "<li>Svizzera Turismo e partner ({photos}): foto in Discover.</li></ul>"),
+            "<li>Svizzera Turismo e partner ({photos}): foto in Discover.</li>"
+            "<li>GitHub Pages (orocoro.github.io), al massimo ogni sei ore: un piccolo elenco di aggiornamenti dei dati, per esempio nuove date di raccolta dei rifiuti o delle votazioni. L’elenco e i file sono gli stessi per tutti; la richiesta non rivela quindi quale comune avete scelto.</li></ul>"),
         ("Se ci scrivete", "<p>Se ci contattate via e-mail, usiamo il vostro indirizzo e il messaggio solo per rispondervi e li eliminiamo quando non servono più a tale scopo.</p>"),
         ("Questo sito", "<p>Questa pagina è ospitata su GitHub Pages da GitHub, Inc. negli Stati Uniti. GitHub può registrare il vostro indirizzo IP durante la visita, secondo il <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>; il vostro indirizzo IP può quindi essere trattato all’estero. La pagina non usa cookie né tracciamento. Le e-mail che ci inviate passano per Proton AG, in Svizzera.</p>"),
         ("Bambini", "<p>L’app non è rivolta ai bambini e non raccoglie dati da nessuno.</p>"),
