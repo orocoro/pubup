@@ -1,11 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-20T14:38:45+00:00",
+  "generated": "2026-11-21T02:18:43+00:00",
   "flags": null,
-  "files": {
-    "waste_stgallen.json": {
-      "sha256": "57a32b30e171b180dbd02f83d67275432547d8114138ef0e145c1cc43726ae63",
-      "bytes": 35060
-    }
-  }
+  "files": {}
 }
