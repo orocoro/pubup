@@ -1,6 +1,11 @@
 {
   "version": 1,
-  "generated": "2026-11-21T02:18:43+00:00",
+  "generated": "2026-11-23T07:06:06+00:00",
   "flags": null,
-  "files": {}
+  "files": {
+    "public_services.json": {
+      "sha256": "30fbf085142d9be781b5befa49b972693a58acd0cc7da58df1d0755a2ec909f5",
+      "bytes": 1464101
+    }
+  }
 }
