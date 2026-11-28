@@ -28,6 +28,11 @@ Public legal pages, served by GitHub Pages from the root of `main`.
   is `Skizze/site/` in orocoro/04xPorj; copy it from there rather than editing
   here.
 
+- **Numen**: support page and privacy policy (English and German) under
+  `numen/` (`https://orocoro.github.io/pubup/numen/` and `/privacy.html`). The
+  source is `Numen/site/` in orocoro/04xPorj; copy it from there rather than
+  editing here.
+
 Porta's pages are generated: edit the text in `tools/content.py` and the
 publisher details in `site.json`, then run `python3 tools/build.py --check`.
 Never edit `porta/` by hand. The policy is written under Swiss law (FADP);
